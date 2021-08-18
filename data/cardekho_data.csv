@@ -1,0 +1,1786 @@
+,brand,model,variant,manufactured_year,kilometers_driven,fuel_type,owners,location,price
+0,Maruti,Eeco,5 Seater AC BSIV,2016,"45,347 Kms",Petrol,1st Owner,Ahmedabad,"3,74,500"
+1,Maruti,Eeco,5 Seater AC,2020,"17,116 Kms",Petrol,1st Owner,Ahmedabad,"4,74,500"
+2,Maruti,Swift Dzire,VXI 1.2,2019,"11,935 Kms",Petrol,1st Owner,Ahmedabad,"6,91,000"
+3,Maruti,Wagon R,VXI,2014,"131,125 Kms",Petrol,1st Owner,Ahmedabad,"3,09,500"
+4,Maruti,Wagon R,VXI,2014,"42,381 Kms",Petrol,1st Owner,Ahmedabad,"3,61,000"
+5,Maruti,Eeco,5 Seater AC BSIV,2019,"14,161 Kms",Petrol,1st Owner,Ahmedabad,"4,48,500"
+6,Maruti,Swift Dzire,VXI 1.2,2019,"9,303 Kms",Petrol,1st Owner,Ahmedabad,"6,88,000"
+7,Maruti,Wagon R,VXI BS IV,2018,"23,197 Kms",Petrol,1st Owner,Ahmedabad,"4,41,500"
+8,Maruti,Wagon R,VXI Plus,2017,"43,031 Kms",Petrol,1st Owner,Ahmedabad,"4,08,500"
+9,Maruti,S-Presso,VXI,2019,"24,230 Kms",Petrol,1st Owner,Ahmedabad,"4,15,500"
+10,Hyundai,Grand i10,CRDi Magna,2015,"71,197 Kms",Diesel,1st Owner,Ahmedabad,"3,63,000"
+11,Hyundai,EON,Magna Plus,2014,"74,637 Kms",Petrol,1st Owner,Ahmedabad,"2,27,500"
+12,Hyundai,Grand i10,Asta,2015,"73,875 Kms",Petrol,1st Owner,Ahmedabad,"4,67,000"
+13,Hyundai,Grand i10,1.2 CRDi Magna,2017,"44,200 kms",Diesel,First Owner,Ahmedabad,5.3 Lakh*
+14,Hyundai,i20,1.4 CRDi Sportz,2011,"1,20,000 kms",Diesel,Fourth & Above Owner,Ahmedabad,2.2 Lakh*
+15,Hyundai,Verna,CRDi 1.6 EX,2018,"62,000 kms",Diesel,First Owner,Ahmedabad,8.51 Lakh*
+16,Hyundai,Verna,1.6 SX CRDi (O),2014,"51,000 kms",Diesel,First Owner,Ahmedabad,5.9 Lakh*
+17,Hyundai,Creta,1.6 CRDi AT SX Plus,2016,"80,000 kms",Diesel,First Owner,Ahmedabad,9.9 Lakh*
+18,Hyundai,i10,Sportz AT,2011,"44,000 kms",Petrol,First Owner,Ahmedabad,3.24 Lakh*
+19,Hyundai,Verna,1.6 VTVT SX,2015,"56,000 kms",Petrol,First Owner,Ahmedabad,6.25 Lakh*
+20,Honda,Amaze,S Option i-VTEC,2017,"59,642 Kms",Petrol,1st Owner,Ahmedabad,"5,34,000"
+21,Honda,City,i-VTEC V,2018,"89,144 Kms",Petrol,1st Owner,Ahmedabad,"8,35,000"
+22,Honda,City,i DTEC V,2015,"71,000 kms",Diesel,First Owner,Ahmedabad,6.51 Lakh*
+23,Honda,Amaze,S i-Dtech,2015,"61,000 kms",Diesel,First Owner,Ahmedabad,4.4 Lakh*
+24,Honda,WR-V,i-DTEC VX,2018,"76,000 kms",Diesel,First Owner,Ahmedabad,8.4 Lakh*
+25,Honda,Amaze,S i-Dtech,2013,"64,600 kms",Diesel,First Owner,Ahmedabad,4 Lakh*
+26,Honda,Amaze,VX AT i-Vtech,2013,"59,000 kms",Petrol,First Owner,Ahmedabad,4.9 Lakh*
+27,Honda,Amaze,S i-Dtech,2014,"67,000 kms",Diesel,First Owner,Ahmedabad,4.4 Lakh*
+28,Honda,City,i-VTEC V,2018,"26,000 kms",Petrol,First Owner,Ahmedabad,9 Lakh*
+29,Honda,Amaze,E i-Dtech,2015,"60,000 kms",Diesel,First Owner,Ahmedabad,4.25 Lakh*
+30,Toyota,Innova,2.5 VX (Diesel) 8 Seater,2013,"94,754 Kms",Diesel,2nd Owner,Ahmedabad,"7,04,500"
+31,Toyota,Etios Liva,GD,2013,"38,000 kms",Diesel,First Owner,Ahmedabad,4.25 Lakh*
+32,Toyota,Etios,1.4 GD,2018,"48,000 kms",Diesel,First Owner,Ahmedabad,6.5 Lakh*
+33,Toyota,Corolla Altis,1.8 JS,2013,"74,000 kms",Petrol,First Owner,Ahmedabad,6.75 Lakh*
+34,Toyota,Fortuner,2.8 2WD AT BSIV,2017,"74,000 kms",Diesel,First Owner,Ahmedabad,27.51 Lakh*
+35,Toyota,Innova,2.5 GX 8 STR BSIV,2012,"88,000 kms",Diesel,First Owner,Ahmedabad,6.25 Lakh*
+36,Toyota,Innova,2.5 GX (Diesel) 8 Seater,2011,"76,000 kms",Diesel,First Owner,Ahmedabad,6 Lakh*
+37,Toyota,Etios,VD,2012,"95,000 kms",Diesel,Second Owner,Ahmedabad,3.9 Lakh*
+38,Toyota,Innova,2.5 VX 7 STR,2012,"1,30,000 kms",Diesel,First Owner,Ahmedabad,7.35 Lakh*
+39,Toyota,Etios,GD,2016,"62,000 kms",Diesel,First Owner,Ahmedabad,5.75 Lakh*
+40,Mahindra,Marazzo,M2 8Str BSIV,2019,"80,000 kms",Diesel,First Owner,Ahmedabad,8.5 Lakh*
+41,Mahindra,Scorpio,1.99 S4 9S,2011,"68,521 kms",Diesel,First Owner,Ahmedabad,4.51 Lakh*
+42,Mahindra,XUV500,W8 2WD,2014,"1,11,000 kms",Diesel,First Owner,Ahmedabad,7.5 Lakh*
+43,Mahindra,TUV 300,T10,2018,"60,000 kms",Diesel,First Owner,Ahmedabad,8.25 Lakh*
+44,Mahindra,Quanto,C6,2012,"32,001 kms",Diesel,First Owner,Ahmedabad,3.25 Lakh*
+45,Mahindra,Thar,CRDe,2019,"12,000 kms",Diesel,Second Owner,Ahmedabad,8.5 Lakh*
+46,Mahindra,XUV500,W8 2WD,2014,"81,100 kms",Diesel,First Owner,Ahmedabad,7.5 Lakh*
+47,Mahindra,XUV500,W10 2WD,2015,"68,000 kms",Diesel,First Owner,Ahmedabad,9.49 Lakh*
+48,Mahindra,Bolero,DI NON AC BS III White,2018,"64,000 kms",Diesel,First Owner,Ahmedabad,7.51 Lakh*
+49,Mahindra,XUV500,R W10 FWD,2015,"86,000 kms",Diesel,Second Owner,Ahmedabad,8.51 Lakh*
+50,Ford,Ecosport,1.5 TDCi Trend BSIV,2016,"42,029 Kms",Diesel,1st Owner,Ahmedabad,"5,77,000"
+51,Ford,Figo Aspire,1.5 TDCi Titanium,2017,"68,000 kms",Diesel,First Owner,Ahmedabad,6 Lakh*
+52,Ford,Endeavour,2.2 Titanium AT 4X2,2016,"1,16,000 kms",Diesel,First Owner,Ahmedabad,23.5 Lakh*
+53,Ford,Figo,Diesel EXI,2012,"56,000 kms",Diesel,First Owner,Ahmedabad,2.75 Lakh*
+54,Ford,Figo,1.5D Titanium MT,2017,"19,000 kms",Diesel,First Owner,Ahmedabad,5.9 Lakh*
+55,Ford,Ecosport,1.5 TDCi Ambiente BSIV,2015,"57,000 kms",Diesel,First Owner,Ahmedabad,5.75 Lakh*
+56,Ford,Figo,Diesel Titanium,2014,"55,412 kms",Diesel,First Owner,Ahmedabad,3.41 Lakh*
+57,Ford,Ecosport,1.5 Diesel Titanium BSIV,2018,"50,000 kms",Diesel,First Owner,Ahmedabad,8.51 Lakh*
+58,Ford,Ecosport,1.5 TDCi Titanium Plus BSIV,2016,"51,000 kms",Diesel,First Owner,Ahmedabad,6.6 Lakh*
+59,Ford,Ecosport,1.5 Diesel Titanium Plus,2016,"51,000 kms",Diesel,First Owner,Ahmedabad,7.75 Lakh*
+60,Volkswagen,Ameo,1.5 TDI Comfortline,2017,"29,000 kms",Diesel,First Owner,Ahmedabad,6 Lakh*
+61,Volkswagen,Vento,Diesel Style Limited Edition,2013,"58,236 kms",Diesel,First Owner,Ahmedabad,4.25 Lakh*
+62,Volkswagen,Vento,1.5 TDI Highline,2014,"5,65,000 kms",Diesel,First Owner,Ahmedabad,5.75 Lakh*
+63,Volkswagen,Vento,Konekt Diesel Highline,2014,"52,000 kms",Diesel,First Owner,Ahmedabad,4.2 Lakh*
+64,Volkswagen,Vento,1.5 TDI Comfortline AT,2015,"68,000 kms",Diesel,First Owner,Ahmedabad,6.5 Lakh*
+65,Volkswagen,Vento,Konekt Diesel Comfortline,2014,"66,000 kms",Diesel,First Owner,Ahmedabad,4 Lakh*
+66,Volkswagen,Jetta,2.0L TDI Comfortline,2012,"87,000 kms",Diesel,Second Owner,Ahmedabad,4.25 Lakh*
+67,Volkswagen,Vento,Diesel Comfortline,2012,"55,000 kms",Diesel,First Owner,Ahmedabad,3.3 Lakh*
+68,Volkswagen,Passat,Diesel Highline 2.0 TDI,2012,"94,000 kms",Diesel,First Owner,Ahmedabad,7.75 Lakh*
+69,Volkswagen,Vento,Konekt Diesel Highline,2014,"55,000 kms",Diesel,First Owner,Ahmedabad,4.2 Lakh*
+70,Tata,Tiago,1.2 Revotron XT,2019,"72,000 kms",Petrol,First Owner,Ahmedabad,4.9 Lakh*
+71,Tata,Nexon,1.5 Revotorq XM,2018,"59,000 kms",Diesel,First Owner,Ahmedabad,7.75 Lakh*
+72,Tata,Nexon,1.5 Revotorq XM,2019,"37,800 kms",Diesel,First Owner,Ahmedabad,8.25 Lakh*
+73,Tata,Nano,Twist XT,2015,"28,900 kms",Petrol,First Owner,Ahmedabad,1.6 Lakh*
+74,Tata,Zest,Quadrajet 1.3 XTA,2016,"66,000 kms",Diesel,First Owner,Ahmedabad,3.9 Lakh*
+75,Tata,Safari Storme,LX,2012,"75,100 kms",Diesel,First Owner,Ahmedabad,3.5 Lakh*
+76,Tata,Indigo,LX (TDI) BS-III,2015,"59,000 kms",Diesel,First Owner,Ahmedabad,2.51 Lakh*
+77,Tata,Nano,Twist XT,2015,"28,000 kms",Petrol,First Owner,Ahmedabad,1.6 Lakh*
+78,Tata,Nano,XT,2017,"50,000 kms",Petrol,Second Owner,Ahmedabad,1.6 Lakh*
+79,Tata,Manza,Club Class Quadrajet90 EX,2010,"54,000 kms",Diesel,Second Owner,Ahmedabad,1.9 Lakh*
+80,Renault,KWID,Climber 1.0 AMT,2017,"16,000 kms",Petrol,First Owner,Ahmedabad,4.25 Lakh*
+81,Renault,Captur,1.5 Diesel RXE,2019,"46,000 kms",Diesel,First Owner,Ahmedabad,7.9 Lakh*
+82,Renault,Duster,85PS Diesel RxE,2013,"63,000 kms",Diesel,Second Owner,Ahmedabad,4 Lakh*
+83,Renault,KWID,RXL,2019,"17,000 kms",Petrol,First Owner,Ahmedabad,3.5 Lakh*
+84,Renault,Duster,110PS Diesel RxZ,2013,"52,000 kms",Diesel,First Owner,Ahmedabad,4.9 Lakh*
+85,Renault,Duster,85PS Diesel RxL,2017,"65,000 kms",Diesel,First Owner,Ahmedabad,7.25 Lakh*
+86,Renault,Pulse,RxL,2013,"21,764 kms",Diesel,First Owner,Ahmedabad,3.5 Lakh*
+87,Renault,Duster,110PS Diesel RxZ,2014,"70,000 kms",Diesel,First Owner,Ahmedabad,5 Lakh*
+88,Renault,KWID,RXT,2016,"28,000 kms",Petrol,First Owner,Ahmedabad,3.7 Lakh*
+89,Renault,Scala,Diesel RxZ,2013,"72,000 kms",Diesel,First Owner,Ahmedabad,2.9 Lakh*
+90,Mercedes-Benz,B Class,B180 Sport,2013,"52,000 kms",Petrol,Second Owner,Ahmedabad,11 Lakh*
+91,Mercedes-Benz,B Class,B180 Sports,2013,"57,000 kms",Petrol,Second Owner,Ahmedabad,12.9 Lakh*
+92,Mercedes-Benz,E-Class,E250 CDI Blue Efficiency,2011,"86,000 kms",Diesel,Third Owner,Ahmedabad,12.5 Lakh*
+93,Mercedes-Benz,New C-Class,220 CDI MT,2014,"85,000 kms",Diesel,Second Owner,Ahmedabad,14 Lakh*
+94,Mercedes-Benz,New C-Class,C 220 CDI BE Avantgare,2010,"51,000 kms",Diesel,First Owner,Ahmedabad,9.5 Lakh*
+95,Mercedes-Benz,New C-Class,C 200 CGI Elegance,2010,"85,000 kms",Petrol,First Owner,Ahmedabad,8.5 Lakh*
+96,Mercedes-Benz,B Class,B180 Sport,2013,"52,000 kms",Petrol,Second Owner,Ahmedabad,11 Lakh*
+97,Mercedes-Benz,E-Class,E 220 CDI Avantgarde,2013,"75,800 kms",Diesel,First Owner,Ahmedabad,16.5 Lakh*
+98,Mercedes-Benz,GLA Class,200 d Sport,2018,"63,205 kms",Diesel,First Owner,Ahmedabad,26.5 Lakh*
+99,Mercedes-Benz,GLA Class,200 d Style,2017,"18,000 kms",Diesel,First Owner,Ahmedabad,27.5 Lakh*
+100,BMW,3 Series,320d Luxury Line,2017,"78,000 kms",Diesel,First Owner,Ahmedabad,26.95 Lakh*
+101,BMW,5 Series,525d,2012,"68,000 kms",Diesel,First Owner,Ahmedabad,16.5 Lakh*
+102,BMW,5 Series,520d Luxury Line,2013,"89,000 kms",Diesel,Second Owner,Ahmedabad,17.9 Lakh*
+103,BMW,5 Series,520d Luxury Line,2013,"76,000 kms",Diesel,First Owner,Ahmedabad,19.5 Lakh*
+104,BMW,5 Series,520d Sedan,2013,"60,000 kms",Diesel,Second Owner,Ahmedabad,18.5 Lakh*
+105,BMW,X5,xDrive 30d,2015,"79,000 kms",Diesel,First Owner,Ahmedabad,32 Lakh*
+106,BMW,X3,xDrive20d M Sport,2017,"33,206 kms",Diesel,First Owner,Ahmedabad,40 Lakh*
+107,BMW,3 Series,320d Luxury Line,2017,"68,000 kms",Diesel,First Owner,Ahmedabad,27 Lakh*
+108,BMW,5 Series,530d M Sport,2018,"22,000 kms",Diesel,First Owner,Ahmedabad,53 Lakh*
+109,BMW,3 Series,320d Luxury Line,2012,"75,000 kms",Diesel,Second Owner,Ahmedabad,9.5 Lakh*
+110,Chevrolet,Spark,1.0 LS,2009,"70,000 kms",Petrol,Second Owner,Ahmedabad,1.4 Lakh*
+111,Chevrolet,Enjoy,TCDi LS 7 Seater,2013,"85,412 kms",Diesel,First Owner,Ahmedabad,3.51 Lakh*
+112,Chevrolet,Tavera,LT L1 9 Seats BSIII,2007,"80,000 kms",Diesel,First Owner,Ahmedabad,2.75 Lakh*
+113,Chevrolet,Beat,LT,2010,"56,000 kms",Petrol,First Owner,Ahmedabad,1.8 Lakh*
+114,Chevrolet,Spark,1.0 LS,2009,"70,000 kms",Petrol,Second Owner,Ahmedabad,1.4 Lakh*
+115,Chevrolet,Cruze,LTZ AT,2010,"1,17,000 kms",Diesel,First Owner,Ahmedabad,3.75 Lakh*
+116,Chevrolet,Tavera,Neo 3 10 Seats BSIII,2016,"90,000 kms",Diesel,First Owner,Ahmedabad,5.6 Lakh*
+117,Chevrolet,Tavera,B1-10 seats BSIII,2006,"1,00,000 kms",Diesel,First Owner,Ahmedabad,2.25 Lakh*
+118,Chevrolet,Enjoy,Petrol LS 7 Seater,2014,"80,000 kms",Petrol,First Owner,Ahmedabad,3.5 Lakh*
+119,Chevrolet,Cruze,LTZ,2009,"1,35,000 kms",Diesel,First Owner,Ahmedabad,5 Lakh*
+120,Audi,A4,2.0 TDI,2009,"1,15,000 kms",Diesel,First Owner,Ahmedabad,9.51 Lakh*
+121,Audi,Q7,45 TDI Quattro Technology,2017,"22,000 kms",Diesel,First Owner,Ahmedabad,58 Lakh*
+122,Audi,A4,2.0 TDI,2012,"70,000 kms",Diesel,First Owner,Ahmedabad,12.11 Lakh*
+123,Audi,Q7,45 TDI Quattro Premium Plus,2016,"76,000 kms",Diesel,First Owner,Ahmedabad,43 Lakh*
+124,Audi,A4,2.0 TDI 177 Bhp Premium Plus,2014,"74,000 kms",Diesel,First Owner,Ahmedabad,14.51 Lakh*
+125,Audi,Q5,2.0 TDI,2011,"80,000 kms",Diesel,First Owner,Ahmedabad,14 Lakh*
+126,Audi,A4,2.0 TDI,2010,"79,000 kms",Diesel,Second Owner,Ahmedabad,8.5 Lakh*
+127,Audi,Q7,3.0 TDI Quattro Premium Plus,2016,"91,000 kms",Diesel,First Owner,Ahmedabad,31.25 Lakh*
+128,Audi,Q7,45 TDI Quattro Premium Plus,2016,"27,000 kms",Diesel,First Owner,Ahmedabad,52 Lakh*
+129,Audi,A4,2.0 TDI,2011,"1,47,000 kms",Diesel,First Owner,Ahmedabad,9.45 Lakh*
+130,Nissan,Sunny,XV,2013,"60,000 kms",Petrol,First Owner,Ahmedabad,4.15 Lakh*
+131,Nissan,Micra,Diesel XV,2013,"52,000 kms",Diesel,First Owner,Ahmedabad,3.25 Lakh*
+132,Nissan,Sunny,Diesel XV,2012,"68,000 kms",Diesel,Second Owner,Ahmedabad,3.35 Lakh*
+133,Nissan,Micra,Diesel XV,2012,"73,000 kms",Diesel,First Owner,Ahmedabad,2.9 Lakh*
+134,Nissan,Sunny,Diesel XL,2014,"73,000 kms",Diesel,Second Owner,Ahmedabad,3.5 Lakh*
+135,Nissan,Evalia,XL,2015,"55,000 kms",Diesel,First Owner,Ahmedabad,4.9 Lakh*
+136,Nissan,Micra,Diesel XV Premium,2013,"52,150 kms",Diesel,First Owner,Ahmedabad,3.25 Lakh*
+137,Nissan,Micra,XV CVT,2014,"77,000 kms",Petrol,Second Owner,Ahmedabad,3.5 Lakh*
+138,Nissan,Micra,XL,2010,"50,000 kms",Petrol,First Owner,Ahmedabad,2.25 Lakh*
+139,Nissan,X-Trail,SLX AT,2011,"1,60,001 kms",Diesel,Second Owner,Ahmedabad,3.5 Lakh*
+140,Skoda,Rapid,1.6 TDI Ambition Plus,2013,"62,000 kms",Diesel,First Owner,Ahmedabad,4.5 Lakh*
+141,Skoda,Rapid,1.6 TDI Ambition,2013,"65,000 kms",Diesel,First Owner,Ahmedabad,4.8 Lakh*
+142,Skoda,Laura,Ambition 2.0 TDI CR MT,2013,"70,001 kms",Diesel,First Owner,Ahmedabad,4.51 Lakh*
+143,Skoda,Rapid,1.6 TDI Elegance,2013,"65,000 kms",Diesel,First Owner,Ahmedabad,3.5 Lakh*
+144,Skoda,Kodiaq,2.0 TDI Style,2018,"41,000 kms",Diesel,First Owner,Ahmedabad,31 Lakh*
+145,Skoda,Rapid,1.5 TDI Active BSIV,2018,"35,830 kms",Diesel,First Owner,Ahmedabad,8.9 Lakh*
+146,Skoda,Kodiaq,2.0 TDI Style,2017,"1,20,000 kms",Diesel,First Owner,Ahmedabad,25.5 Lakh*
+147,Skoda,Kodiaq,2.0 TDI Style,2018,"50,000 kms",Diesel,First Owner,Ahmedabad,30.5 Lakh*
+148,Skoda,Octavia,Elegance 2.0 TDI AT,2015,"61,000 kms",Diesel,First Owner,Ahmedabad,10.9 Lakh*
+149,Skoda,Rapid,1.5 TDI AT Ambition,2015,"58,001 kms",Diesel,First Owner,Ahmedabad,5.45 Lakh*
+150,Datsun,RediGO,1.0 T Option,2017,"14,000 kms",Petrol,First Owner,Ahmedabad,2.75 Lakh*
+151,Datsun,GO,T Petrol,2015,"80,000 kms",Petrol,First Owner,Ahmedabad,2.75 Lakh*
+152,Datsun,RediGO,1.0 T Option,2018,"50,000 kms",Petrol,First Owner,Ahmedabad,2.8 Lakh*
+153,Datsun,RediGO,1.0 T Option,2018,"27,000 kms",Petrol,First Owner,Ahmedabad,2.75 Lakh*
+154,Datsun,RediGO,T Option,2018,"6,000 kms",Petrol,First Owner,Ahmedabad,2.9 Lakh*
+155,Datsun,GO,T BSIV,2017,"23,300 kms",Petrol,First Owner,Ahmedabad,2.9 Lakh*
+156,Datsun,GO,T BSIV,2016,"33,000 kms",Petrol,First Owner,Ahmedabad,3.15 Lakh*
+157,Datsun,GO Plus,T Option Petrol,2019,"40,000 kms",Petrol,First Owner,Ahmedabad,4.25 Lakh*
+158,Datsun,RediGO,T Option,2017,"58,000 kms",Petrol,First Owner,Ahmedabad,2.35 Lakh*
+159,Datsun,RediGO,1.0 T Option,2017,"14,000 kms",Petrol,First Owner,Ahmedabad,2.75 Lakh*
+160,Fiat,Grande Punto,EVO 1.3 Active,2014,"42,000 kms",Diesel,First Owner,Ahmedabad,2.9 Lakh*
+161,Fiat,Grande Punto,EVO 1.2 Active,2014,"27,000 kms",Petrol,First Owner,Ahmedabad,3.25 Lakh*
+162,Fiat,Grande Punto,EVO 1.3 Active,2014,"47,000 kms",Diesel,First Owner,Ahmedabad,2.9 Lakh*
+163,Fiat,Grande Punto,Active (Diesel),2010,"85,000 kms",Diesel,Second Owner,Ahmedabad,1.9 Lakh*
+164,Fiat,Linea,T Jet Plus,2010,"1,10,000 kms",Petrol,Third Owner,Ahmedabad,2 Lakh*
+165,Fiat,Grande Punto,EVO 1.3 Active,2014,"60,000 kms",Diesel,First Owner,Ahmedabad,2.15 Lakh*
+166,Fiat,Grande Punto,1.3 Emotion (Diesel),2011,"86,000 kms",Diesel,First Owner,Ahmedabad,1.5 Lakh*
+167,Fiat,Linea,Emotion Pack (Diesel),2011,"1,00,000 kms",Diesel,Second Owner,Ahmedabad,2.53 Lakh*
+168,Volvo,S60,D4 SUMMUM,2015,"51,000 kms",Diesel,First Owner,Ahmedabad,17 Lakh*
+169,Volvo,S60,D4 SUMMUM,2015,"71,000 kms",Diesel,First Owner,Ahmedabad,15.5 Lakh*
+170,Volvo,XC40,D4 R-Design,2018,"41,000 kms",Diesel,First Owner,Ahmedabad,33.5 Lakh*
+171,Volvo,S60,D4 SUMMUM,2015,"51,000 kms",Diesel,First Owner,Ahmedabad,17 Lakh*
+172,Volvo,V40,D3 R-Design,2016,"45,000 kms",Diesel,Second Owner,Ahmedabad,13.5 Lakh*
+173,Volvo,XC 90,D5 Momentum BSIV,2018,"36,131 kms",Diesel,First Owner,Ahmedabad,65 Lakh*
+174,Volvo,S60,D4 Momentum BSIV,2018,"80,000 kms",Diesel,First Owner,Ahmedabad,25.2 Lakh*
+175,Jeep,Compass,1.4 Limited Plus BSIV,2019,"7,000 kms",Petrol,First Owner,Ahmedabad,20.5 Lakh*
+176,Jeep,Compass,2.0 Limited Option 4X4 Black,2018,"53,000 kms",Diesel,First Owner,Ahmedabad,14.9 Lakh*
+177,Jeep,Compass,2.0 Limited 4X4,2017,"59,000 kms",Diesel,First Owner,Ahmedabad,13.5 Lakh*
+178,Jeep,Compass,2.0 Longitude Option BSIV,2017,"77,000 kms",Diesel,First Owner,Ahmedabad,11.85 Lakh*
+179,Jeep,Compass,2.0 Limited,2017,"45,000 kms",Diesel,First Owner,Ahmedabad,13.9 Lakh*
+180,Kia,Seltos,HTX Plus AT D,2019,"76,910 kms",Diesel,First Owner,Ahmedabad,15.75 Lakh*
+181,Kia,Seltos,HTX Plus AT D,2019,"76,910 kms",Diesel,First Owner,Ahmedabad,15.75 Lakh*
+182,Kia,Seltos,GTX Plus,2019,"6,000 kms",Petrol,First Owner,Ahmedabad,16.95 Lakh*
+183,Kia,Seltos,HTX Plus AT D,2020,"17,000 kms",Diesel,First Owner,Ahmedabad,17.9 Lakh*
+184,Kia,Seltos,HTK Plus AT D,2019,"34,000 kms",Diesel,First Owner,Ahmedabad,14.5 Lakh*
+185,Land-Rover,--,TD4 SE,2011 Land Rover Freelander 2,"1,11,000 kms",Diesel,Second Owner,Ahmedabad,12.5 Lakh*
+186,Land-Rover,--,2.0 TD4 SE,2018 Land Rover Range Rover Evoque,"55,000 kms",Diesel,First Owner,Ahmedabad,42 Lakh*
+187,Land-Rover,--,TD4 SE,2011 Land Rover Freelander 2,"1,11,000 kms",Diesel,Second Owner,Ahmedabad,12.5 Lakh*
+188,Land-Rover,--,TD4 SE,2012 Land Rover Freelander 2,"1,16,000 kms",Diesel,First Owner,Ahmedabad,11.85 Lakh*
+189,Mahindra-Ssangyong,--,RX7,2016 Mahindra Ssangyong Rexton,"43,000 kms",Diesel,First Owner,Ahmedabad,9.75 Lakh*
+190,Mahindra-Ssangyong,--,RX7,2013 Mahindra Ssangyong Rexton,"1,00,000 kms",Diesel,Second Owner,Ahmedabad,8 Lakh*
+191,Mahindra-Ssangyong,--,RX7,2014 Mahindra Ssangyong Rexton,"79,000 kms",Diesel,First Owner,Ahmedabad,7.9 Lakh*
+192,Mahindra-Ssangyong,--,RX7,2015 Mahindra Ssangyong Rexton,"16,129 kms",Diesel,First Owner,Ahmedabad,12 Lakh*
+193,MG,Hector,Smart AT BSIV,2019,"32,700 kms",Petrol,First Owner,Ahmedabad,16.5 Lakh*
+194,MG,Hector,Sharp Diesel MT,2019,"31,000 kms",Diesel,First Owner,Ahmedabad,18 Lakh*
+195,MG,Hector,Hybrid Smart MT BSIV,2019,"12,000 kms",Petrol,First Owner,Ahmedabad,14.9 Lakh*
+196,MG,Hector,Sharp Diesel MT,2021,"5,000 kms",Diesel,First Owner,Ahmedabad,19.75 Lakh*
+197,Mitsubishi,Pajero,Sport 4X2 AT DualTone BlackTop,2017,"82,000 kms",Diesel,First Owner,Ahmedabad,13.5 Lakh*
+198,Mitsubishi,Pajero,Select Plus 4X2 AT,2017,"70,000 kms",Diesel,First Owner,Ahmedabad,17 Lakh*
+199,Mitsubishi,Outlander,Chrome,2011,"90,000 kms",Petrol,Second Owner,Ahmedabad,5.3 Lakh*
+200,Porsche,Cayenne,Diesel Platinum Edition,2017,"15,000 kms",Diesel,First Owner,Ahmedabad,75 Lakh*
+201,Porsche,Cayenne,Diesel Platinum Edition,2015,"68,000 kms",Diesel,First Owner,Ahmedabad,59 Lakh*
+202,Porsche,Cayenne,S Diesel,2018,"72,000 kms",Diesel,First Owner,Ahmedabad,59 Lakh*
+203,Mini,Cooper,S Carbon Edition,2013,"26,565 kms",Petrol,Second Owner,Ahmedabad,18.6 Lakh*
+204,Mini,Cooper,S Carbon Edition,2012,"34,891 kms",Petrol,Second Owner,Ahmedabad,21.75 Lakh*
+205,Mahindra-Renault,--,1.5 Diesel DLSX,2010 Mahindra Renault Logan,"1,40,000 kms",Diesel,First Owner,Ahmedabad,2 Lakh*
+206,Jaguar,F-Pace,Prestige 2.0 AWD,2018,"33,600 kms",Diesel,First Owner,Ahmedabad,46 Lakh*
+207,Maruti,Baleno,1.2 Delta,2018,"41,335 Kms",Petrol,1st Owner,Bangalore,"6,30,500"
+208,Maruti,Baleno,Delta,2016,"36,638 Kms",Petrol,1st Owner,Bangalore,"5,83,500"
+209,Maruti,Baleno,1.3 Alpha,2016,"53,269 Kms",Diesel,1st Owner,Bangalore,"6,49,500"
+210,Maruti,Baleno,1.2 Alpha,2016,"28,863 Kms",Petrol,1st Owner,Bangalore,"6,70,953"
+211,Maruti,Baleno,1.2 CVT Zeta,2018,"30,357 Kms",Petrol,1st Owner,Bangalore,"7,53,500"
+212,Maruti,Baleno,1.2 Zeta,2017,"16,576 Kms",Petrol,1st Owner,Bangalore,"6,94,000"
+213,Maruti,Baleno,1.3 Alpha,2017,"61,578 Kms",Diesel,1st Owner,Bangalore,"7,23,500"
+214,Maruti,Baleno,1.2 CVT Zeta,2017,"71,318 Kms",Petrol,2nd Owner,Bangalore,"5,94,000"
+215,Maruti,Swift Dzire,VDI,2018,"50,878 Kms",Diesel,1st Owner,Bangalore,"6,83,500"
+216,Maruti,Swift Dzire,ZXI,2013,"13,740 Kms",Petrol,1st Owner,Bangalore,"5,43,000"
+217,Hyundai,Grand i10,Asta Option,2017,"6,758 Kms",Petrol,1st Owner,Bangalore,"6,08,000"
+218,Hyundai,Grand i10,Asta Option,2017,"6,758 Kms",Petrol,1st Owner,Bangalore,"6,08,000"
+219,Hyundai,Grand i10,1.2 Kappa Asta,2018,"8,336 Kms",Petrol,1st Owner,Bangalore,"6,03,000"
+220,Hyundai,Grand i10,Sportz,2016,"18,740 Kms",Petrol,1st Owner,Bangalore,"5,16,000"
+221,Hyundai,i20,Sportz 1.4 CRDi,2012,"93,537 Kms",Diesel,1st Owner,Bangalore,"4,36,350"
+222,Hyundai,Grand i10,1.2 Kappa Sportz BSIV,2017,"16,287 Kms",Petrol,1st Owner,Bangalore,"5,79,500"
+223,Hyundai,i20,Era 1.4 CRDi,2012,"84,025 Kms",Diesel,2nd Owner,Bangalore,"3,69,500"
+224,Hyundai,Grand i10,Asta,2015,"20,524 Kms",Petrol,1st Owner,Bangalore,"5,49,500"
+225,Hyundai,Grand i10,1.2 Kappa Magna AT,2016,"19,255 Kms",Petrol,2nd Owner,Bangalore,"5,21,500"
+226,Hyundai,Grand i10,AT Asta,2015,"73,462 Kms",Petrol,2nd Owner,Bangalore,"5,23,000"
+227,Toyota,Fortuner,2.8 2WD MT,2016,"1,11,000 kms",Diesel,First Owner,Bangalore,20.5 Lakh*
+228,Toyota,Etios Liva,GD,2013,"47,000 kms",Diesel,First Owner,Bangalore,5.25 Lakh*
+229,Toyota,Land Cruiser,VX,2011,"59,000 kms",Diesel,Second Owner,Bangalore,80 Lakh*
+230,Toyota,Land Cruiser,VX,2013,"2,29,000 kms",Diesel,First Owner,Bangalore,55 Lakh*
+231,Toyota,Fortuner,2.8 2WD AT,2020,"20,000 kms",Diesel,First Owner,Bangalore,39.5 Lakh*
+232,Toyota,Corolla Altis,1.4 DGL,2018,"47,000 kms",Diesel,First Owner,Bangalore,15.75 Lakh*
+233,Toyota,Etios,VX,2011,"32,000 kms",Petrol,Second Owner,Bangalore,4.85 Lakh*
+234,Toyota,Innova Crysta,2.8 ZX AT BSIV,2018,"25,340 kms",Diesel,First Owner,Bangalore,22.75 Lakh*
+235,Toyota,Innova,2.5 VX 7 STR,2012,"1,21,378 kms",Diesel,First Owner,Bangalore,10.65 Lakh*
+236,Toyota,Etios Liva,1.2 V,2017,"1,22,000 kms",Petrol,First Owner,Bangalore,5.25 Lakh*
+237,Honda,Jazz,VX CVT,2019,"11,625 Kms",Petrol,1st Owner,Bangalore,"8,54,000"
+238,Honda,Jazz,1.2 VX i VTEC,2015,"14,962 Kms",Petrol,1st Owner,Bangalore,"6,16,500"
+239,Honda,Jazz,VX CVT,2019,"11,625 Kms",Petrol,1st Owner,Bangalore,"8,54,000"
+240,Honda,Jazz,V,2015,"41,605 Kms",Petrol,2nd Owner,Bangalore,"5,65,500"
+241,Honda,Jazz,V,2016,"42,010 Kms",Petrol,2nd Owner,Bangalore,"5,78,000"
+242,Honda,Jazz,1.2 S i VTEC,2015,"29,107 Kms",Petrol,1st Owner,Bangalore,"5,31,000"
+243,Honda,City,ZX CVT,2017,"31,312 Kms",Petrol,1st Owner,Bangalore,"10,91,500"
+244,Honda,City,1.5 V MT,2011,"79,577 Kms",Petrol,1st Owner,Bangalore,"4,33,000"
+245,Honda,Brio,V MT,2013,"21,547 Kms",Petrol,1st Owner,Bangalore,"3,91,500"
+246,Honda,Jazz,V CVT,2016,"18,316 Kms",Petrol,1st Owner,Bangalore,"6,71,000"
+247,Mahindra,TUV 300,T8,2016,"45,484 Kms",Diesel,2nd Owner,Bangalore,"7,27,000"
+248,Mahindra,e2o,T0,2014,"95,128 Kms",Electric,1st Owner,Bangalore,"1,84,800"
+249,Mahindra,XUV500,W8 2WD,2015,"72,587 Kms",Diesel,1st Owner,Bangalore,"9,24,500"
+250,Mahindra,Scorpio,2.6 CRDe SLE,2012,"85,000 kms",Diesel,Second Owner,Bangalore,5.95 Lakh*
+251,Mahindra,KUV 100,mFALCON D75 K6 5str,2016,"37,000 kms",Diesel,First Owner,Bangalore,5.75 Lakh*
+252,Mahindra,Scorpio,SLE BSIV,2012,"1,31,000 kms",Diesel,First Owner,Bangalore,6.35 Lakh*
+253,Mahindra,Xylo,E8 BS4,2012,"75,000 kms",Diesel,Second Owner,Bangalore,5.75 Lakh*
+254,Mahindra,Xylo,E8,2012,"75,000 kms",Diesel,Second Owner,Bangalore,5.95 Lakh*
+255,Mahindra,XUV500,W8 2WD,2012,"90,000 kms",Diesel,Second Owner,Bangalore,8 Lakh*
+256,Mahindra,Xylo,E8 ABS Airbag BSIV,2012,"75,000 kms",Diesel,Second Owner,Bangalore,6.1 Lakh*
+257,Ford,Figo,Petrol Titanium,2010,"52,260 Kms",Petrol,2nd Owner,Bangalore,"2,46,000"
+258,Ford,Fiesta Classic,1.4 Duratorq LXI,2011,"115,514 Kms",Diesel,2nd Owner,Bangalore,"2,60,500"
+259,Ford,Figo,Diesel ZXI,2013,"74,323 Kms",Diesel,1st Owner,Bangalore,"3,43,500"
+260,Ford,Ecosport,1.5 Petrol Trend,2019,"6,882 Kms",Petrol,1st Owner,Bangalore,"8,15,000"
+261,Ford,Figo,1.5D Titanium MT,2017,"83,000 kms",Diesel,First Owner,Bangalore,6.45 Lakh*
+262,Ford,Figo,1.2 Trend Plus MT,2016,"60,000 kms",Petrol,Second Owner,Bangalore,4.55 Lakh*
+263,Ford,Figo,Petrol ZXI,2012,"78,000 kms",Petrol,First Owner,Bangalore,3.35 Lakh*
+264,Ford,Endeavour,2.2 Titanium AT 4X2 Sunroof,2019,"16,000 kms",Diesel,First Owner,Bangalore,35.75 Lakh*
+265,Ford,Figo,Diesel Titanium,2012,"85,000 kms",Diesel,First Owner,Bangalore,3.75 Lakh*
+266,Ford,Ikon,1.3 Flair,2005,"88,000 kms",Petrol,Third Owner,Bangalore,1.1 Lakh*
+267,Mercedes-Benz,M-Class,ML 250 CDI,2013,"51,000 kms",Diesel,Second Owner,Bangalore,25.25 Lakh*
+268,Mercedes-Benz,M-Class,ML 250 CDI,2015,"62,000 kms",Diesel,First Owner,Bangalore,33.5 Lakh*
+269,Mercedes-Benz,GLC,220d 4MATIC Sport,2017,"33,000 kms",Diesel,First Owner,Bangalore,47 Lakh*
+270,Mercedes-Benz,M-Class,ML 250 CDI,2013,"51,000 kms",Diesel,Second Owner,Bangalore,25.25 Lakh*
+271,Mercedes-Benz,CLA,200 CDI Style,2018,"27,000 kms",Diesel,Second Owner,Bangalore,29.5 Lakh*
+272,Mercedes-Benz,New C-Class,C 220 CDI Avantgarde,2013,"90,000 kms",Diesel,Second Owner,Bangalore,14.75 Lakh*
+273,Mercedes-Benz,GL-Class,350 CDI Blue Efficiency,2016,"60,000 kms",Diesel,Second Owner,Bangalore,52 Lakh*
+274,Mercedes-Benz,E-Class,E250 CDI Avantgrade,2014,"60,000 kms",Diesel,First Owner,Bangalore,24.5 Lakh*
+275,Mercedes-Benz,New C-Class,C250 Avantgarde,2010,"59,000 kms",Petrol,Second Owner,Bangalore,13.75 Lakh*
+276,Mercedes-Benz,GL-Class,350 CDI Blue Efficiency,2015,"45,000 kms",Diesel,First Owner,Bangalore,52.75 Lakh*
+277,Volkswagen,Vento,Diesel Highline,2012,"93,815 Kms",Diesel,1st Owner,Bangalore,"4,71,500"
+278,Volkswagen,Ameo,1.2 MPI Comfortline,2016,"18,509 Kms",Petrol,1st Owner,Bangalore,"5,45,500"
+279,Volkswagen,Polo,1.2 MPI Comfortline,2015,"12,970 Kms",Petrol,2nd Owner,Bangalore,"5,41,000"
+280,Volkswagen,Polo,GT TSI,2013,"73,000 kms",Petrol,Second Owner,Bangalore,5.45 Lakh*
+281,Volkswagen,Polo,1.2 MPI Comfortline,2016,"51,000 kms",Petrol,First Owner,Bangalore,6.25 Lakh*
+282,Volkswagen,Polo,1.2 MPI Comfortline,2016,"50,000 kms",Petrol,First Owner,Bangalore,6 Lakh*
+283,Volkswagen,Polo,1.0 TSI Highline Plus,2020,"6,000 kms",Petrol,First Owner,Bangalore,8.95 Lakh*
+284,Volkswagen,Vento,Petrol Highline AT,2011,"90,000 kms",Petrol,Second Owner,Bangalore,4.25 Lakh*
+285,Volkswagen,Polo,1.2 MPI Highline,2015,"53,000 kms",Petrol,Second Owner,Bangalore,5.65 Lakh*
+286,Volkswagen,Passat,Diesel Comfortline 2.0 TDI,2013,"52,000 kms",Diesel,First Owner,Bangalore,12.8 Lakh*
+287,BMW,3 Series,320d Corporate Edition,2012,"75,000 kms",Diesel,First Owner,Bangalore,9.75 Lakh*
+288,BMW,7 Series,730Ld M Sport Plus,2013,"65,000 kms",Diesel,Second Owner,Bangalore,27 Lakh*
+289,BMW,7 Series,730Ld,2010,"78,000 kms",Diesel,Second Owner,Bangalore,14.5 Lakh*
+290,BMW,6 Series,GT 630d Luxury Line,2018,"32,000 kms",Diesel,First Owner,Bangalore,59 Lakh*
+291,BMW,X1,sDrive 20D xLine,2012,"1,00,000 kms",Diesel,Third Owner,Bangalore,12.5 Lakh*
+292,BMW,X5,xDrive 30d,2017,"33,000 kms",Diesel,First Owner,Bangalore,54.9 Lakh*
+293,BMW,5 Series,520d Luxury Line,2018,"1,10,000 kms",Diesel,First Owner,Bangalore,42 Lakh*
+294,BMW,3 Series,320i Sedan,2009,"75,000 kms",Petrol,Second Owner,Bangalore,7.5 Lakh*
+295,BMW,3 Series GT,Luxury Line,2019,"25,000 kms",Diesel,First Owner,Bangalore,42.5 Lakh*
+296,BMW,5 Series,525d,2011,"37,000 kms",Diesel,Second Owner,Bangalore,18.75 Lakh*
+297,Renault,KWID,1.0 RXT BSIV,2017,"16,614 Kms",Petrol,1st Owner,Bangalore,"4,05,000"
+298,Renault,KWID,AMT,2018,"20,965 Kms",Petrol,1st Owner,Bangalore,"4,54,500"
+299,Renault,KWID,1.0 RXT AMT,2016,"27,080 Kms",Petrol,1st Owner,Bangalore,"4,32,000"
+300,Renault,KWID,1.0 RXT AMT,2017,"12,413 Kms",Petrol,2nd Owner,Bangalore,"4,46,000"
+301,Renault,KWID,1.0 RXT AMT Opt BSIV,2019,"12,293 Kms",Petrol,1st Owner,Bangalore,"4,80,500"
+302,Renault,KWID,AMT,2017,"50,470 Kms",Petrol,2nd Owner,Bangalore,"3,49,500"
+303,Renault,KWID,1.0 RXT AMT,2018,"18,392 Kms",Petrol,2nd Owner,Bangalore,"4,64,000"
+304,Renault,KWID,1.0 RXT 02 Anniversary Edition,2018,"25,772 Kms",Petrol,1st Owner,Bangalore,"4,04,500"
+305,Renault,KWID,1.0 RXT Opt,2018,"46,527 Kms",Petrol,1st Owner,Bangalore,"3,96,000"
+306,Renault,Duster,85PS Diesel RxL,2013,"82,573 Kms",Diesel,1st Owner,Bangalore,"6,13,000"
+307,Tata,Tiago,1.2 Revotron XZA,2018,"56,060 Kms",Petrol,1st Owner,Bangalore,"5,51,000"
+308,Tata,Tigor,1.2 Revotron XT,2017,"28,071 Kms",Petrol,1st Owner,Bangalore,"5,13,700"
+309,Tata,Tiago,1.2 Revotron XZ,2016,"73,108 Kms",Petrol,1st Owner,Bangalore,"4,72,000"
+310,Tata,Harrier,XZ,2019,"61,000 kms",Diesel,First Owner,Bangalore,16.5 Lakh*
+311,Tata,Harrier,XZ Dark Edition BSIV,2019,"61,000 kms",Diesel,First Owner,Bangalore,17.75 Lakh*
+312,Tata,New Safari,DICOR 2.2 EX 4x2,2011,"76,000 kms",Diesel,Second Owner,Bangalore,5.75 Lakh*
+313,Tata,Safari Storme,LX,2013,"80,000 kms",Diesel,First Owner,Bangalore,5.75 Lakh*
+314,Tata,Nano,Twist XT,2014,"87,644 kms",Petrol,Second Owner,Bangalore,1.85 Lakh*
+315,Tata,Manza,ELAN Quadrajet BS IV,2012,"82,800 kms",Diesel,First Owner,Bangalore,3.45 Lakh*
+316,Tata,New Safari,DICOR 2.2 LX 4x2,2008,"1,10,000 kms",Diesel,First Owner,Bangalore,2.75 Lakh*
+317,Audi,Q3,35 TDI Quattro Premium Plus,2017,"58,500 kms",Diesel,First Owner,Bangalore,28.5 Lakh*
+318,Audi,Q5,3.0 TDI,2010,"80,000 kms",Diesel,First Owner,Bangalore,12.5 Lakh*
+319,Audi,Q5,30 TDI quattro Premium Plus,2017,"30,000 kms",Diesel,First Owner,Bangalore,35 Lakh*
+320,Audi,Q3,35 TDI Quattro Premium Plus,2018,"22,000 kms",Diesel,First Owner,Bangalore,32.25 Lakh*
+321,Audi,Q5,30 TDI quattro Premium Plus,2017,"31,000 kms",Diesel,First Owner,Bangalore,34.9 Lakh*
+322,Audi,Q3,2.0 TDI,2013,"67,000 kms",Diesel,Third Owner,Bangalore,13.5 Lakh*
+323,Audi,Q5,2.0 TDI Premium Plus,2015,"75,000 kms",Diesel,Second Owner,Bangalore,26.75 Lakh*
+324,Audi,Q5,30 TDI Design Edition,2015,"65,000 kms",Diesel,First Owner,Bangalore,17.5 Lakh*
+325,Audi,Q5,30 TDI quattro Premium Plus,2016,"75,000 kms",Diesel,Second Owner,Bangalore,27.5 Lakh*
+326,Audi,A4,2.0 TDI 177 Bhp Premium Plus,2013,"33,000 kms",Diesel,Second Owner,Bangalore,16.45 Lakh*
+327,Skoda,Superb,Elegance 1.8 TSI AT,2010,"1,06,000 kms",Petrol,Second Owner,Bangalore,6.49 Lakh*
+328,Skoda,Octavia,Elegance 2.0 TDI AT,2014,"86,400 kms",Diesel,First Owner,Bangalore,13.75 Lakh*
+329,Skoda,Rapid,1.5 TDI Ambition Plus,2015,"58,000 kms",Diesel,Second Owner,Bangalore,5.5 Lakh*
+330,Skoda,Rapid,1.6 MPI Elegance,2013,"54,000 kms",Petrol,Second Owner,Bangalore,5.75 Lakh*
+331,Skoda,Rapid,1.6 MPI Style Plus,2016,"37,000 kms",Petrol,Second Owner,Bangalore,6.75 Lakh*
+332,Skoda,Octavia,Elegance 2.0 TDI AT,2013,"83,000 kms",Diesel,Second Owner,Bangalore,8.3 Lakh*
+333,Skoda,Rapid,1.6 TDI Active,2012,"88,959 kms",Diesel,First Owner,Bangalore,4.39 Lakh*
+334,Skoda,Superb,Elegance 1.8 TSI AT,2010,"1,06,000 kms",Petrol,Second Owner,Bangalore,6.49 Lakh*
+335,Skoda,Rapid,Monte Carlo 1.6 MPI AT BSIV,2019,"13,155 kms",Petrol,First Owner,Bangalore,12.95 Lakh*
+336,Skoda,Rapid,1.6 MPI Ambition BSIV,2018,"56,679 kms",Petrol,First Owner,Bangalore,8.49 Lakh*
+337,Chevrolet,Tavera,Neo 3 LT 8 Seats BSIII,2017,"17,000 kms",Diesel,First Owner,Bangalore,9.75 Lakh*
+338,Chevrolet,Optra Magnum,2.0 LT,2011,"77,700 kms",Diesel,First Owner,Bangalore,3.85 Lakh*
+339,Chevrolet,Beat,LT,2010,"53,000 kms",Petrol,Second Owner,Bangalore,2.75 Lakh*
+340,Chevrolet,Tavera,LT 9 Str BS IV,2017,"16,000 kms",Diesel,First Owner,Bangalore,9.6 Lakh*
+341,Chevrolet,Sail,LS ABS,2013,"70,000 kms",Diesel,First Owner,Bangalore,3.15 Lakh*
+342,Chevrolet,Beat,Diesel LT,2012,"78,000 kms",Diesel,First Owner,Bangalore,2.85 Lakh*
+343,Chevrolet,Tavera,Neo 3 LT 9 Seats BSIV,2017,"17,203 kms",Diesel,First Owner,Bangalore,9.75 Lakh*
+344,Chevrolet,Beat,Diesel LS,2013,"57,000 kms",Diesel,Second Owner,Bangalore,2.84 Lakh*
+345,Chevrolet,Beat,Diesel LT,2014,"59,649 kms",Diesel,First Owner,Bangalore,3.1 Lakh*
+346,Chevrolet,Captiva,LT,2008,"85,000 kms",Diesel,Second Owner,Bangalore,4 Lakh*
+347,Fiat,Linea,T Jet,2011,"49,000 kms",Petrol,Second Owner,Bangalore,3.5 Lakh*
+348,Fiat,500,Lounge,2009,"29,000 kms",Diesel,Second Owner,Bangalore,11.9 Lakh*
+349,Fiat,Grande Punto,1.2 Emotion,2009,"1,00,216 kms",Petrol,First Owner,Bangalore,2.2 Lakh*
+350,Fiat,Linea,T Jet,2011,"49,000 kms",Petrol,Second Owner,Bangalore,3.5 Lakh*
+351,Fiat,Linea,1.4 Emotion,2010,"76,700 kms",Petrol,First Owner,Bangalore,3.05 Lakh*
+352,Fiat,Linea,Emotion (Diesel),2018,"82,000 kms",Diesel,First Owner,Bangalore,6.15 Lakh*
+353,Fiat,Linea,Emotion,2011,"70,000 kms",Petrol,Third Owner,Bangalore,2.9 Lakh*
+354,Fiat,Grande Punto,EVO 90HP 1.3 Sport,2015,"1,00,000 kms",Diesel,Second Owner,Bangalore,4 Lakh*
+355,Fiat,Grande Punto,1.3 Emotion (Diesel),2011,"90,000 kms",Diesel,Second Owner,Bangalore,2.5 Lakh*
+356,Fiat,Petra,1.6 ELX PS,2005,"5,000 kms",Petrol,Third Owner,Bangalore,1.1 Lakh*
+357,Land-Rover,--,2.0 TD4 HSE Dynamic,2016 Land Rover Range Rover Evoque,,Diesel,Owner,Bangalore,--
+358,Land-Rover,--,3.0 Vogue,2013 Land Rover Range Rover,,Diesel,Owner,Bangalore,--
+359,Land-Rover,--,3.6 TDV8 Vogue SE Diesel,2011 Land Rover Range Rover,,Diesel,Owner,Bangalore,--
+360,Land-Rover,--,2.0 TD4 HSE Dynamic,2017 Land Rover Range Rover Evoque,"37,000 kms",Diesel,First Owner,Bangalore,44.75 Lakh*
+361,Land-Rover,--,SD4 HSE Luxury 7S,2016 Land Rover Discovery Sport,"18,000 kms",Diesel,First Owner,Bangalore,44.5 Lakh*
+362,Land-Rover,--,2.0 TD4 HSE Dynamic,2017 Land Rover Range Rover Evoque,"37,000 kms",Diesel,First Owner,Bangalore,45 Lakh*
+363,Land-Rover,--,TD4 HSE,2016 Land Rover Discovery Sport,"18,000 kms",Diesel,First Owner,Bangalore,44.5 Lakh*
+364,Land-Rover,--,HSE,2013 Land Rover Range Rover Sport,"1,20,000 kms",Diesel,Second Owner,Bangalore,23 Lakh*
+365,Land-Rover,--,TD4 SE,2009 Land Rover Freelander 2,"1,21,500 kms",Diesel,First Owner,Bangalore,13 Lakh*
+366,Land-Rover,--,2.0 TD4 HSE Dynamic,2017 Land Rover Range Rover Evoque,"37,000 kms",Diesel,First Owner,Bangalore,42.95 Lakh*
+367,Jaguar,XF,2.2 Litre Luxury,2018,"39,000 kms",Diesel,Second Owner,Bangalore,32.75 Lakh*
+368,Jaguar,XF,3.0 Litre S Premium Luxury,2014,"38,000 kms",Diesel,First Owner,Bangalore,27 Lakh*
+369,Jaguar,XF,3.0 Litre S Premium Luxury,2015,"38,000 kms",Diesel,First Owner,Bangalore,27.5 Lakh*
+370,Jaguar,XF,3.0 Litre S Premium Luxury,2014,"30,000 kms",Diesel,First Owner,Bangalore,35 Lakh*
+371,Jaguar,F-Pace,Prestige 2.0 AWD,2018,"46,000 kms",Diesel,First Owner,Bangalore,52.75 Lakh*
+372,Jaguar,XF,3.0 Litre S Premium Luxury,2012,"1,01,000 kms",Diesel,First Owner,Bangalore,19.5 Lakh*
+373,Jaguar,XF,3.0 Litre S Premium Luxury,2012,"1,10,000 kms",Diesel,First Owner,Bangalore,21.5 Lakh*
+374,Jaguar,XJ,5.0 L V8 Supercharged,2010,"35,000 kms",Petrol,First Owner,Bangalore,39.95 Lakh*
+375,Jaguar,XF,3.0 Litre S Premium Luxury,2014,"91,098 kms",Diesel,First Owner,Bangalore,28 Lakh*
+376,Jaguar,F-Pace,Prestige 2.0 AWD,2018,"46,792 kms",Diesel,First Owner,Bangalore,54 Lakh*
+377,Jeep,Compass,2.0 Longitude BSIV,2017,"43,726 kms",Diesel,First Owner,Bangalore,15.5 Lakh*
+378,Jeep,Compass,2.0 Longitude BSIV,2017,"43,726 kms",Diesel,First Owner,Bangalore,15.5 Lakh*
+379,Jeep,Compass,1.4 Limited,2017,"26,733 kms",Petrol,First Owner,Bangalore,17.95 Lakh*
+380,Jeep,Compass,2.0 Limited Option,2018,"33,419 kms",Diesel,First Owner,Bangalore,18.25 Lakh*
+381,Jeep,Compass,1.4 Limited Option,2019,"13,800 kms",Petrol,First Owner,Bangalore,17 Lakh*
+382,Jeep,Compass,1.4 Limited,2017,"25,000 kms",Petrol,First Owner,Bangalore,17.49 Lakh*
+383,Jeep,Compass,2.0 Limited,2018,"67,000 kms",Diesel,First Owner,Bangalore,17.4 Lakh*
+384,Jeep,Compass,2.0 Limited,2018,"60,000 kms",Diesel,First Owner,Bangalore,17.45 Lakh*
+385,Jeep,Compass,2.0 Limited Option,2017,"68,000 kms",Diesel,First Owner,Bangalore,15.5 Lakh*
+386,Jeep,Compass,2.0 Longitude,2017,"55,195 kms",Diesel,First Owner,Bangalore,13.5 Lakh*
+387,Volvo,XC 90,D5 R-Design,2017,"80,000 kms",Diesel,Second Owner,Bangalore,49 Lakh*
+388,Volvo,S60,D4 KINETIC,2014,"75,000 kms",Diesel,Second Owner,Bangalore,13.95 Lakh*
+389,Volvo,S 80,D3 Summum,2007,"83,000 kms",Diesel,First Owner,Bangalore,8 Lakh*
+390,Volvo,V40,D3,2015,"47,000 kms",Diesel,Second Owner,Bangalore,16.1 Lakh*
+391,Volvo,V40,D3 Kinetic,2015,"63,000 kms",Diesel,First Owner,Bangalore,15.5 Lakh*
+392,Volvo,XC 90,D5 Inscription BSIV,2017,"82,000 kms",Diesel,First Owner,Bangalore,52 Lakh*
+393,Volvo,S60,D4 KINETIC,2019,"30,000 kms",Diesel,First Owner,Bangalore,32 Lakh*
+394,Volvo,S90,D4 Momentum BSIV,2018,"30,000 kms",Diesel,First Owner,Bangalore,40 Lakh*
+395,Volvo,V40,D3,2015,"40,000 kms",Diesel,Second Owner,Bangalore,16.75 Lakh*
+396,Volvo,XC60,D5 Inscription,2021,"77,000 kms",Diesel,Second Owner,Bangalore,13.5 Lakh*
+397,Nissan,Terrano,XV 110 PS,2015,"76,888 Kms",Diesel,2nd Owner,Bangalore,"5,90,700"
+398,Nissan,Terrano,XL 85 PS,2016,"106,755 Kms",Diesel,1st Owner,Bangalore,"6,58,500"
+399,Nissan,Micra Active,XL,2015,"58,747 kms",Petrol,First Owner,Bangalore,3.95 Lakh*
+400,Nissan,Terrano,XL 85 PS,2013,"1,30,144 kms",Diesel,First Owner,Bangalore,6.7 Lakh*
+401,Nissan,Micra,XV CVT,2014,"50,000 kms",Petrol,First Owner,Bangalore,4.15 Lakh*
+402,Nissan,Micra,XL Optional,2014,"39,141 kms",Petrol,Second Owner,Bangalore,3.85 Lakh*
+403,Nissan,Micra,XV CVT,2014,"65,000 kms",Petrol,First Owner,Bangalore,4.45 Lakh*
+404,Nissan,Micra,Diesel XV,2011,"68,300 kms",Diesel,First Owner,Bangalore,3.25 Lakh*
+405,Nissan,Micra,XL,2014,"51,000 kms",Petrol,Second Owner,Bangalore,3.5 Lakh*
+406,Nissan,Terrano,XL 85 PS,2014,"1,10,000 kms",Diesel,Second Owner,Bangalore,6.3 Lakh*
+407,Mitsubishi,Pajero,2.8 SFX,2011,"1,30,000 kms",Diesel,Third Owner,Bangalore,6.5 Lakh*
+408,Mitsubishi,Cedia,Sports,2011,"71,000 kms",Petrol,First Owner,Bangalore,4.75 Lakh*
+409,Mitsubishi,Pajero,2.8 SFX,2011,"1,30,000 kms",Diesel,Third Owner,Bangalore,6.5 Lakh*
+410,Mitsubishi,Cedia,Elegance,2012,"91,565 kms",Petrol,Second Owner,Bangalore,5.75 Lakh*
+411,Mitsubishi,Cedia,Sports,2009,"1,06,000 kms",Petrol,Second Owner,Bangalore,4.9 Lakh*
+412,Mitsubishi,Pajero,2.8 GLX Sports,2007,"1,61,258 kms",Diesel,First Owner,Bangalore,6.85 Lakh*
+413,Mitsubishi,Cedia,Elegance,2007,"58,358 kms",Petrol,First Owner,Bangalore,3.85 Lakh*
+414,Mitsubishi,Lancer,SLXi,2000,"84,000 kms",Petrol,Second Owner,Bangalore,1.4 Lakh*
+415,Mitsubishi,Pajero,Sport 4X2 AT,2015,"48,000 kms",Diesel,First Owner,Bangalore,16.5 Lakh*
+416,Mitsubishi,Pajero,Sport 4X4,2013,"70,000 kms",Diesel,Second Owner,Bangalore,13 Lakh*
+417,Datsun,GO,T Option,2016,"51,000 kms",Petrol,First Owner,Bangalore,3.1 Lakh*
+418,Datsun,RediGO,S,2016,"51,000 kms",Petrol,First Owner,Bangalore,3.15 Lakh*
+419,Datsun,GO,T BSIV,2014,"49,800 kms",Petrol,First Owner,Bangalore,3.25 Lakh*
+420,Datsun,RediGO,S,2017,"50,000 kms",Petrol,First Owner,Bangalore,3.25 Lakh*
+421,Datsun,GO,T,2016,"44,682 kms",Petrol,First Owner,Bangalore,3.75 Lakh*
+422,Datsun,GO,A,2017,"70,000 kms",Petrol,First Owner,Bangalore,4 Lakh*
+423,Porsche,Panamera,Diesel,2013,"25,000 kms",Diesel,First Owner,Bangalore,51 Lakh*
+424,Porsche,Panamera,Diesel 250hp,2013,"43,000 kms",Diesel,First Owner,Bangalore,52 Lakh*
+425,Porsche,Panamera,Diesel,2013,"25,000 kms",Diesel,First Owner,Bangalore,64.95 Lakh*
+426,Porsche,Cayenne,Diesel,2013,"89,000 kms",Diesel,Second Owner,Bangalore,34.95 Lakh*
+427,Porsche,Cayman,S Tiptronic,2011,"9,500 kms",Petrol,First Owner,Bangalore,42 Lakh*
+428,Mini,Cooper Countryman,Cooper S JCW Inspired,2019,"5,000 kms",Petrol,First Owner,Bangalore,38 Lakh*
+429,Mini,Cooper Countryman,Cooper S JCW Inspired,2019,"5,000 kms",Petrol,First Owner,Bangalore,37.5 Lakh*
+430,Mini,3 DOOR,Cooper S,2017,"7,000 kms",Petrol,First Owner,Bangalore,41 Lakh*
+431,Mini,Cooper Countryman,Cooper S,2018,"25,389 kms",Petrol,First Owner,Bangalore,37.25 Lakh*
+432,Kia,Seltos,HTX Plus D,2019,"15,000 kms",Diesel,First Owner,Bangalore,17.75 Lakh*
+433,Kia,Sonet,1.5 HTX Plus Diesel,2020,"9,645 kms",Diesel,First Owner,Bangalore,12.9 Lakh*
+434,Kia,Seltos,GTX Plus,2019,"7,876 kms",Petrol,First Owner,Bangalore,17.99 Lakh*
+435,Kia,Seltos,HTX Plus D,2019,"15,000 kms",Diesel,First Owner,Bangalore,17.35 Lakh*
+436,Mahindra-Ssangyong,--,RX7,2013 Mahindra Ssangyong Rexton,"70,000 kms",Diesel,Second Owner,Bangalore,9.7 Lakh*
+437,Mahindra-Ssangyong,--,RX7,2013 Mahindra Ssangyong Rexton,"70,372 kms",Diesel,Second Owner,Bangalore,11 Lakh*
+438,Mahindra-Ssangyong,--,RX7,2013 Mahindra Ssangyong Rexton,"70,000 kms",Diesel,Second Owner,Bangalore,10.95 Lakh*
+439,MG,Hector,Sharp Diesel MT BSIV,2019,"11,147 kms",Diesel,First Owner,Bangalore,19 Lakh*
+440,MG,Hector,Sharp Diesel MT,2020,"8,012 kms",Diesel,First Owner,Bangalore,20.45 Lakh*
+441,MG,Hector,Sharp Diesel MT BSIV,2019,"11,147 kms",Diesel,First Owner,Bangalore,19 Lakh*
+442,Lexus,NX,300h,2018,"7,622 kms",Petrol,First Owner,Bangalore,63.95 Lakh*
+443,Premier,Rio,Petrol GX,2013,"22,000 kms",Petrol,Second Owner,Bangalore,3.75 Lakh*
+444,Maruti,Ciaz,ZDi,2017,"89,568 kms",Diesel,First Owner,Chennai,8 Lakh*
+445,Maruti,Eeco,5 Seater AC BSIV,2018,"2,300 kms",Petrol,First Owner,Chennai,4.45 Lakh*
+446,Maruti,Eeco,7 Seater Standard BSIV,2020,"15,000 kms",Petrol,First Owner,Chennai,4.85 Lakh*
+447,Maruti,Swift Dzire,ZXi,2011,"63,000 kms",Petrol,Second Owner,Chennai,4.1 Lakh*
+448,Maruti,SX4 S Cross,Zeta DDiS 200 SH,2015,"1,02,000 kms",Diesel,First Owner,Chennai,6.25 Lakh*
+449,Maruti,Baleno RS,1.0 Petrol,2018,"21,000 kms",Petrol,First Owner,Chennai,7.5 Lakh*
+450,Maruti,Gypsy,W410 4X4,2008,"10,000 kms",Petrol,First Owner,Chennai,4.5 Lakh*
+451,Maruti,Celerio X,AMT ZXI Option BSIV,2018,"30,000 kms",Petrol,First Owner,Chennai,5.35 Lakh*
+452,Maruti,Ciaz,Sigma Diesel,2017,"46,000 kms",Diesel,First Owner,Chennai,8.25 Lakh*
+453,Maruti,Ciaz,VDi Plus,2014,"1,00,350 kms",Diesel,Second Owner,Chennai,5.5 Lakh*
+454,Hyundai,i10,Sportz AT,2012,"37,000 kms",Petrol,First Owner,Chennai,4 Lakh*
+455,Hyundai,Elantra,1.6 SX Option,2015,"1,00,300 kms",Diesel,First Owner,Chennai,7.25 Lakh*
+456,Hyundai,Verna,VTVT 1.6 SX Option,2019,"5,000 kms",Petrol,First Owner,Chennai,11.9 Lakh*
+457,Hyundai,Santa Fe,4WD AT,2014,"1,50,000 kms",Diesel,First Owner,Chennai,11.9 Lakh*
+458,Hyundai,Verna,i (Petrol),2007,"59,000 kms",Petrol,Third Owner,Chennai,1.8 Lakh*
+459,Hyundai,Creta,1.6 CRDi SX Plus,2017,"66,000 kms",Diesel,First Owner,Chennai,11.5 Lakh*
+460,Hyundai,Creta,1.6 VTVT AT SX Plus,2017,"56,000 kms",Petrol,First Owner,Chennai,11.65 Lakh*
+461,Hyundai,Creta,1.6 VTVT SX Plus,2016,"66,000 kms",Petrol,First Owner,Chennai,9.25 Lakh*
+462,Hyundai,Verna,1.6 SX CRDI (O) AT,2012,"1,29,000 kms",Diesel,Second Owner,Chennai,4.25 Lakh*
+463,Hyundai,i20 Active,1.2 S,2016,"48,000 kms",Petrol,First Owner,Chennai,6.8 Lakh*
+464,Honda,Brio,S Option MT,2012,"33,000 kms",Petrol,First Owner,Chennai,3.85 Lakh*
+465,Honda,Amaze,VX i-Vtech,2015,"43,000 kms",Petrol,First Owner,Chennai,5.35 Lakh*
+466,Honda,WR-V,i-DTEC VX,2017,"46,000 kms",Diesel,First Owner,Chennai,8.75 Lakh*
+467,Honda,Brio,1.2 S MT,2017,"52,000 kms",Petrol,First Owner,Chennai,4.95 Lakh*
+468,Honda,WR-V,i-VTEC VX,2018,"17,000 kms",Petrol,First Owner,Chennai,8.75 Lakh*
+469,Honda,City,GXi,2008,"1,00,000 kms",Petrol,Second Owner,Chennai,2.9 Lakh*
+470,Honda,City,GXi,2008,"1,00,000 kms",Petrol,Second Owner,Chennai,2.8 Lakh*
+471,Honda,City,GXi,2008,"1,00,002 kms",Petrol,Second Owner,Chennai,2.95 Lakh*
+472,Honda,WR-V,i-VTEC VX,2017,"45,000 kms",Petrol,First Owner,Chennai,8 Lakh*
+473,Honda,City,1.5 V MT,2011,"60,000 kms",Petrol,First Owner,Chennai,4.75 Lakh*
+474,Ford,Ecosport,1.5 Petrol Titanium Plus,2018,"29,999 kms",Petrol,First Owner,Chennai,9.9 Lakh*
+475,Ford,Ecosport,1.5 Diesel Titanium,2018,"65,500 kms",Diesel,First Owner,Chennai,8.75 Lakh*
+476,Ford,Ecosport,S Diesel BSIV,2018,"30,000 kms",Diesel,First Owner,Chennai,9.75 Lakh*
+477,Ford,Figo,Petrol EXI,2010,"61,000 kms",Petrol,First Owner,Chennai,2.6 Lakh*
+478,Ford,Ecosport,1.5 Diesel Titanium,2016,"79,000 kms",Diesel,First Owner,Chennai,6.75 Lakh*
+479,Ford,Endeavour,3.0L 4X4 AT,2011,"1,32,000 kms",Diesel,First Owner,Chennai,7.35 Lakh*
+480,Ford,EcoSport,1.5 DV5 MT Titanium,2014,"58,000 kms",Diesel,Second Owner,Chennai,6.35 Lakh*
+481,Ford,Ecosport,1.5 Diesel Titanium Plus BSIV,2018,"20,000 kms",Diesel,First Owner,Chennai,10.9 Lakh*
+482,Ford,Ecosport,Signature Edition Diesel BSIV,2018,"31,000 kms",Diesel,First Owner,Chennai,9.95 Lakh*
+483,Ford,Ecosport,1.5 Petrol Titanium AT,2018,"19,999 kms",Petrol,First Owner,Chennai,9.9 Lakh*
+484,Toyota,Innova,2.5 G (Diesel) 8 Seater BS IV,2014,"69,000 kms",Diesel,First Owner,Chennai,11.99 Lakh*
+485,Toyota,Innova,2.5 V Diesel 8-seater,2010,"1,70,000 kms",Diesel,First Owner,Chennai,8.5 Lakh*
+486,Toyota,Corolla,H2,2004,"1,15,000 kms",Petrol,First Owner,Chennai,2.55 Lakh*
+487,Toyota,Etios Liva,G,2012,"48,000 kms",Petrol,First Owner,Chennai,4.3 Lakh*
+488,Toyota,Etios,VXD,2015,"89,000 kms",Diesel,Second Owner,Chennai,6.49 Lakh*
+489,Toyota,Innova,2.5 G (Diesel) 8 Seater BS IV,2014,"69,000 kms",Diesel,First Owner,Chennai,11.99 Lakh*
+490,Toyota,Innova,2.5 GX (Diesel) 7 Seater,2014,"89,000 kms",Diesel,First Owner,Chennai,13.45 Lakh*
+491,Toyota,Innova,2.5 VX (Diesel) 8 Seater,2014,"1,29,000 kms",Diesel,First Owner,Chennai,12.9 Lakh*
+492,Toyota,Corolla Altis,1.8 J,2009,"44,000 kms",Petrol,First Owner,Chennai,4.15 Lakh*
+493,Toyota,Qualis,FS F3,2004,"2,02,000 kms",Diesel,Second Owner,Chennai,2.6 Lakh*
+494,Mahindra,TUV 300,T8,2015,"52,000 kms",Diesel,First Owner,Chennai,7.55 Lakh*
+495,Mahindra,TUV 300,T8 AMT,2016,"66,000 kms",Diesel,First Owner,Chennai,7.95 Lakh*
+496,Mahindra,TUV 300,T10 Dual Tone,2018,"35,000 kms",Diesel,First Owner,Chennai,9.65 Lakh*
+497,Mahindra,XUV500,W10 AWD,2018,"49,000 kms",Diesel,First Owner,Chennai,14.75 Lakh*
+498,Mahindra,TUV 300,T8 AMT,2018,"51,000 kms",Diesel,First Owner,Chennai,9.5 Lakh*
+499,Mahindra,XUV500,W10 2WD,2017,"68,000 kms",Diesel,First Owner,Chennai,13.5 Lakh*
+500,Mahindra,TUV 300,T8 AMT,2016,"38,000 kms",Diesel,First Owner,Chennai,8.75 Lakh*
+501,Mahindra,Scorpio,VLX 2WD BSIII,2011,"1,15,000 kms",Diesel,First Owner,Chennai,6.5 Lakh*
+502,Mahindra,TUV 300,P4,2018,"33,999 kms",Diesel,First Owner,Chennai,9.9 Lakh*
+503,Mahindra,TUV 300,T8,2016,"47,000 kms",Diesel,First Owner,Chennai,7.85 Lakh*
+504,Volkswagen,Polo,GT TSI,2013,"44,000 kms",Petrol,First Owner,Chennai,5.4 Lakh*
+505,Volkswagen,Vento,1.5 TDI Highline AT,2016,"45,000 kms",Diesel,First Owner,Chennai,9 Lakh*
+506,Volkswagen,Vento,Diesel Highline,2012,"44,000 kms",Diesel,First Owner,Chennai,5.25 Lakh*
+507,Volkswagen,Polo,1.5 TDI Highline,2014,"56,000 kms",Diesel,First Owner,Chennai,5.4 Lakh*
+508,Volkswagen,Vento,1.5 TDI Highline AT,2016,"42,000 kms",Diesel,First Owner,Chennai,8.9 Lakh*
+509,Volkswagen,Polo,GT TSI,2017,"20,000 kms",Petrol,First Owner,Chennai,8 Lakh*
+510,Volkswagen,Vento,Diesel Highline,2012,"49,000 kms",Diesel,First Owner,Chennai,5.65 Lakh*
+511,Volkswagen,Vento,1.2 TSI Highline Plus AT,2018,"32,900 kms",Petrol,First Owner,Chennai,9.5 Lakh*
+512,Volkswagen,Vento,Petrol Highline,2010,"91,000 kms",Petrol,Second Owner,Chennai,3.5 Lakh*
+513,Volkswagen,Vento,1.5 TDI Highline,2016,"66,000 kms",Diesel,First Owner,Chennai,7.75 Lakh*
+514,Tata,Nano,XTA,2016,"25,000 kms",Petrol,First Owner,Chennai,2.55 Lakh*
+515,Tata,Tiago,1.2 Revotron XT,2018,"39,000 kms",Petrol,First Owner,Chennai,5.15 Lakh*
+516,Tata,Zest,Quadrajet 1.3 XMS,2015,"80,000 kms",Diesel,First Owner,Chennai,4.75 Lakh*
+517,Tata,Nano,Twist XT,2014,"25,000 kms",Petrol,Second Owner,Chennai,1.65 Lakh*
+518,Tata,Tiago,1.05 Revotorq XM,2017,"69,200 kms",Diesel,First Owner,Chennai,4.25 Lakh*
+519,Tata,Tiago,1.2 Revotron XZ,2017,"15,000 kms",Petrol,First Owner,Chennai,5.35 Lakh*
+520,Tata,Tiago,1.2 Revotron XT,2018,"41,000 kms",Petrol,First Owner,Chennai,4.95 Lakh*
+521,Tata,Sumo Victa,DI EX 7/9 Str BSIII,2012,"80,000 kms",Diesel,Second Owner,Chennai,2.4 Lakh*
+522,Tata,Nano,LX,2012,"19,000 kms",Petrol,First Owner,Chennai,1.25 Lakh*
+523,Tata,Nexon,1.2 Revotron XM,2018,"28,000 kms",Petrol,First Owner,Chennai,7.5 Lakh*
+524,Renault,Duster,110PS Diesel RxZ,2017,"23,000 kms",Diesel,Second Owner,Chennai,9.5 Lakh*
+525,Renault,Pulse,Petrol RxZ,2015,"65,000 kms",Petrol,Second Owner,Chennai,4.25 Lakh*
+526,Renault,KWID,1.0 RXL,2017,"14,000 kms",Petrol,First Owner,Chennai,3.45 Lakh*
+527,Renault,KWID,Climber 1.0 MT,2017,"36,000 kms",Petrol,First Owner,Chennai,4.25 Lakh*
+528,Renault,KWID,1.0 RXT 02 Anniversary Edition,2017,"43,000 kms",Petrol,First Owner,Chennai,3.9 Lakh*
+529,Renault,KWID,RXT,2016,"55,000 kms",Petrol,First Owner,Chennai,3.6 Lakh*
+530,Renault,Duster,85PS Diesel RxE,2018,"67,192 kms",Diesel,First Owner,Chennai,7.2 Lakh*
+531,Renault,KWID,RXT,2017,"12,000 kms",Petrol,First Owner,Chennai,3.95 Lakh*
+532,Renault,Duster,Adventure Edition RXZ AWD,2017,"23,000 kms",Diesel,Second Owner,Chennai,8.75 Lakh*
+533,Renault,KWID,1.0 RXT Optional,2017,"51,973 kms",Petrol,First Owner,Chennai,3.9 Lakh*
+534,Skoda,Rapid,1.6 MPI Ambition BSIV,2016,"36,000 kms",Petrol,First Owner,Chennai,7.1 Lakh*
+535,Skoda,Rapid,1.6 TDI Ambition Plus,2012,"1,00,200 kms",Diesel,First Owner,Chennai,3.7 Lakh*
+536,Skoda,Superb,Elegance 2.0 TDI CR AT,2014,"1,02,000 kms",Diesel,First Owner,Chennai,10.5 Lakh*
+537,Skoda,Rapid,Monte Carlo 1.6 MPI BSIV,2019,"10,000 kms",Petrol,First Owner,Chennai,11.75 Lakh*
+538,Skoda,Rapid,1.6 MPI AT Elegance,2015,"42,000 kms",Petrol,First Owner,Chennai,6.3 Lakh*
+539,Skoda,Octavia,Elegance 2.0 TDI AT,2014,"50,000 kms",Diesel,First Owner,Chennai,14.5 Lakh*
+540,Skoda,Rapid,1.6 TDI Elegance,2011,"89,999 kms",Diesel,Second Owner,Chennai,4.05 Lakh*
+541,Skoda,Superb,Elegance 2.0 TDI CR AT,2013,"1,06,000 kms",Diesel,First Owner,Chennai,12.9 Lakh*
+542,Skoda,Superb,2.8 V6 AT,2011,"1,28,000 kms",Petrol,First Owner,Chennai,6.5 Lakh*
+543,Skoda,Rapid,1.6 MPI AT Elegance,2015,"40,000 kms",Petrol,First Owner,Chennai,6.25 Lakh*
+544,BMW,3 Series,320d Sport Line,2013,"59,000 kms",Diesel,Second Owner,Chennai,16.25 Lakh*
+545,BMW,7 Series,Signature 730Ld,2015,"26,000 kms",Diesel,First Owner,Chennai,39.9 Lakh*
+546,BMW,7 Series,730Ld,2016,"40,000 kms",Diesel,First Owner,Chennai,65 Lakh*
+547,BMW,X3,xDrive30d M Sport,2016,"93,515 kms",Diesel,Second Owner,Chennai,30 Lakh*
+548,BMW,5 Series,520d Sedan,2012,"85,000 kms",Diesel,First Owner,Chennai,15.5 Lakh*
+549,BMW,7 Series,730Ld DPE Signature,2016,"54,000 kms",Diesel,Second Owner,Chennai,56.5 Lakh*
+550,BMW,5 Series,525d Luxury Line,2013,"59,000 kms",Diesel,Second Owner,Chennai,18.5 Lakh*
+551,BMW,7 Series,730Ld,2015,"40,000 kms",Diesel,Second Owner,Chennai,38 Lakh*
+552,BMW,3 Series,320d Prestige,2015,"85,000 kms",Diesel,Second Owner,Chennai,15.9 Lakh*
+553,BMW,5 Series,GT 530d LE,2011,"80,000 kms",Diesel,First Owner,Chennai,27 Lakh*
+554,Mercedes-Benz,M-Class,ML 350 CDI,2013,"1,20,000 kms",Diesel,First Owner,Chennai,24 Lakh*
+555,Mercedes-Benz,E-Class,Exclusive E 220 d BSIV,2017,"12,000 kms",Diesel,First Owner,Chennai,45.5 Lakh*
+556,Mercedes-Benz,GLA Class,200 CDI SPORT,2015,"1,01,500 kms",Diesel,First Owner,Chennai,18.5 Lakh*
+557,Mercedes-Benz,S-Class,320 CDI,2009,"80,000 kms",Diesel,First Owner,Chennai,20 Lakh*
+558,Mercedes-Benz,E-Class,E250 CDI Avantgrade,2014,"18,000 kms",Diesel,First Owner,Chennai,27 Lakh*
+559,Mercedes-Benz,GLE Class,350d,2016,"25,000 kms",Diesel,Second Owner,Chennai,43.5 Lakh*
+560,Mercedes-Benz,New C-Class,Progressive C 220d,2019,"30,000 kms",Diesel,First Owner,Chennai,39 Lakh*
+561,Mercedes-Benz,CLS-Class,250 CDI,2013,"70,000 kms",Diesel,First Owner,Chennai,15.75 Lakh*
+562,Mercedes-Benz,New C-Class,Progressive C 220d,2020,"12,000 kms",Diesel,First Owner,Chennai,45 Lakh*
+563,Mercedes-Benz,GLE Class,250d,2017,"18,000 kms",Diesel,First Owner,Chennai,50 Lakh*
+564,Chevrolet,Beat,Diesel LS,2012,"81,000 kms",Diesel,First Owner,Chennai,2.1 Lakh*
+565,Chevrolet,Cruze,LTZ AT,2013,"70,000 kms",Diesel,First Owner,Chennai,5.24 Lakh*
+566,Chevrolet,Enjoy,1.3 TCDi LTZ 8,2016,"60,000 kms",Diesel,First Owner,Chennai,5.6 Lakh*
+567,Chevrolet,Enjoy,1.3 TCDi LS 8,2016,"1,64,000 kms",Diesel,Second Owner,Chennai,3.9 Lakh*
+568,Chevrolet,Beat,LS,2015,"19,000 kms",Petrol,First Owner,Chennai,3.2 Lakh*
+569,Chevrolet,Beat,LS,2013,"1,20,000 kms",Petrol,Second Owner,Chennai,2.5 Lakh*
+570,Chevrolet,Aveo U-VA,1.2 LS,2007,"90,000 kms",Petrol,Third Owner,Chennai,1.8 Lakh*
+571,Chevrolet,Enjoy,Petrol LS 8 Seater,2013,"70,000 kms",Petrol,First Owner,Chennai,4 Lakh*
+572,Chevrolet,Beat,LT,2011,"33,000 kms",Petrol,Second Owner,Chennai,2.8 Lakh*
+573,Chevrolet,Aveo U-VA,1.2 LT,2007,"87,000 kms",Petrol,Second Owner,Chennai,"85,000*"
+574,Nissan,Terrano,XL,2016,"57,000 kms",Petrol,Second Owner,Chennai,6.3 Lakh*
+575,Nissan,Micra Active,XL Petrol,2016,"57,000 kms",Petrol,First Owner,Chennai,3.65 Lakh*
+576,Nissan,Micra,Diesel XV,2013,"34,000 kms",Diesel,First Owner,Chennai,3.95 Lakh*
+577,Nissan,Micra,Diesel XL,2017,"84,000 kms",Diesel,First Owner,Chennai,4.15 Lakh*
+578,Nissan,Micra Active,XV Petrol,2018,"45,014 kms",Petrol,First Owner,Chennai,4.7 Lakh*
+579,Nissan,Terrano,XL Plus 85 PS,2014,"78,000 kms",Diesel,Second Owner,Chennai,5.7 Lakh*
+580,Nissan,Magnite,XV Premium,2021,"3,000 kms",Petrol,First Owner,Chennai,8.25 Lakh*
+581,Nissan,Sunny,Diesel XV,2012,"1,20,000 kms",Diesel,First Owner,Chennai,4 Lakh*
+582,Nissan,Sunny,XV D Premium Safety,2016,"42,250 kms",Diesel,First Owner,Chennai,6.5 Lakh*
+583,Nissan,Magnite,Turbo XV Premium,2021,"2,500 kms",Petrol,First Owner,Chennai,8.5 Lakh*
+584,Audi,Q3,30 TDI S Edition,2015,"72,000 kms",Diesel,Second Owner,Chennai,13.96 Lakh*
+585,Audi,Q3,2.0 TDI Quattro Premium Plus,2014,"69,000 kms",Diesel,Second Owner,Chennai,16.25 Lakh*
+586,Audi,A6,2.8 FSI,2011,"33,000 kms",Petrol,First Owner,Chennai,16.5 Lakh*
+587,Audi,Q5,35TDI Technology,2018,"34,000 kms",Diesel,First Owner,Chennai,48.6 Lakh*
+588,Audi,Q3,30 TDI Premium FWD,2017,"70,000 kms",Diesel,First Owner,Chennai,25 Lakh*
+589,Audi,A4,New 2.0 TDI Multitronic,2011,"68,500 kms",Diesel,Third Owner,Chennai,13 Lakh*
+590,Audi,A6,2.7 TDI,2010,"70,000 kms",Diesel,First Owner,Chennai,10 Lakh*
+591,Audi,A5,Sportback,2017,"21,000 kms",Diesel,First Owner,Chennai,39.75 Lakh*
+592,Audi,A6,35 TDI,2018,"8,000 kms",Diesel,First Owner,Chennai,43 Lakh*
+593,Audi,A3,40 TFSI Premium Plus,2018,"48,000 kms",Petrol,First Owner,Chennai,23 Lakh*
+594,Datsun,GO,T BSIV,2014,"27,000 kms",Petrol,First Owner,Chennai,2.95 Lakh*
+595,Datsun,GO,T BSIV,2014,"20,000 kms",Petrol,First Owner,Chennai,3.3 Lakh*
+596,Datsun,GO,A EPS,2016,"24,000 kms",Petrol,First Owner,Chennai,3.35 Lakh*
+597,Datsun,GO,T BSIV,2014,"22,000 kms",Petrol,First Owner,Chennai,3.25 Lakh*
+598,Datsun,RediGO,T Option,2016,"13,000 kms",Petrol,First Owner,Chennai,2.75 Lakh*
+599,Datsun,GO Plus,T BSIV,2016,"37,000 kms",Petrol,First Owner,Chennai,3.6 Lakh*
+600,Datsun,GO Plus,T BSIV,2017,"14,000 kms",Petrol,First Owner,Chennai,4.6 Lakh*
+601,Datsun,RediGO,T Option,2017,"24,000 kms",Petrol,First Owner,Chennai,2.9 Lakh*
+602,Datsun,RediGO,A,2019,"20,000 kms",Petrol,First Owner,Chennai,2.5 Lakh*
+603,Fiat,Linea,Emotion Pack (Diesel),2013,"68,000 kms",Diesel,Second Owner,Chennai,3.49 Lakh*
+604,Fiat,Grande Punto,1.3 Dynamic (Diesel),2011,"84,200 kms",Diesel,Second Owner,Chennai,2.45 Lakh*
+605,Fiat,Linea,T Jet Active,2014,"52,000 kms",Petrol,Second Owner,Chennai,3.6 Lakh*
+606,Fiat,Punto,1.3 Emotion,2009,"90,000 kms",Diesel,First Owner,Chennai,2.3 Lakh*
+607,Fiat,Punto Pure,1.3L Advanced Multi-Jet,2015,"90,664 kms",Diesel,First Owner,Chennai,3.5 Lakh*
+608,Land-Rover,--,TD4 HSE 7S,2016 Land Rover Discovery Sport,"45,000 kms",Diesel,First Owner,Chennai,36 Lakh*
+609,Land-Rover,--,HSE Dynamic,2015 Land Rover Range Rover Evoque,"42,000 kms",Diesel,First Owner,Chennai,32 Lakh*
+610,Land-Rover,--,2.0 TD4 SE Dynamic,2016 Land Rover Range Rover Evoque,"45,000 kms",Diesel,First Owner,Chennai,35 Lakh*
+611,Land-Rover,--,HSE,2016 Land Rover Range Rover Evoque,"70,000 kms",Diesel,First Owner,Chennai,32 Lakh*
+612,Volvo,S90,D4 Inscription,2017,"31,000 kms",Diesel,First Owner,Chennai,38.5 Lakh*
+613,Volvo,S60,D4 KINETIC,2015,"1,35,000 kms",Diesel,First Owner,Chennai,14 Lakh*
+614,Volvo,S 80,D5,2010,"90,000 kms",Diesel,Second Owner,Chennai,8 Lakh*
+615,Jaguar,XF,3.0 Litre S Premium Luxury,2012,"59,000 kms",Diesel,Second Owner,Chennai,21 Lakh*
+616,Jaguar,XF,2.0 Diesel Portfolio,2018,"78,000 kms",Diesel,First Owner,Chennai,36 Lakh*
+617,Hindustan-Motors,--,Classic 2000 DSZ AC PS,1989 Ambassador,"70,000 kms",Diesel,Second Owner,Chennai,"90,000*"
+618,Hindustan-Motors,--,2.0 DSL,1997 Hindustan Motors Contessa,"80,000 kms",Diesel,Second Owner,Chennai,3.5 Lakh*
+619,Porsche,Cayenne,Diesel,2014,"95,000 kms",Diesel,First Owner,Chennai,45 Lakh*
+620,Porsche,Macan,S Diesel,2016,"80,000 kms",Diesel,Second Owner,Chennai,50 Lakh*
+621,Mahindra-Renault,--,1.5 DLE Diesel,2009 Mahindra Renault Logan,"1,78,587 kms",Diesel,First Owner,Chennai,1 Lakh*
+622,Mahindra-Renault,--,1.4 GLX Petrol,2008 Mahindra Renault Logan,"60,000 kms",Petrol,Third Owner,Chennai,1.25 Lakh*
+623,Mini,Cooper,S,2013,"44,501 kms",Petrol,Second Owner,Chennai,19 Lakh*
+624,Mini,Cooper,S,2013,"44,501 kms",Petrol,Second Owner,Chennai,19 Lakh*
+625,Isuzu,MU-X,4X2,2018,"70,000 kms",Diesel,First Owner,Chennai,21 Lakh*
+626,Kia,Seltos,HTX IVT G,2019,"14,000 kms",Petrol,First Owner,Chennai,14.9 Lakh*
+627,Kia,Seltos,GTX DCT,2019,"24,000 kms",Petrol,First Owner,Chennai,17.3 Lakh*
+628,MG,Hector,Sharp Diesel MT,2021,"4,500 kms",Diesel,First Owner,Chennai,20.75 Lakh*
+629,MG,Hector,Sharp AT BSIV,2020,"12,000 kms",Petrol,First Owner,Chennai,18.5 Lakh*
+630,Mitsubishi,Pajero,Sport 4X4,2014,"97,200 kms",Diesel,First Owner,Chennai,13.85 Lakh*
+631,Opel,Corsa,1.4 GLS,2004,"70,000 kms",Petrol,Second Owner,Chennai,1.3 Lakh*
+632,Jeep,Compass,2.0 Limited,2017,"58,000 kms",Diesel,First Owner,Chennai,14.5 Lakh*
+633,Maruti,Celerio,ZXI,2015,"39,047 Kms",Petrol,2nd Owner,Gurgaon,"3,52,500"
+634,Maruti,Vitara Brezza,ZDi,2017,"33,434 Kms",Diesel,1st Owner,Gurgaon,"7,16,500"
+635,Maruti,Baleno,1.2 CVT Delta,2017,"39,462 Kms",Petrol,1st Owner,Gurgaon,"5,75,500"
+636,Maruti,Alto K10,VXI AMT,2016,"21,863 Kms",Petrol,1st Owner,Gurgaon,"3,32,000"
+637,Maruti,Alto K10,VXI,2018,"18,819 Kms",Petrol,1st Owner,Gurgaon,"3,54,000"
+638,Maruti,Ciaz,Sigma Diesel,2017,"51,421 Kms",Diesel,1st Owner,Gurgaon,"6,40,000"
+639,Maruti,Ciaz,VDi,2014,"77,891 Kms",Diesel,1st Owner,Gurgaon,"4,87,500"
+640,Maruti,Ignis,1.3 AMT Zeta,2017,"55,759 Kms",Diesel,1st Owner,Gurgaon,"5,14,384"
+641,Maruti,Baleno,1.2 Delta,2018,"23,630 Kms",Petrol,2nd Owner,Gurgaon,"5,48,500"
+642,Maruti,Baleno,1.2 Sigma,2020,"13,803 Kms",Petrol,1st Owner,Gurgaon,"5,78,500"
+643,Hyundai,Verna,VTVT 1.6 SX,2019,"6,333 Kms",Petrol,1st Owner,Gurgaon,"9,76,000"
+644,Hyundai,Santro,Magna BSIV,2018,872 Kms,Petrol,1st Owner,Gurgaon,"5,03,000"
+645,Hyundai,Grand i10,Magna,2015,"73,504 Kms",Petrol,1st Owner,Gurgaon,"3,66,500"
+646,Hyundai,Grand i10,Asta,2013,"42,363 Kms",Petrol,2nd Owner,Gurgaon,"3,16,500"
+647,Hyundai,Grand i10,Magna,2015,"41,031 Kms",Petrol,2nd Owner,Gurgaon,"3,56,500"
+648,Hyundai,Grand i10,CRDi Magna,2016,"74,520 Kms",Diesel,1st Owner,Gurgaon,"3,51,500"
+649,Hyundai,i20,Asta 1.4 CRDi,2015,"117,327 Kms",Diesel,1st Owner,Gurgaon,"4,89,500"
+650,Hyundai,Grand i10,1.2 Kappa Sportz Option AT,2018,"43,980 Kms",Petrol,1st Owner,Gurgaon,"5,17,408"
+651,Hyundai,Grand i10,Sportz,2015,"80,081 Kms",Petrol,1st Owner,Gurgaon,"3,69,500"
+652,Hyundai,i20 Active,1.2 SX,2018,"14,713 Kms",Petrol,1st Owner,Gurgaon,"6,31,500"
+653,Honda,Accord,2.4 A/T,2013,"46,121 Kms",Petrol,1st Owner,Gurgaon,"6,02,500"
+654,Honda,Amaze,VX Diesel BSIV,2018,"55,694 Kms",Diesel,1st Owner,Gurgaon,"6,39,116"
+655,Honda,Amaze,VX Diesel,2018,"55,694 Kms",Diesel,1st Owner,Gurgaon,"6,39,116"
+656,Honda,Amaze,S Option i-VTEC,2017,"65,080 Kms",Petrol,2nd Owner,Gurgaon,"4,23,000"
+657,Honda,Amaze,S Petrol,2019,"33,488 Kms",Petrol,1st Owner,Gurgaon,"6,61,000"
+658,Honda,Jazz,VX,2017,"58,269 Kms",Petrol,1st Owner,Gurgaon,"5,38,000"
+659,Honda,Brio,S MT,2012,"37,297 Kms",Petrol,1st Owner,Gurgaon,"3,04,500"
+660,Honda,Brio,S MT,2012,"57,854 Kms",Petrol,2nd Owner,Gurgaon,"2,15,500"
+661,Honda,Brio,S MT,2012,"27,371 Kms",Petrol,2nd Owner,Gurgaon,"2,97,500"
+662,Honda,Brio,1.2 VX AT,2015,"62,409 Kms",Petrol,1st Owner,Gurgaon,"3,94,500"
+663,Toyota,Corolla Altis,VL AT,2015,"43,241 Kms",Petrol,1st Owner,Gurgaon,"9,41,000"
+664,Toyota,Corolla Altis,G,2010,"76,228 Kms",Petrol,2nd Owner,Gurgaon,"3,24,000"
+665,Toyota,Fortuner,4x2 AT,2014,"139,752 Kms",Diesel,1st Owner,Gurgaon,"14,35,500"
+666,Toyota,Corolla Altis,G MT,2016,"48,348 Kms",Petrol,1st Owner,Gurgaon,"8,99,500"
+667,Toyota,Innova,2.5 GX (Diesel) 7 Seater BS IV,2012,"126,657 Kms",Diesel,1st Owner,Gurgaon,"5,96,500"
+668,Toyota,Innova Crysta,2.7 ZX AT BSIV,2016,"34,000 kms",Petrol,First Owner,Gurgaon,16.75 Lakh*
+669,Toyota,Innova,2.5 GX (Diesel) 7 Seater BS IV,2015,"1,52,000 kms",Diesel,First Owner,Gurgaon,7.75 Lakh*
+670,Toyota,Innova,2.5 GX (Diesel) 7 Seater,2011,"90,000 kms",Diesel,Second Owner,Gurgaon,4.5 Lakh*
+671,Toyota,Innova Crysta,2.8 GX AT BSIV,2017,"1,19,234 kms",Diesel,First Owner,Gurgaon,13.55 Lakh*
+672,Toyota,Corolla,H5,2007,"1,19,000 kms",Petrol,First Owner,Gurgaon,1.45 Lakh*
+673,Volkswagen,Polo,GT TSI,2016,"70,992 Kms",Petrol,1st Owner,Gurgaon,"5,53,739"
+674,Volkswagen,Polo,1.5 TDI Comfortline,2014,"68,205 Kms",Diesel,2nd Owner,Gurgaon,"3,22,268"
+675,Volkswagen,Polo,GT TSI,2014,"53,019 Kms",Petrol,2nd Owner,Gurgaon,"4,99,000"
+676,Volkswagen,Polo,1.5 TDI Highline,2014,"76,025 Kms",Diesel,1st Owner,Gurgaon,"3,37,700"
+677,Volkswagen,Ameo,1.2 MPI Highline,2016,"46,846 Kms",Petrol,1st Owner,Gurgaon,"4,59,500"
+678,Volkswagen,Ameo,1.2 MPI Trendline,2017,"41,665 Kms",Petrol,2nd Owner,Gurgaon,"3,94,500"
+679,Volkswagen,Vento,Petrol Comfortline,2012,"59,259 Kms",Petrol,1st Owner,Gurgaon,"2,95,500"
+680,Volkswagen,Polo,1.5 TDI Trendline,2016,"1,15,251 kms",Diesel,First Owner,Gurgaon,4.45 Lakh*
+681,Volkswagen,Vento,1.6 Highline Plus,2016,"41,000 kms",Petrol,First Owner,Gurgaon,5.45 Lakh*
+682,Volkswagen,Vento,1.2 TSI Highline AT,2016,"47,083 kms",Petrol,Second Owner,Gurgaon,6.85 Lakh*
+683,Mahindra,XUV300,W6,2019,"11,330 Kms",Petrol,1st Owner,Gurgaon,"8,18,458"
+684,Mahindra,KUV 100,mFALCON D75 K6,2017,"81,577 Kms",Diesel,1st Owner,Gurgaon,"3,47,140"
+685,Mahindra,XUV500,W6 2WD,2014,"104,149 Kms",Diesel,2nd Owner,Gurgaon,"5,12,000"
+686,Mahindra,Scorpio,S7 140 BSIV,2018,"98,012 kms",Diesel,First Owner,Gurgaon,12.25 Lakh*
+687,Mahindra,XUV500,W6 2WD,2015,"1,08,424 kms",Diesel,First Owner,Gurgaon,6.9 Lakh*
+688,Mahindra,Thar,DI 4X4,2017,"74,000 kms",Diesel,Second Owner,Gurgaon,7.24 Lakh*
+689,Mahindra,Scorpio,S6 7 Seater,2016,"36,000 kms",Diesel,First Owner,Gurgaon,9.7 Lakh*
+690,Mahindra,Marazzo,M6 Plus,2018,"25,000 kms",Diesel,First Owner,Gurgaon,9.9 Lakh*
+691,Mahindra,KUV 100,mFALCON D75 K4,2017,"1,00,000 kms",Diesel,First Owner,Gurgaon,3.95 Lakh*
+692,Mahindra,XUV500,W5 BSIV,2019,"15,000 kms",Diesel,First Owner,Gurgaon,12.5 Lakh*
+693,Renault,Triber,RXT,2020,"1,581 Kms",Petrol,1st Owner,Gurgaon,"6,58,500"
+694,Renault,KWID,RXT Optional,2018,"10,287 Kms",Petrol,1st Owner,Gurgaon,"3,53,000"
+695,Renault,KWID,RXL,2015,"80,036 Kms",Petrol,2nd Owner,Gurgaon,"1,98,500"
+696,Renault,KWID,RXL,2017,"5,111 Kms",Petrol,1st Owner,Gurgaon,"2,87,000"
+697,Renault,Triber,RXL,2020,"8,560 Kms",Petrol,1st Owner,Gurgaon,"5,66,000"
+698,Renault,Duster,85PS Diesel RxL,2015,"82,193 Kms",Diesel,1st Owner,Gurgaon,"4,36,000"
+699,Renault,KWID,RXL,2018,"10,620 Kms",Petrol,1st Owner,Gurgaon,"3,13,000"
+700,Renault,Duster,Petrol RxE,2015,"45,523 kms",Petrol,First Owner,Gurgaon,5.9 Lakh*
+701,Renault,Duster,85PS Diesel RxE,2015,"45,000 kms",Diesel,First Owner,Gurgaon,4.8 Lakh*
+702,Renault,Duster,110PS Diesel RxZ,2012,"90,000 kms",Diesel,Second Owner,Gurgaon,3.5 Lakh*
+703,Audi,Q3,35 TDI Quattro Premium Plus,2012,"66,000 kms",Diesel,Second Owner,Gurgaon,12.5 Lakh*
+704,Audi,A6,2.0 TDI,2012,"73,000 kms",Diesel,Third Owner,Gurgaon,9.9 Lakh*
+705,Audi,Q3,2.0 TDI Quattro Premium Plus,2014,"70,000 kms",Diesel,First Owner,Gurgaon,15.5 Lakh*
+706,Audi,A4,2.0 TDI,2014,"41,000 kms",Diesel,Second Owner,Gurgaon,15.8 Lakh*
+707,Audi,A3,35 TDI Premium Plus,2017,"34,000 kms",Diesel,First Owner,Gurgaon,22 Lakh*
+708,Audi,S5,3.0 TFSIq Tiptronic,2020,"1,001 kms",Petrol,First Owner,Gurgaon,77.5 Lakh*
+709,Audi,Q3,30 TFSI Premium FWD,2017,"39,600 kms",Petrol,First Owner,Gurgaon,24.8 Lakh*
+710,Audi,Q5,30 TDI quattro Premium Plus,2015,"80,000 kms",Diesel,Third Owner,Gurgaon,20.65 Lakh*
+711,Audi,Q3,30 TFSI Premium FWD,2017,"44,600 kms",Petrol,First Owner,Gurgaon,24 Lakh*
+712,Audi,Q7,45 TDI Quattro Technology,2017,"75,000 kms",Diesel,First Owner,Gurgaon,45.8 Lakh*
+713,Ford,Figo Aspire,1.5 TDCi Titanium,2015,"59,092 Kms",Diesel,1st Owner,Gurgaon,"4,12,500"
+714,Ford,Ecosport,1.5 Petrol Titanium AT,2016,"86,546 Kms",Petrol,2nd Owner,Gurgaon,"5,76,000"
+715,Ford,Figo,Diesel Celebration Edition,2013,"48,000 kms",Diesel,Third Owner,Gurgaon,2.2 Lakh*
+716,Ford,Endeavour,2.2 Trend AT 4X2,2016,"53,000 kms",Diesel,First Owner,Gurgaon,24.5 Lakh*
+717,Ford,Ecosport,1.5 Diesel Titanium Plus,2016,"63,000 kms",Diesel,First Owner,Gurgaon,5.9 Lakh*
+718,Ford,EcoSport,1.5 DV5 MT Trend,2014,"68,000 kms",Diesel,Second Owner,Gurgaon,4.5 Lakh*
+719,Ford,EcoSport,1.5 DV5 MT Trend,2014,"66,347 kms",Diesel,Second Owner,Gurgaon,4.75 Lakh*
+720,Ford,Figo,Diesel LXI,2013,"76,190 kms",Diesel,First Owner,Gurgaon,2.35 Lakh*
+721,Ford,Endeavour,3.2 Trend AT 4X4,2016,"52,000 kms",Diesel,Second Owner,Gurgaon,22.45 Lakh*
+722,Ford,Endeavour,2.5L 4X2 MT,2010,"1,20,000 kms",Diesel,First Owner,Gurgaon,5.5 Lakh*
+723,Tata,Tiago,1.2 Revotron XZ,2018,"20,463 Kms",Petrol,1st Owner,Gurgaon,"4,51,000"
+724,Tata,Nexon,1.5 Revotorq XZ Plus,2017,"115,229 Kms",Diesel,1st Owner,Gurgaon,"5,92,000"
+725,Tata,Tigor,1.2 Revotron XZ,2018,"67,371 Kms",Petrol,1st Owner,Gurgaon,"4,31,000"
+726,Tata,Tiago,1.2 Revotron XT,2020,"15,798 Kms",Petrol,1st Owner,Gurgaon,"5,24,243"
+727,Tata,Nano,CX,2012,"70,000 kms",Petrol,First Owner,Gurgaon,"95,000*"
+728,Tata,Zest,Quadrajet 1.3 XT,2014,"54,000 kms",Diesel,First Owner,Gurgaon,4.5 Lakh*
+729,Tata,Harrier,XZA Plus Dual Tone AT,2021,"2,000 kms",Diesel,First Owner,Gurgaon,21.65 Lakh*
+730,Tata,Zest,Revotron 1.2 XT,2016,"58,000 kms",Petrol,First Owner,Gurgaon,4.25 Lakh*
+731,Tata,Tiago,1.2 Revotron XT,2018,"32,000 kms",Petrol,First Owner,Gurgaon,4 Lakh*
+732,Tata,Zest,Quadrajet 1.3 XM,2014,"44,000 kms",Diesel,First Owner,Gurgaon,3.5 Lakh*
+733,BMW,3 Series GT,M Sport Petrol,2019,"8,000 kms",Petrol,First Owner,Gurgaon,43.5 Lakh*
+734,BMW,7 Series,750Li,2014,"35,000 kms",Petrol,Second Owner,Gurgaon,38 Lakh*
+735,BMW,5 Series,520d Sedan,2011,"60,000 kms",Diesel,First Owner,Gurgaon,11 Lakh*
+736,BMW,3 Series,320d Luxury Line,2013,"78,000 kms",Diesel,First Owner,Gurgaon,14.35 Lakh*
+737,BMW,3 Series,320d GT Luxury Line,2014,"1,15,000 kms",Diesel,First Owner,Gurgaon,18 Lakh*
+738,BMW,X3,xDrive20d,2013,"67,000 kms",Diesel,First Owner,Gurgaon,25 Lakh*
+739,BMW,X1,sDrive 20D xLine,2013,"55,000 kms",Diesel,First Owner,Gurgaon,15 Lakh*
+740,BMW,5 Series,530d,2010,"1,79,481 kms",Diesel,First Owner,Gurgaon,8.09 Lakh*
+741,BMW,3 Series,GT 320d Sport Line,2015,"30,000 kms",Diesel,First Owner,Gurgaon,35 Lakh*
+742,BMW,X1,sDrive 20D xLine,2018,"10,422 kms",Diesel,First Owner,Gurgaon,27 Lakh*
+743,Mercedes-Benz,CLS-Class,250 CDI,2015,"1,40,000 kms",Diesel,First Owner,Gurgaon,27 Lakh*
+744,Mercedes-Benz,E-Class,E250 CDI Blue Efficiency,2010,"70,599 kms",Diesel,First Owner,Gurgaon,7.9 Lakh*
+745,Mercedes-Benz,GLA Class,200 Sport,2018,"32,000 kms",Petrol,First Owner,Gurgaon,27 Lakh*
+746,Mercedes-Benz,CLS-Class,250 CDI,2015,"1,40,000 kms",Diesel,First Owner,Gurgaon,27 Lakh*
+747,Mercedes-Benz,CLA,200 CDI Sport,2017,"53,000 kms",Diesel,Second Owner,Gurgaon,23.45 Lakh*
+748,Mercedes-Benz,New C-Class,C 220 CDI Avantgarde,2017,"26,000 kms",Diesel,First Owner,Gurgaon,29.45 Lakh*
+749,Mercedes-Benz,CLA,Urban Sport 200d,2019,"4,000 kms",Diesel,First Owner,Gurgaon,32 Lakh*
+750,Mercedes-Benz,E-Class,E350 Coupe,2009,"65,000 kms",Petrol,Third Owner,Gurgaon,9.4 Lakh*
+751,Mercedes-Benz,S-Class,S 350 L,2010,"50,000 kms",Petrol,First Owner,Gurgaon,32 Lakh*
+752,Mercedes-Benz,New C-Class,220 CDI AT,2014,"46,000 kms",Diesel,Second Owner,Gurgaon,13.5 Lakh*
+753,Skoda,Rapid,1.6 MPI Ambition Plus,2015,"49,920 kms",Petrol,Second Owner,Gurgaon,5.1 Lakh*
+754,Skoda,Rapid,1.6 MPI Ambition Plus,2014,"67,000 kms",Petrol,First Owner,Gurgaon,4.1 Lakh*
+755,Skoda,Laura,2.0 TDI AT L and K,2010,"70,000 kms",Diesel,First Owner,Gurgaon,3 Lakh*
+756,Skoda,Rapid,1.5 TDI AT Style BSIV,2017,"70,000 kms",Diesel,First Owner,Gurgaon,7.75 Lakh*
+757,Skoda,Superb,Elegance 1.8 TSI AT,2010,"80,000 kms",Petrol,Second Owner,Gurgaon,3.3 Lakh*
+758,Skoda,Fabia,1.2 MPI Ambition,2011,"50,000 kms",Petrol,First Owner,Gurgaon,2.2 Lakh*
+759,Skoda,Rapid,1.6 TDI Active,2012,"75,000 kms",Diesel,Second Owner,Gurgaon,2 Lakh*
+760,Skoda,Rapid,1.6 TDI Ambition,2011,"1,30,000 kms",Diesel,First Owner,Gurgaon,1.5 Lakh*
+761,Skoda,Octavia,1.8 TSI AT L K,2019,"15,000 kms",Petrol,First Owner,Gurgaon,22.72 Lakh*
+762,Nissan,Terrano,XL 85 PS,2014,"79,168 kms",Diesel,Second Owner,Gurgaon,4.65 Lakh*
+763,Nissan,Terrano,XL Plus 85 PS,2013,"90,000 kms",Diesel,First Owner,Gurgaon,5 Lakh*
+764,Nissan,Sunny,XV,2012,"79,000 kms",Petrol,First Owner,Gurgaon,2.7 Lakh*
+765,Nissan,Sunny,XL,2011,"70,000 kms",Petrol,Second Owner,Gurgaon,1.8 Lakh*
+766,Nissan,Sunny,XL,2015,"44,810 kms",Petrol,First Owner,Gurgaon,4.85 Lakh*
+767,Nissan,Terra,XV,2012,"2,08,000 kms",Petrol,First Owner,Gurgaon,4.25 Lakh*
+768,Nissan,Terrano,XL Plus 85 PS,2017,"44,000 kms",Diesel,First Owner,Gurgaon,7.5 Lakh*
+769,Nissan,Kicks,1.5 XL,2019,"11,500 kms",Petrol,First Owner,Gurgaon,8.25 Lakh*
+770,Chevrolet,Cruze,LTZ,2011,"1,20,000 kms",Diesel,Third Owner,Gurgaon,2.5 Lakh*
+771,Chevrolet,Aveo U-VA,1.2,2010,"80,000 kms",Petrol,Third Owner,Gurgaon,1.15 Lakh*
+772,Chevrolet,Captiva,LT,2011,"50,000 kms",Diesel,First Owner,Gurgaon,3.3 Lakh*
+773,Chevrolet,Beat,LT,2012,"36,000 kms",Petrol,First Owner,Gurgaon,1.85 Lakh*
+774,Chevrolet,Beat,Diesel PS,2014,"53,184 kms",Diesel,Second Owner,Gurgaon,1.45 Lakh*
+775,Chevrolet,Spark,1.0 LT,2011,"40,000 kms",Petrol,Second Owner,Gurgaon,"80,000*"
+776,Volvo,XC 90,D5 R-Design,2017,"70,000 kms",Diesel,First Owner,Gurgaon,41.9 Lakh*
+777,Volvo,XC60,Inscription D5,2013,"95,000 kms",Diesel,First Owner,Gurgaon,11.5 Lakh*
+778,Volvo,XC60,Inscription D5 BSIV,2018,"40,000 kms",Diesel,First Owner,Gurgaon,46.5 Lakh*
+779,Volvo,XC 90,D5 Inscription BSIV,2017,"80,600 kms",Diesel,First Owner,Gurgaon,47.8 Lakh*
+780,Volvo,S60,D4 KINETIC,2013,"77,000 kms",Diesel,First Owner,Gurgaon,8.25 Lakh*
+781,Volvo,XC 90,D5 R-Design,2017,"70,000 kms",Diesel,First Owner,Gurgaon,41.9 Lakh*
+782,Jeep,Compass,1.4 Limited Plus BSIV,2019,"8,000 kms",Petrol,First Owner,Gurgaon,20.9 Lakh*
+783,Jeep,Compass,2.0 Longitude Option AT,2021,"3,800 kms",Diesel,First Owner,Gurgaon,27 Lakh*
+784,Jeep,Compass,2.0 Limited,2018,"63,912 kms",Diesel,First Owner,Gurgaon,17 Lakh*
+785,Jeep,Compass,2.0 Longitude Option BSIV,2017,"38,000 kms",Diesel,Second Owner,Gurgaon,13 Lakh*
+786,Kia,Seltos,GTX Option,2019,"30,000 kms",Petrol,First Owner,Gurgaon,14.75 Lakh*
+787,Kia,Seltos,HTK Plus G,2020,"12,000 kms",Petrol,First Owner,Gurgaon,12.25 Lakh*
+788,Kia,Seltos,HTX IVT G,2019,"30,000 kms",Petrol,First Owner,Gurgaon,13.5 Lakh*
+789,Kia,Carnival,Limousine,2020,"20,000 kms",Diesel,First Owner,Gurgaon,31.85 Lakh*
+790,Land-Rover,--,TD4 HSE,2012 Land Rover Freelander 2,"70,000 kms",Diesel,First Owner,Gurgaon,9.95 Lakh*
+791,Land-Rover,--,TD4 HSE,2012 Land Rover Freelander 2,"70,000 kms",Diesel,First Owner,Gurgaon,9.95 Lakh*
+792,Land-Rover,--,3.0 D HSE Dynamic,2020 Land Rover Range Rover Sport,"5,000 kms",Diesel,First Owner,Gurgaon,62.5 Lakh*
+793,Datsun,RediGO,A,2019,"15,598 Kms",Petrol,1st Owner,Gurgaon,"2,70,000"
+794,Datsun,RediGO,Sport,2017,"70,000 kms",Petrol,Second Owner,Gurgaon,1.9 Lakh*
+795,Datsun,GO Plus,T BSIV,2016,"60,000 kms",Petrol,First Owner,Gurgaon,3.6 Lakh*
+796,MG,Hector,Sharp AT BSIV,2019,"4,800 kms",Petrol,First Owner,Gurgaon,17.5 Lakh*
+797,MG,Hector,Super AT,2019,"25,000 kms",Petrol,First Owner,Gurgaon,17.45 Lakh*
+798,MG,Hector,Sharp DCT,2021,"4,000 kms",Petrol,First Owner,Gurgaon,17.75 Lakh*
+799,Mitsubishi,Pajero,Sport 4X4,2013,"69,000 kms",,--,Gurgaon,9.45 Lakh*
+800,Mitsubishi,Outlander,2.4,2011,"1,39,000 kms",Petrol,Second Owner,Gurgaon,4.8 Lakh*
+801,Porsche,Panamera,GTS,2015,"30,000 kms",Petrol,First Owner,Gurgaon,56.9 Lakh*
+802,Porsche,Panamera,GTS,2015,"30,000 kms",Petrol,First Owner,Gurgaon,56.9 Lakh*
+803,Jaguar,XJ,3.0L Portfolio,2016,"33,000 kms",Diesel,First Owner,Gurgaon,47 Lakh*
+804,Jaguar,XJ,3.0L Portfolio,2016,"33,000 kms",Diesel,First Owner,Gurgaon,47 Lakh*
+805,Fiat,Grande Punto,1.3 Emotion Pack (Diesel),2011,"1,05,000 kms",Diesel,First Owner,Gurgaon,1.75 Lakh*
+806,Mahindra-Renault,--,1.5 DLE Diesel,2011 Mahindra Renault Logan,"1,00,000 kms",Diesel,Second Owner,Gurgaon,1.6 Lakh*
+807,Premier,Rio,CRDi4 LX,2014,"69,000 kms",Diesel,First Owner,Gurgaon,3.2 Lakh*
+808,Mahindra-Ssangyong,--,RX7,2013 Mahindra Ssangyong Rexton,"1,00,000 kms",Diesel,Second Owner,Gurgaon,6.99 Lakh*
+809,Maruti,Alto 800,LXI BSIV,2016,"66,564 Kms",Petrol,1st Owner,Hyderabad,"2,69,656"
+810,Maruti,Ritz,VXi,2015,"36,556 Kms",Petrol,1st Owner,Hyderabad,"4,00,000"
+811,Maruti,Celerio,VXI MT BSIV,2019,"75,925 Kms",Petrol,1st Owner,Hyderabad,"4,79,000"
+812,Maruti,Swift,ZXI,2014,"43,871 Kms",Petrol,1st Owner,Hyderabad,"4,81,000"
+813,Maruti,Ignis,1.2 Sigma BSIV,2018,"25,097 Kms",Petrol,1st Owner,Hyderabad,"4,70,000"
+814,Maruti,Celerio,ZXI Optional AMT BSIV,2018,"17,335 Kms",Petrol,1st Owner,Hyderabad,"5,27,000"
+815,Maruti,Swift,VDI Optional,2016,"36,568 Kms",Diesel,1st Owner,Hyderabad,"6,06,000"
+816,Maruti,Swift,VDI BSIV,2015,"108,254 Kms",Diesel,2nd Owner,Hyderabad,"4,86,000"
+817,Maruti,Celerio,ZXI AMT BSIV,2019,"3,478 Kms",Petrol,1st Owner,Hyderabad,"5,51,500"
+818,Maruti,Omni,MPI STD BSIV,2018,"3,071 Kms",Petrol,1st Owner,Hyderabad,"3,42,000"
+819,Hyundai,Grand i10,1.2 Kappa Asta,2016,"50,416 Kms",Petrol,1st Owner,Hyderabad,"5,50,000"
+820,Hyundai,Grand i10,1.2 Kappa Magna BSIV,2019,"12,757 Kms",Petrol,1st Owner,Hyderabad,"5,75,500"
+821,Hyundai,Grand i10,1.2 Kappa Asta,2018,"20,959 Kms",Petrol,1st Owner,Hyderabad,"5,99,000"
+822,Hyundai,Grand i10,1.2 Kappa Asta,2016,"50,416 Kms",Petrol,1st Owner,Hyderabad,"5,50,000"
+823,Hyundai,Grand i10,1.2 Kappa Sportz BSIV,2016,"36,231 Kms",Petrol,1st Owner,Hyderabad,"5,08,000"
+824,Hyundai,Grand i10,Sportz,2015,"14,720 Kms",Petrol,1st Owner,Hyderabad,"4,74,000"
+825,Hyundai,Grand i10,CRDi Sportz,2015,"50,885 Kms",Diesel,1st Owner,Hyderabad,"4,52,500"
+826,Hyundai,i20,Magna 1.4 CRDi,2016,"85,071 Kms",Diesel,1st Owner,Hyderabad,"6,01,500"
+827,Hyundai,i20,Magna Plus BSIV,2019,"22,287 Kms",Petrol,1st Owner,Hyderabad,"7,11,000"
+828,Hyundai,Grand i10,1.2 Kappa Magna BSIV,2019,"13,607 Kms",Petrol,1st Owner,Hyderabad,"5,78,500"
+829,Honda,Jazz,1.2 V i VTEC,2016,"29,526 Kms",Petrol,1st Owner,Hyderabad,"5,71,000"
+830,Honda,Amaze,VX i-Vtech,2015,"26,037 Kms",Petrol,1st Owner,Hyderabad,"4,35,500"
+831,Honda,City,i DTec VX,2016,"69,731 Kms",Diesel,1st Owner,Hyderabad,"7,55,500"
+832,Honda,Amaze,VX Petrol,2014,"41,872 kms",Petrol,First Owner,Hyderabad,5.2 Lakh*
+833,Honda,City,1.5 V MT,2011,"49,000 kms",Petrol,First Owner,Hyderabad,4.65 Lakh*
+834,Honda,WR-V,i-DTEC VX,2017,"67,013 kms",Diesel,First Owner,Hyderabad,8.5 Lakh*
+835,Honda,City,1.5 V MT,2011,"72,453 kms",Petrol,First Owner,Hyderabad,4.5 Lakh*
+836,Honda,Jazz,1.2 V i VTEC,2018,"18,000 kms",Petrol,First Owner,Hyderabad,8.5 Lakh*
+837,Honda,City,EXi,2007,"67,000 kms",Petrol,First Owner,Hyderabad,3.5 Lakh*
+838,Honda,City,EXi,2008,"71,441 kms",Petrol,First Owner,Hyderabad,3.02 Lakh*
+839,Volkswagen,Polo,1.0 MPI Comfortline,2019,"24,556 Kms",Petrol,1st Owner,Hyderabad,"5,98,000"
+840,Volkswagen,Polo,1.5 TDI Highline,2015,"99,555 Kms",Diesel,1st Owner,Hyderabad,"5,43,000"
+841,Volkswagen,Vento,1.6 Highline,2014,"107,925 Kms",Petrol,1st Owner,Hyderabad,"5,10,000"
+842,Volkswagen,Polo,1.5 TDI Highline Plus,2016,"1,04,000 kms",Diesel,First Owner,Hyderabad,6 Lakh*
+843,Volkswagen,Vento,Petrol Trendline,2011,"52,144 kms",Petrol,First Owner,Hyderabad,4 Lakh*
+844,Volkswagen,Vento,Diesel Highline,2013,"86,584 kms",Diesel,First Owner,Hyderabad,4.97 Lakh*
+845,Volkswagen,Polo,Diesel Comfortline 1.2L,2013,"93,000 kms",Diesel,First Owner,Hyderabad,5.25 Lakh*
+846,Volkswagen,Polo,GT TSI,2015,"49,000 kms",Petrol,First Owner,Hyderabad,6.9 Lakh*
+847,Volkswagen,Vento,Petrol Trendline,2013,"49,361 kms",Petrol,First Owner,Hyderabad,4.64 Lakh*
+848,Volkswagen,Polo,Diesel Comfortline 1.2L,2012,"1,17,001 kms",Diesel,First Owner,Hyderabad,3.55 Lakh*
+849,Toyota,Innova Crysta,2.4 G 7 STR,2016,"82,213 Kms",Diesel,1st Owner,Hyderabad,"14,59,500"
+850,Toyota,Fortuner,2.8 4WD AT BSIV,2018,"81,147 kms",Diesel,First Owner,Hyderabad,37 Lakh*
+851,Toyota,Etios,GD,2012,"89,694 kms",Diesel,First Owner,Hyderabad,4.32 Lakh*
+852,Toyota,Corolla Altis,G,2011,"67,000 kms",Petrol,First Owner,Hyderabad,5.8 Lakh*
+853,Toyota,Yaris,VX BSIV,2018,"13,400 kms",Petrol,First Owner,Hyderabad,10.75 Lakh*
+854,Toyota,Innova Crysta,2.4 VX MT BSIV,2016,"1,18,000 kms",Diesel,First Owner,Hyderabad,18.5 Lakh*
+855,Toyota,Etios,G,2013,"48,224 kms",Petrol,First Owner,Hyderabad,4.95 Lakh*
+856,Toyota,Fortuner,TRD 4X4 AT,2019,"12,999 kms",Diesel,First Owner,Hyderabad,44 Lakh*
+857,Toyota,Etios,1.4 GD,2017,"66,812 kms",Diesel,First Owner,Hyderabad,7.24 Lakh*
+858,Toyota,Fortuner,2.8 2WD MT,2018,"1,06,000 kms",Diesel,First Owner,Hyderabad,29.5 Lakh*
+859,Mahindra,Scorpio,1.99 S10,2017,"42,361 kms",Diesel,First Owner,Hyderabad,13.5 Lakh*
+860,Mahindra,Scorpio,VLX 2WD AIRBAG BSIV,2013,"1,35,000 kms",Diesel,First Owner,Hyderabad,6.5 Lakh*
+861,Mahindra,Quanto,C8,2014,"1,47,000 kms",Diesel,First Owner,Hyderabad,3.99 Lakh*
+862,Mahindra,Quanto,C8,2014,"1,45,000 kms",Diesel,First Owner,Hyderabad,3.99 Lakh*
+863,Mahindra,Quanto,C8,2014,"1,34,000 kms",Diesel,First Owner,Hyderabad,3.99 Lakh*
+864,Mahindra,XUV500,W6 2WD,2017,"1,20,289 kms",Diesel,First Owner,Hyderabad,9.65 Lakh*
+865,Mahindra,TUV 300,T6 Plus,2015,"1,61,000 kms",Diesel,First Owner,Hyderabad,5.85 Lakh*
+866,Mahindra,TUV 300,T6 Plus,2015,"1,55,000 kms",Diesel,First Owner,Hyderabad,5.85 Lakh*
+867,Mahindra,TUV 300,T8,2016,"37,000 kms",Diesel,First Owner,Hyderabad,8.25 Lakh*
+868,Mahindra,TUV 300,T6 Plus,2016,"1,45,000 kms",Diesel,First Owner,Hyderabad,6.25 Lakh*
+869,Ford,EcoSport,1.5 DV5 MT Titanium Optional,2014,"131,906 Kms",Diesel,1st Owner,Hyderabad,"5,78,000"
+870,Ford,Ecosport,1.5 Diesel Titanium Plus BSIV,2019,"6,865 Kms",Diesel,1st Owner,Hyderabad,"10,45,500"
+871,Ford,Ecosport,1.5 Diesel Titanium Plus,2016,"69,180 kms",Diesel,First Owner,Hyderabad,7.95 Lakh*
+872,Ford,Figo,Diesel Titanium,2013,"55,000 kms",Diesel,First Owner,Hyderabad,3.45 Lakh*
+873,Ford,Figo,Petrol Titanium,2010,"80,259 kms",Petrol,First Owner,Hyderabad,2.9 Lakh*
+874,Ford,Figo Aspire,1.2 Ti-VCT Titanium Plus,2015,"40,100 kms",Petrol,First Owner,Hyderabad,5.25 Lakh*
+875,Ford,Figo,Diesel Titanium,2013,"78,000 kms",Diesel,First Owner,Hyderabad,3.45 Lakh*
+876,Ford,Figo Aspire,1.2 Ti-VCT Titanium Opt,2017,"48,676 kms",Petrol,First Owner,Hyderabad,5.89 Lakh*
+877,Ford,Figo,Petrol Titanium,2010,"87,147 kms",Petrol,First Owner,Hyderabad,2.59 Lakh*
+878,Ford,EcoSport,1.5 DV5 MT Titanium,2013,"61,625 kms",Diesel,First Owner,Hyderabad,6.4 Lakh*
+879,Tata,Tiago,1.2 Revotron XT,2016,"30,859 Kms",Petrol,2nd Owner,Hyderabad,"4,27,500"
+880,Tata,Zest,Revotron 1.2T XMS,2015,"42,800 kms",Petrol,First Owner,Hyderabad,4.4 Lakh*
+881,Tata,Bolt,Quadrajet XE,2017,"90,000 kms",Diesel,First Owner,Hyderabad,4 Lakh*
+882,Tata,Tigor,1.05 Revotorq XZ,2018,"20,000 kms",Diesel,First Owner,Hyderabad,6.95 Lakh*
+883,Tata,New Safari,EX TCIC 4X4,2007,"1,04,000 kms",Diesel,First Owner,Hyderabad,3.15 Lakh*
+884,Tata,Nano,Twist XT,2014,"39,000 kms",Petrol,First Owner,Hyderabad,1.95 Lakh*
+885,Tata,Nexon,1.5 Revotorq XT,2017,"43,000 kms",Diesel,First Owner,Hyderabad,8.25 Lakh*
+886,Tata,Tiago,1.2 Revotron XE,2018,"15,900 kms",Petrol,First Owner,Hyderabad,4.5 Lakh*
+887,Tata,Nexon,1.5 Revotorq XM,2018,"2,90,000 kms",Diesel,First Owner,Hyderabad,7.85 Lakh*
+888,Tata,Nano,XTA,2016,"25,165 kms",Petrol,First Owner,Hyderabad,2.5 Lakh*
+889,Renault,Duster,85PS Diesel RxL,2014,"114,479 Kms",Diesel,1st Owner,Hyderabad,"4,93,000"
+890,Renault,KWID,Climber 1.0 MT,2017,"30,499 Kms",Petrol,2nd Owner,Hyderabad,"3,16,500"
+891,Renault,KWID,1.0 RXT AMT,2016,"37,845 Kms",Petrol,1st Owner,Hyderabad,"3,32,500"
+892,Renault,Pulse,RxL,2015,"16,728 kms",Diesel,First Owner,Hyderabad,4.59 Lakh*
+893,Renault,Duster,85PS Diesel RxL Optional,2012,"95,085 kms",Diesel,First Owner,Hyderabad,5.85 Lakh*
+894,Renault,Duster,85PS Diesel RxL,2013,"85,949 kms",Diesel,First Owner,Hyderabad,5.5 Lakh*
+895,Renault,KWID,1.0 RXT 02 Anniversary Edition,2018,"54,423 kms",Petrol,First Owner,Hyderabad,4.32 Lakh*
+896,Renault,KWID,RXT Optional,2018,"29,150 kms",Petrol,First Owner,Hyderabad,4.32 Lakh*
+897,Renault,Duster,85PS Diesel RxL,2012,"83,000 kms",Diesel,First Owner,Hyderabad,5.1 Lakh*
+898,Renault,Duster,Petrol RXS CVT,2018,"55,000 kms",Petrol,First Owner,Hyderabad,8.95 Lakh*
+899,BMW,X5,xDrive30d Edition X,2015,"70,000 kms",Diesel,First Owner,Hyderabad,37 Lakh*
+900,BMW,5 Series,530d M Sport,2015,"71,000 kms",Diesel,First Owner,Hyderabad,29.5 Lakh*
+901,BMW,X3,xDrive20d xLine,2018,"45,000 kms",Diesel,First Owner,Hyderabad,49 Lakh*
+902,BMW,X5,xDrive 30d,2010,"95,000 kms",Diesel,First Owner,Hyderabad,18.99 Lakh*
+903,BMW,7 Series 2002-2005,745Li,2005,"99,900 kms",Petrol,First Owner,Hyderabad,8.75 Lakh*
+904,BMW,X3,xDrive 20d xLine,2017,"65,000 kms",Diesel,First Owner,Hyderabad,33 Lakh*
+905,BMW,5 Series,530d Sedan 3.0,2011,"1,36,000 kms",Diesel,First Owner,Hyderabad,16.99 Lakh*
+906,BMW,5 Series,520d Sport Line,2017,"5,200 kms",Diesel,First Owner,Hyderabad,51 Lakh*
+907,BMW,X6,xDrive 40d,2014,"1,30,000 kms",Diesel,First Owner,Hyderabad,29.99 Lakh*
+908,BMW,X3,2.5si,2008,"1,31,000 kms",Petrol,First Owner,Hyderabad,9.99 Lakh*
+909,Mercedes-Benz,E-Class,Expression E 220 d BSIV,2018,"8,000 kms",Diesel,First Owner,Hyderabad,58 Lakh*
+910,Mercedes-Benz,New C-Class,C 220 CDI Elegance AT,2008,"80,000 kms",Diesel,First Owner,Hyderabad,7.99 Lakh*
+911,Mercedes-Benz,S-Class,S 350 CDI,2010,"84,000 kms",Diesel,First Owner,Hyderabad,19.99 Lakh*
+912,Mercedes-Benz,E-Class,E250 CDI Blue Efficiency,2011,"75,000 kms",Diesel,First Owner,Hyderabad,13.25 Lakh*
+913,Mercedes-Benz,E-Class,230 E AT,2008,"91,000 kms",Petrol,First Owner,Hyderabad,5.5 Lakh*
+914,Mercedes-Benz,New C-Class,Progressive C 220d,2019,"59,000 kms",Diesel,First Owner,Hyderabad,36 Lakh*
+915,Mercedes-Benz,GLE Class,350d,2015,"32,000 kms",Diesel,First Owner,Hyderabad,49.5 Lakh*
+916,Mercedes-Benz,GLE Class,350d,2017,"60,000 kms",Diesel,First Owner,Hyderabad,49 Lakh*
+917,Mercedes-Benz,CLS-Class,250 CDI,2016,"12,000 kms",Diesel,First Owner,Hyderabad,48 Lakh*
+918,Mercedes-Benz,E-Class,E250 CDI Avantgarde,2014,"30,000 kms",Diesel,First Owner,Hyderabad,28.5 Lakh*
+919,Skoda,Superb,Elegance 2.0 TDI CR AT,2014,"89,308 kms",Diesel,First Owner,Hyderabad,12.65 Lakh*
+920,Skoda,Octavia,Ambition 2.0 TDI AT,2014,"93,500 kms",Diesel,First Owner,Hyderabad,11.5 Lakh*
+921,Skoda,Octavia,Elegance 2.0 TDI AT,2015,"99,000 kms",Diesel,First Owner,Hyderabad,13.99 Lakh*
+922,Skoda,Octavia,Classic 1.9 TDI MT,2007,"1,10,000 kms",Diesel,First Owner,Hyderabad,2.5 Lakh*
+923,Skoda,Rapid,1.5 TDI Ambition BSIV,2017,"53,000 kms",Diesel,First Owner,Hyderabad,8.99 Lakh*
+924,Skoda,Superb,Elegance 2.0 TDI CR AT,2011,"75,000 kms",Diesel,First Owner,Hyderabad,6.5 Lakh*
+925,Skoda,Fabia,1.2 MPI Classic,2010,"65,000 kms",Petrol,First Owner,Hyderabad,2.85 Lakh*
+926,Skoda,Rapid,1.6 MPI Style Plus,2016,"38,500 kms",Petrol,First Owner,Hyderabad,6.75 Lakh*
+927,Skoda,Yeti,Ambition 4X2,2012,"1,05,430 kms",Diesel,First Owner,Hyderabad,6.75 Lakh*
+928,Skoda,Kodiaq,2.0 TDI Style,2018,"49,000 kms",Diesel,First Owner,Hyderabad,29.5 Lakh*
+929,Nissan,Micra Active,XV,2015,"62,242 kms",Petrol,First Owner,Hyderabad,4 Lakh*
+930,Nissan,Micra Active,XV,2015,"51,456 kms",Petrol,First Owner,Hyderabad,4.1 Lakh*
+931,Nissan,Micra Active,XL Petrol,2014,"47,505 kms",Petrol,First Owner,Hyderabad,4.05 Lakh*
+932,Nissan,Micra Active,XV,2015,"43,240 kms",Petrol,First Owner,Hyderabad,4.21 Lakh*
+933,Nissan,Micra,Diesel XV Premium,2012,"1,05,000 kms",Diesel,First Owner,Hyderabad,3.25 Lakh*
+934,Nissan,Sunny,XV,2014,"58,000 kms",Petrol,Second Owner,Hyderabad,4.69 Lakh*
+935,Nissan,X-Trail,Elegance,2007,"1,10,000 kms",Diesel,First Owner,Hyderabad,2.99 Lakh*
+936,Nissan,Micra,XV CVT,2016,"31,200 kms",Petrol,Second Owner,Hyderabad,4.99 Lakh*
+937,Nissan,Micra Active,XV Petrol,2018,"44,000 kms",Petrol,First Owner,Hyderabad,4.8 Lakh*
+938,Nissan,Sunny,Diesel XL,2013,"1,15,000 kms",Diesel,First Owner,Hyderabad,4.45 Lakh*
+939,Chevrolet,Cruze,LTZ,2010,"1,05,000 kms",Diesel,First Owner,Hyderabad,4.5 Lakh*
+940,Chevrolet,Enjoy,TCDi LS 8 Seater,2013,"85,000 kms",Diesel,First Owner,Hyderabad,3.45 Lakh*
+941,Chevrolet,Spark,1.0,2008,"75,000 kms",Petrol,Second Owner,Hyderabad,1.3 Lakh*
+942,Chevrolet,Spark,1.0 LT,2008,"86,000 kms",Petrol,First Owner,Hyderabad,1.65 Lakh*
+943,Chevrolet,Beat,PS,2013,"83,000 kms",Petrol,Second Owner,Hyderabad,2.05 Lakh*
+944,Chevrolet,Beat,Diesel,2011,"97,000 kms",Diesel,First Owner,Hyderabad,2.1 Lakh*
+945,Chevrolet,Cruze,LTZ AT,2010,"60,000 kms",Diesel,First Owner,Hyderabad,4.95 Lakh*
+946,Chevrolet,Spark,1.0 LS,2009,"54,000 kms",Petrol,First Owner,Hyderabad,1.75 Lakh*
+947,Chevrolet,Beat,Diesel LT,2013,"60,000 kms",Diesel,First Owner,Hyderabad,3.15 Lakh*
+948,Chevrolet,Optra,1.6 LS,2004,"1,00,000 kms",Petrol,Second Owner,Hyderabad,2 Lakh*
+949,Audi,A6,2.7 TDI,2010,"78,000 kms",Diesel,First Owner,Hyderabad,11 Lakh*
+950,Audi,A6,35 TDI,2015,"67,000 kms",Diesel,First Owner,Hyderabad,26.5 Lakh*
+951,Audi,A4,New 2.0 TDI Multitronic,2014,"60,000 kms",Diesel,First Owner,Hyderabad,18 Lakh*
+952,Audi,A4,35 TDI Technology Edition,2015,"42,000 kms",Diesel,First Owner,Hyderabad,22.5 Lakh*
+953,Audi,A4,New 2.0 TDI Multitronic,2011,"1,30,000 kms",Diesel,First Owner,Hyderabad,11.99 Lakh*
+954,Audi,TT,45 TFSI,2017,"4,000 kms",Petrol,First Owner,Hyderabad,57 Lakh*
+955,Audi,Q5,35TDI Technology,2018,"19,000 kms",Diesel,First Owner,Hyderabad,49 Lakh*
+956,Audi,Q3,35 TDI Quattro Premium Plus,2013,"1,04,000 kms",Diesel,First Owner,Hyderabad,14.25 Lakh*
+957,Audi,A6,35 TDI,2016,"19,000 kms",Diesel,First Owner,Hyderabad,33 Lakh*
+958,Audi,A6,2.0 TDI Premium Plus,2015,"45,000 kms",Diesel,First Owner,Hyderabad,31.95 Lakh*
+959,Jaguar,XJ,3.0L Premium Luxury LWB,2012,"48,000 kms",Diesel,First Owner,Hyderabad,30 Lakh*
+960,Jaguar,XF,3.0 Litre S Premium Luxury,2018,"5,597 kms",Diesel,First Owner,Hyderabad,50.5 Lakh*
+961,Jaguar,XF,3.0 Litre S Premium Luxury,2013,"79,000 kms",Diesel,First Owner,Hyderabad,24.99 Lakh*
+962,Jaguar,XF,2.2 Litre Executive,2017,"11,000 kms",Diesel,First Owner,Hyderabad,38 Lakh*
+963,Jaguar,XF,3.0 Litre S Premium Luxury,2012,"26,000 kms",Diesel,First Owner,Hyderabad,24 Lakh*
+964,Jaguar,XJ,3.0L Portfolio,2016,"30,000 kms",Diesel,First Owner,Hyderabad,59 Lakh*
+965,Jaguar,XF,3.0 Litre S Premium Luxury,2011,"61,000 kms",Diesel,First Owner,Hyderabad,14.5 Lakh*
+966,Jaguar,XF,2.2 Litre Luxury,2015,"45,700 kms",Diesel,First Owner,Hyderabad,27.95 Lakh*
+967,Jaguar,XF,2.2 Litre Luxury,2015,"50,000 kms",Diesel,First Owner,Hyderabad,25 Lakh*
+968,Datsun,GO,T BSIV,2014,"22,107 kms",Petrol,First Owner,Hyderabad,3.67 Lakh*
+969,Datsun,RediGO,T Option,2016,"41,987 kms",Petrol,First Owner,Hyderabad,3.08 Lakh*
+970,Datsun,RediGO,AMT 1.0 S,2019,"5,400 kms",Petrol,First Owner,Hyderabad,4.25 Lakh*
+971,Datsun,GO Plus,T BSIV,2017,"50,000 kms",Petrol,First Owner,Hyderabad,3.35 Lakh*
+972,Datsun,RediGO,T Option,2017,"15,400 kms",Petrol,First Owner,Hyderabad,2.99 Lakh*
+973,Datsun,GO Plus,A Petrol,2018,"25,000 kms",Petrol,First Owner,Hyderabad,5 Lakh*
+974,Datsun,GO Plus,T BSIV,2017,"3,75,000 kms",Petrol,First Owner,Hyderabad,3.75 Lakh*
+975,Datsun,GO,T BSIV,2015,"50,000 kms",Petrol,First Owner,Hyderabad,2.5 Lakh*
+976,Datsun,RediGO,T Option,2017,"23,142 kms",Petrol,First Owner,Hyderabad,3.46 Lakh*
+977,Land-Rover,--,3.6 TDV8 Vogue SE,2010 Land Rover Range Rover,"1,05,000 kms",Diesel,First Owner,Hyderabad,41 Lakh*
+978,Land-Rover,--,HSE 3.0 TD6,2017 Land Rover Discovery,"40,000 kms",Diesel,First Owner,Hyderabad,69 Lakh*
+979,Land-Rover,--,SD4 HSE Luxury 7S,2017 Land Rover Discovery Sport,"18,000 kms",Diesel,First Owner,Hyderabad,47 Lakh*
+980,Land-Rover,--,3.0 D HSE Dynamic Black,2013 Land Rover Range Rover Sport,"56,600 kms",Diesel,First Owner,Hyderabad,43.45 Lakh*
+981,Land-Rover,--,SD4 HSE Luxury,2016 Land Rover Discovery Sport,"66,000 kms",Diesel,First Owner,Hyderabad,41.75 Lakh*
+982,Land-Rover,--,SE,2014 Land Rover Freelander 2,"1,21,145 kms",Diesel,First Owner,Hyderabad,17.85 Lakh*
+983,Land-Rover,--,TD4 HSE 7S,2018 Land Rover Discovery Sport,"52,039 kms",Diesel,First Owner,Hyderabad,44.75 Lakh*
+984,Land-Rover,--,HSE,2010 Land Rover Range Rover Sport,"78,000 kms",Diesel,Third Owner,Hyderabad,24 Lakh*
+985,Fiat,Grande Punto,1.3 Emotion (Diesel),2011,"90,000 kms",Diesel,First Owner,Hyderabad,1.85 Lakh*
+986,Fiat,Linea,Emotion Pack (Diesel),2011,"92,535 kms",Diesel,First Owner,Hyderabad,3.75 Lakh*
+987,Fiat,Linea,1.3 Active,2010,"65,000 kms",Diesel,First Owner,Hyderabad,2.75 Lakh*
+988,Fiat,Grande Punto,EVO 90HP 1.3 Sport,2014,"1,00,000 kms",Diesel,First Owner,Hyderabad,4 Lakh*
+989,Fiat,Grande Punto,1.4 Emotion,2012,"50,000 kms",Petrol,Second Owner,Hyderabad,1.8 Lakh*
+990,Volvo,V90 Cross Country,D5 Inscription BSIV,2018,"56,000 kms",Diesel,First Owner,Hyderabad,49.5 Lakh*
+991,Volvo,XC60,Momentum D4 BSIV,2014,"99,000 kms",Diesel,First Owner,Hyderabad,18.5 Lakh*
+992,Volvo,XC60,D5 Summum,2014,"67,000 kms",Diesel,First Owner,Hyderabad,21.99 Lakh*
+993,Volvo,XC 90,D5 AWD,2012,"1,22,488 kms",Diesel,First Owner,Hyderabad,13.76 Lakh*
+994,Jeep,Compass,2.0 Longitude BSIV,2017,"55,233 kms",Diesel,First Owner,Hyderabad,13.5 Lakh*
+995,Jeep,Compass,1.4 Limited,2018,"27,240 kms",Petrol,First Owner,Hyderabad,18 Lakh*
+996,Jeep,Compass,1.4 Limited Option Black,2018,"50,753 kms",Petrol,First Owner,Hyderabad,17.9 Lakh*
+997,Jeep,Compass,2.0 Limited,2018,"23,000 kms",Diesel,First Owner,Hyderabad,18.99 Lakh*
+998,Mitsubishi,Outlander,2.4,2011,"1,20,200 kms",Petrol,Second Owner,Hyderabad,6.5 Lakh*
+999,Mitsubishi,Pajero,Sport 4X4,2013,"83,000 kms",Diesel,First Owner,Hyderabad,12.99 Lakh*
+1000,Mitsubishi,Cedia,Sports,2008,"60,000 kms",Petrol,Third Owner,Hyderabad,3.5 Lakh*
+1001,Porsche,Cayenne,Diesel Platinum Edition,2017,"40,000 kms",Diesel,First Owner,Hyderabad,85 Lakh*
+1002,Porsche,Cayenne,S Diesel,2006,"55,000 kms",Diesel,First Owner,Hyderabad,16.5 Lakh*
+1003,Porsche,Cayenne,S Diesel,2013,"87,500 kms",Diesel,First Owner,Hyderabad,33.75 Lakh*
+1004,Opel,Corsa,1.6 GSi,2005,"80,000 kms",Petrol,First Owner,Hyderabad,1.55 Lakh*
+1005,Isuzu,MU 7,AT Premium,2016,"90,000 kms",Diesel,First Owner,Hyderabad,13.5 Lakh*
+1006,Bentley,Continental,GT,2008,"8,000 kms",Petrol,First Owner,Hyderabad,69 Lakh*
+1007,Lexus,LS,500h Ultra Luxury,2019,"3,500 kms",Petrol,First Owner,Hyderabad,1.75 Cr*
+1008,Mini,3 DOOR,Cooper D,2015,"54,000 kms",Diesel,First Owner,Hyderabad,23.75 Lakh*
+1009,Kia,Seltos,HTK Plus AT D,2020,"3,121 kms",Diesel,First Owner,Hyderabad,15.45 Lakh*
+1010,MG,Hector,Smart DCT,2020,"19,700 kms",Petrol,First Owner,Hyderabad,15.6 Lakh*
+1011,Maruti,Swift Dzire,VDI,2019,,--,--,Jaipur,--
+1012,Maruti,Swift Dzire,VDI,2019,,--,--,Jaipur,--
+1013,Maruti,Alto 800,LXI,2018,"44,455 Kms",Petrol,1st Owner,Jaipur,"3,38,500"
+1014,Maruti,Baleno,Sigma,2020,"2,078 Kms",Petrol,1st Owner,Jaipur,"6,57,967"
+1015,Maruti,Baleno,1.2 Delta,2016,"57,421 Kms",Petrol,1st Owner,Jaipur,"5,39,161"
+1016,Maruti,Alto,LXi,2009,"42,664 Kms",Petrol,1st Owner,Jaipur,"1,62,500"
+1017,Maruti,Swift,VDI BSIV,2011,"38,437 Kms",Diesel,1st Owner,Jaipur,"3,80,350"
+1018,Maruti,Vitara Brezza,ZXI,2020,"11,272 Kms",Petrol,1st Owner,Jaipur,"10,14,000"
+1019,Maruti,Baleno,Delta,2018,"32,644 Kms",Petrol,1st Owner,Jaipur,"6,66,800"
+1020,Maruti,Alto 800,LXI,2018,"28,301 Kms",Petrol,1st Owner,Jaipur,"3,32,121"
+1021,Hyundai,Xcent,1.1 CRDi SX Option,2015,"72,593 Kms",Diesel,1st Owner,Jaipur,"4,51,750"
+1022,Hyundai,Grand i10,Asta,2014,"40,602 Kms",Petrol,1st Owner,Jaipur,"4,48,600"
+1023,Hyundai,Xcent,1.1 CRDi SX,2016,"18,104 Kms",Diesel,2nd Owner,Jaipur,"4,79,842"
+1024,Hyundai,Grand i10,1.2 CRDi Sportz,2013,"74,927 Kms",Diesel,2nd Owner,Jaipur,"3,73,500"
+1025,Hyundai,Grand i10,CRDi Sportz,2015,"103,461 Kms",Diesel,1st Owner,Jaipur,"4,14,970"
+1026,Hyundai,Grand i10,1.2 Kappa Sportz BSIV,2017,"52,440 Kms",Petrol,1st Owner,Jaipur,"4,80,028"
+1027,Hyundai,Grand i10,1.2 Kappa Sportz BSIV,2016,"36,103 Kms",Petrol,1st Owner,Jaipur,"4,94,550"
+1028,Hyundai,Grand i10,1.2 Kappa Magna BSIV,2018,"25,319 Kms",Petrol,1st Owner,Jaipur,"5,25,500"
+1029,Hyundai,Grand i10,1.2 Kappa Magna BSIV,2018,"50,067 Kms",Petrol,1st Owner,Jaipur,"4,96,325"
+1030,Hyundai,i20,1.2 Asta,2018,"35,995 Kms",Petrol,1st Owner,Jaipur,"7,14,950"
+1031,Ford,Ecosport,1.5 TDCi Ambiente BSIV,2015,"31,724 Kms",Diesel,1st Owner,Jaipur,"5,74,793"
+1032,Ford,EcoSport,1.0 Ecoboost Titanium,2015,"89,572 Kms",Petrol,1st Owner,Jaipur,"5,33,500"
+1033,Ford,Ecosport,Titanium Diesel,2019,"32,623 Kms",Diesel,1st Owner,Jaipur,"9,52,000"
+1034,Ford,Ecosport,1.5 TDCi Titanium BSIV,2015,"63,632 Kms",Diesel,1st Owner,Jaipur,"5,79,420"
+1035,Ford,Figo,Titanium Diesel,2020,"12,722 kms",Diesel,First Owner,Jaipur,7.5 Lakh*
+1036,Ford,Figo Aspire,1.5 TDCi Trend,2018,"35,353 kms",Diesel,First Owner,Jaipur,5.95 Lakh*
+1037,Ford,Fiesta,1.6 Duratec EXI,2010,"66,000 kms",Petrol,First Owner,Jaipur,2.4 Lakh*
+1038,Ford,Figo,1.5D Titanium Opt MT,2019,"8,000 kms",Diesel,First Owner,Jaipur,7.45 Lakh*
+1039,Ford,Ecosport,1.5 Diesel Titanium,2017,"89,100 kms",Diesel,First Owner,Jaipur,7.45 Lakh*
+1040,Ford,Figo,Diesel LXI,2012,"1,03,635 kms",Diesel,Second Owner,Jaipur,1.83 Lakh*
+1041,Honda,City,ZX CVT,2020,"36,243 Kms",Petrol,1st Owner,Jaipur,"13,84,254"
+1042,Honda,City,i-VTEC CVT ZX,2017,"52,362 Kms",Petrol,2nd Owner,Jaipur,"9,40,620"
+1043,Honda,Amaze,EX i-Dtech,2013,"84,040 Kms",Diesel,1st Owner,Jaipur,"3,89,550"
+1044,Honda,Amaze,S i-VTEC,2019,"22,903 Kms",Petrol,1st Owner,Jaipur,"6,41,450"
+1045,Honda,Amaze,S Petrol,2020,"15,761 Kms",Petrol,1st Owner,Jaipur,"7,07,500"
+1046,Honda,City,i-VTEC V,2020,"1,361 Kms",Petrol,1st Owner,Jaipur,"9,97,900"
+1047,Honda,Amaze,S i-VTEC,2017,"60,000 kms",Petrol,First Owner,Jaipur,5.75 Lakh*
+1048,Honda,Amaze,S i-VTEC,2019,"16,181 kms",Petrol,First Owner,Jaipur,6.85 Lakh*
+1049,Honda,WR-V,i-DTEC VX,2017,"77,000 kms",Diesel,First Owner,Jaipur,7.5 Lakh*
+1050,Honda,WR-V,i-DTEC VX,2017,"68,000 kms",Diesel,First Owner,Jaipur,7.65 Lakh*
+1051,Mahindra,Scorpio,Intelli Hybrid S10,2016,"61,008 Kms",Diesel,1st Owner,Jaipur,"12,19,200"
+1052,Mahindra,Scorpio,S3 9 Seater BSIV,2019,"76,194 Kms",Diesel,1st Owner,Jaipur,"9,61,450"
+1053,Mahindra,XUV500,W8 2WD,2013,"1,69,400 kms",Diesel,First Owner,Jaipur,6.75 Lakh*
+1054,Mahindra,XUV500,W6 2WD,2017,"72,000 kms",Diesel,Second Owner,Jaipur,9.45 Lakh*
+1055,Mahindra,XUV500,W6 2WD,2018,"72,000 kms",Diesel,First Owner,Jaipur,9.75 Lakh*
+1056,Mahindra,XUV500,W8 2WD,2013,"1,06,000 kms",Diesel,First Owner,Jaipur,6.75 Lakh*
+1057,Mahindra,XUV500,W8 2WD,2014,"70,000 kms",Diesel,Second Owner,Jaipur,7.3 Lakh*
+1058,Mahindra,Bolero,mHAWK D70 SLX,2018,"72,000 kms",Diesel,First Owner,Jaipur,8.5 Lakh*
+1059,Mahindra,KUV 100,mFALCON G80 K8,2016,"51,959 kms",Petrol,Second Owner,Jaipur,3.45 Lakh*
+1060,Mahindra,Scorpio,VLX 2WD AIRBAG BSIV,2011,"1,60,000 kms",Diesel,First Owner,Jaipur,5.25 Lakh*
+1061,Renault,KWID,RXL,2018,"1,355 Kms",Petrol,1st Owner,Jaipur,"3,40,586"
+1062,Renault,KWID,RXT,2016,"24,601 Kms",Petrol,1st Owner,Jaipur,"2,96,295"
+1063,Renault,KWID,RXT,2018,"49,444 Kms",Petrol,1st Owner,Jaipur,"3,25,445"
+1064,Renault,Pulse,RxL,2012,"72,564 kms",Diesel,Second Owner,Jaipur,1.83 Lakh*
+1065,Renault,KWID,AMT,2016,"50,000 kms",Petrol,First Owner,Jaipur,3.25 Lakh*
+1066,Renault,Duster,110PS Diesel RxZ,2013,"99,672 kms",Diesel,First Owner,Jaipur,4.41 Lakh*
+1067,Renault,Fluence,Diesel E4,2011,"1,43,072 kms",Diesel,First Owner,Jaipur,2.58 Lakh*
+1068,Renault,Duster,85PS Diesel RxL,2013,"1,52,908 kms",Diesel,First Owner,Jaipur,3.88 Lakh*
+1069,Renault,Duster,110PS Diesel RxL,2013,"85,405 kms",Diesel,First Owner,Jaipur,4.18 Lakh*
+1070,Renault,Duster,110PS Diesel RxZ,2012,"78,943 kms",Diesel,Second Owner,Jaipur,3.78 Lakh*
+1071,Volkswagen,Ameo,1.0 MPI Comfortline,2018,"16,791 Kms",Petrol,1st Owner,Jaipur,"5,55,000"
+1072,Volkswagen,Vento,1.0 TSI Highline,2020,"7,500 kms",,--,Jaipur,11.21 Lakh*
+1073,Volkswagen,Polo,GT 1.0 TSI,2020,"8,000 kms",,--,Jaipur,10.5 Lakh*
+1074,Volkswagen,Ameo,1.5 TDI Trendline,2017,"93,627 kms",Diesel,First Owner,Jaipur,4.75 Lakh*
+1075,Volkswagen,Ameo,1.2 MPI Highline,2017,"71,000 kms",Petrol,First Owner,Jaipur,5.55 Lakh*
+1076,Volkswagen,Polo,1.5 TDI Comfortline,2014,"80,000 kms",Diesel,First Owner,Jaipur,4.35 Lakh*
+1077,Volkswagen,Polo,GT TSI,2018,"43,866 kms",Petrol,First Owner,Jaipur,7.8 Lakh*
+1078,Volkswagen,Vento,1.5 TDI Highline,2015,"1,54,167 kms",Diesel,First Owner,Jaipur,5.18 Lakh*
+1079,Volkswagen,Polo,1.5 TDI Comfortline,2015,"87,892 kms",Diesel,Second Owner,Jaipur,4.12 Lakh*
+1080,Volkswagen,Polo,1.5 TDI Highline,2014,"70,184 kms",Diesel,Third Owner,Jaipur,3.55 Lakh*
+1081,Toyota,Etios Liva,GD,2012,"112,486 Kms",Diesel,1st Owner,Jaipur,"3,49,700"
+1082,Toyota,Etios Liva,VD,2016,"67,106 Kms",Diesel,1st Owner,Jaipur,"4,98,097"
+1083,Toyota,Fortuner,4x2 AT,2014,"121,475 Kms",Diesel,1st Owner,Jaipur,"16,18,438"
+1084,Toyota,Innova,2.5 VX (Diesel) 7 Seater BS IV,2008,"1,18,000 kms",Diesel,First Owner,Jaipur,5.99 Lakh*
+1085,Toyota,Fortuner,3.0 Diesel,2010,"1,65,000 kms",Diesel,Second Owner,Jaipur,9.45 Lakh*
+1086,Toyota,Etios Liva,GD,2014,"55,000 kms",Diesel,First Owner,Jaipur,3.75 Lakh*
+1087,Toyota,Corolla Altis,D-4D G,2014,"68,777 kms",Diesel,First Owner,Jaipur,9.3 Lakh*
+1088,Toyota,Etios Cross,1.4 GD,2014,"97,000 kms",Diesel,First Owner,Jaipur,4.25 Lakh*
+1089,Toyota,Etios Cross,1.4L VD,2014,"1,77,301 kms",Diesel,First Owner,Jaipur,4.39 Lakh*
+1090,Toyota,Corolla,Executive (HE),2009,"72,000 kms",Petrol,Second Owner,Jaipur,3.25 Lakh*
+1091,Tata,Safari Storme,EX,2012,"124,009 Kms",Diesel,1st Owner,Jaipur,"4,70,050"
+1092,Tata,Tiago,1.2 Revotron XZ,2019,"15,249 kms",Petrol,First Owner,Jaipur,5.65 Lakh*
+1093,Tata,Safari Storme,EX,2016,"76,123 kms",Diesel,First Owner,Jaipur,7.21 Lakh*
+1094,Tata,New Safari,DICOR 2.2 LX 4x2 BS IV,2011,"1,01,119 kms",Diesel,First Owner,Jaipur,2.53 Lakh*
+1095,Tata,Nano,Twist XT,2015,"38,000 kms",Petrol,Second Owner,Jaipur,1.15 Lakh*
+1096,Tata,Indica Vista,Terra Quadrajet 1.3L,2010,"85,000 kms",Diesel,Second Owner,Jaipur,1.5 Lakh*
+1097,Tata,New Safari,DICOR 2.2 VX 4x2 BS IV,2011,"81,000 kms",Diesel,First Owner,Jaipur,3.25 Lakh*
+1098,Tata,Nano,Lx,2011,"78,255 kms",Petrol,First Owner,Jaipur,"57,000*"
+1099,Tata,Sumo Victa,LX 10/7 Str BSIII,2005,"70,000 kms",Diesel,First Owner,Jaipur,2.5 Lakh*
+1100,Tata,Indigo,LX (TDI) BS-III,2015,"1,20,000 kms",Diesel,Second Owner,Jaipur,2.7 Lakh*
+1101,Chevrolet,Beat,Diesel PS,2013,"58,849 Kms",Diesel,2nd Owner,Jaipur,"1,77,000"
+1102,Chevrolet,Spark,1.0 LS,2008,"65,000 kms",Petrol,Second Owner,Jaipur,1.05 Lakh*
+1103,Chevrolet,Beat,Diesel PS,2014,"70,000 kms",Diesel,First Owner,Jaipur,1.7 Lakh*
+1104,Chevrolet,Spark,1.0 LT,2012,"55,000 kms",Petrol,First Owner,Jaipur,1.25 Lakh*
+1105,Chevrolet,Sail Hatchback,Petrol LT ABS,2013,"79,000 kms",Petrol,First Owner,Jaipur,2.46 Lakh*
+1106,Chevrolet,Beat,Diesel LT,2012,"1,09,458 kms",Diesel,First Owner,Jaipur,1.52 Lakh*
+1107,Chevrolet,Spark,1.0 LS,2011,"95,828 kms",Petrol,First Owner,Jaipur,1.1 Lakh*
+1108,Chevrolet,Beat,Diesel LS,2012,"1,00,000 kms",Diesel,First Owner,Jaipur,1.38 Lakh*
+1109,Chevrolet,Beat,Diesel PS,2011,"99,441 kms",Diesel,First Owner,Jaipur,1.06 Lakh*
+1110,Chevrolet,Spark,1.0 LS,2011,"99,384 kms",Petrol,Second Owner,Jaipur,"88,000*"
+1111,Skoda,Rapid,1.5 TDI Ambition BSIV,2018,"48,266 Kms",Diesel,1st Owner,Jaipur,"8,13,000"
+1112,Skoda,Superb,Elegance 1.8 TSI AT,2012,"1,05,000 kms",Petrol,Second Owner,Jaipur,4.5 Lakh*
+1113,Skoda,Rapid,Ultima 1.6 TDI Ambition Plus,2011,"1,13,155 kms",Diesel,Second Owner,Jaipur,2.79 Lakh*
+1114,Skoda,Rapid,1.5 TDI Ambition BSIV,2018,"31,672 kms",Diesel,Second Owner,Jaipur,8.15 Lakh*
+1115,Skoda,Rapid,1.6 TDI Ambition,2012,"1,62,722 kms",Diesel,First Owner,Jaipur,2.7 Lakh*
+1116,Skoda,Octavia,Ambiente 1.9 TDI,2009,"1,58,309 kms",Diesel,Second Owner,Jaipur,1.7 Lakh*
+1117,Skoda,Laura,L n K 1.9 PD,2008,"1,57,160 kms",Diesel,Second Owner,Jaipur,1.95 Lakh*
+1118,Skoda,Octavia,Rider 1.9 AT TDI,2006,"1,89,822 kms",Diesel,First Owner,Jaipur,1.11 Lakh*
+1119,Skoda,Rapid,1.5 TDI Elegance,2015,"46,000 kms",Diesel,First Owner,Jaipur,6.45 Lakh*
+1120,Skoda,Rapid,1.6 TDI Elegance,2012,"74,225 kms",Diesel,Second Owner,Jaipur,2.51 Lakh*
+1121,Nissan,Terrano,XL Plus 85 PS,2015,"135,133 Kms",Diesel,1st Owner,Jaipur,"5,44,500"
+1122,Nissan,Micra Active,XL Petrol,2015,"1,05,423 kms",Petrol,First Owner,Jaipur,2.33 Lakh*
+1123,Nissan,Sunny,Diesel XL,2012,"85,903 kms",Diesel,Second Owner,Jaipur,2.13 Lakh*
+1124,Nissan,Micra,Diesel XV,2013,"1,69,001 kms",Diesel,First Owner,Jaipur,1.67 Lakh*
+1125,Nissan,Terrano,XL D Option,2014,"49,408 kms",Diesel,First Owner,Jaipur,5 Lakh*
+1126,Nissan,Terrano,XL,2016,"70,000 kms",Petrol,First Owner,Jaipur,5 Lakh*
+1127,Nissan,Micra,Diesel XV,2011,"1,33,195 kms",Diesel,First Owner,Jaipur,1.16 Lakh*
+1128,Nissan,Terrano,XL Plus 85 PS,2014,"81,499 kms",Diesel,First Owner,Jaipur,3.84 Lakh*
+1129,Datsun,RediGO,T Option,2018,"40,000 kms",Petrol,First Owner,Jaipur,2.13 Lakh*
+1130,Datsun,RediGO,AMT 1.0 T Option,2018,"10,000 kms",Petrol,First Owner,Jaipur,3 Lakh*
+1131,Datsun,RediGO,1.0 S,2017,"40,000 kms",Petrol,First Owner,Jaipur,2 Lakh*
+1132,Datsun,GO,T BSIV,2014,"79,332 kms",Petrol,Second Owner,Jaipur,1.51 Lakh*
+1133,Datsun,GO,T BSIV,2014,"70,397 kms",Petrol,First Owner,Jaipur,1.43 Lakh*
+1134,Datsun,GO Plus,A,2017,"25,000 kms",Petrol,First Owner,Jaipur,4 Lakh*
+1135,Datsun,RediGO,1.0 S,2017,"70,000 kms",Petrol,Third Owner,Jaipur,1.8 Lakh*
+1136,Audi,Q3,2.0 TDI,2014,"48,852 kms",Diesel,Second Owner,Jaipur,12.75 Lakh*
+1137,Audi,Q3,2.0 TDI Quattro Premium Plus,2014,"94,542 kms",Diesel,First Owner,Jaipur,16.35 Lakh*
+1138,Audi,A3,35 TDI Technology,2014,"52,000 kms",Diesel,First Owner,Jaipur,15 Lakh*
+1139,Audi,Q3,S,2012,"1,31,200 kms",Diesel,Second Owner,Jaipur,12.15 Lakh*
+1140,Audi,A3,35 TDI Premium Plus,2016,"90,000 kms",Diesel,Third Owner,Jaipur,16 Lakh*
+1141,Audi,Q3,30 TDI,2017,"40,000 kms",Diesel,First Owner,Jaipur,24 Lakh*
+1142,BMW,5 Series,520d M Sport,2017,"22,101 kms",Diesel,First Owner,Jaipur,34.9 Lakh*
+1143,BMW,3 Series,320d Prestige,2012,"65,835 kms",Diesel,Second Owner,Jaipur,12.95 Lakh*
+1144,BMW,3 Series,320d Prestige,2014,"90,365 kms",Diesel,First Owner,Jaipur,12.65 Lakh*
+1145,BMW,5 Series,525d,2011,"80,000 kms",Diesel,Third Owner,Jaipur,8.7 Lakh*
+1146,BMW,3 Series GT,Luxury Line,2014,"97,000 kms",Diesel,Second Owner,Jaipur,13.5 Lakh*
+1147,Fiat,Grande Punto,1.3 Emotion (Diesel),2011,"1,63,867 kms",Diesel,Third Owner,Jaipur,1.3 Lakh*
+1148,Fiat,Linea,Emotion (Diesel),2015,"60,000 kms",Diesel,First Owner,Jaipur,3.75 Lakh*
+1149,Fiat,Grande Punto,1.3 Dynamic (Diesel),2011,"1,65,000 kms",Diesel,First Owner,Jaipur,1.31 Lakh*
+1150,Mitsubishi,Pajero,Sport 4X4,2013,"1,02,210 kms",Diesel,Second Owner,Jaipur,5.75 Lakh*
+1151,Mitsubishi,Pajero,Sport 4X4,2014,"1,10,000 kms",Diesel,Third Owner,Jaipur,8.5 Lakh*
+1152,Mitsubishi,Outlander,2.4,2011,"89,000 kms",Petrol,First Owner,Jaipur,5.95 Lakh*
+1153,Mercedes-Benz,M-Class,ML 320 CDI,2009,"79,000 kms",Diesel,Second Owner,Jaipur,12.5 Lakh*
+1154,Mercedes-Benz,E-Class,Elegance 220 CDI,2012,"98,490 kms",Diesel,Second Owner,Jaipur,15.75 Lakh*
+1155,Kia,Seltos,HTX Plus AT D,2020,"11,102 kms",Diesel,First Owner,Jaipur,18.6 Lakh*
+1156,Kia,Seltos,HTK G,2020,"15,000 kms",Petrol,First Owner,Jaipur,9.7 Lakh*
+1157,MG,Hector,Sharp DCT Dualtone,2019,"18,148 kms",Petrol,First Owner,Jaipur,16.7 Lakh*
+1158,MG,Hector,Smart AT BSIV,2019,"14,695 kms",Petrol,First Owner,Jaipur,14.17 Lakh*
+1159,Land-Rover,--,HSE,2013 Land Rover Freelander 2,"90,000 kms",Diesel,Third Owner,Jaipur,10 Lakh*
+1160,Jaguar,XF,3.0 Litre S Premium Luxury,2013,"79,780 kms",Diesel,First Owner,Jaipur,13.86 Lakh*
+1161,Mahindra-Ssangyong,--,RX7,2013 Mahindra Ssangyong Rexton,"73,751 kms",Diesel,Second Owner,Jaipur,4.45 Lakh*
+1162,Jeep,Compass,2.0 Limited,2017,"60,000 kms",Diesel,First Owner,Jaipur,18 Lakh*
+1163,Maruti,Ciaz,1.3 Alpha,2018,"11,011 kms",Diesel,First Owner,Kolkata,8.5 Lakh*
+1164,Maruti,Esteem,Vxi,2005,"28,028 kms",Petrol,First Owner,Kolkata,1.5 Lakh*
+1165,Maruti,Swift Dzire,VXI,2013,"49,284 kms",Petrol,First Owner,Kolkata,3.5 Lakh*
+1166,Maruti,Swift,LDI BSIV,2015,"45,000 kms",Diesel,First Owner,Kolkata,4 Lakh*
+1167,Maruti,Swift Dzire,AMT ZDI,2016,"50,040 kms",Diesel,First Owner,Kolkata,6 Lakh*
+1168,Maruti,Zen Estilo,LXI BSIII,2010,"50,000 kms",Petrol,First Owner,Kolkata,1.6 Lakh*
+1169,Maruti,Wagon R,LXI Minor,2008,"25,301 kms",Petrol,First Owner,Kolkata,1.8 Lakh*
+1170,Maruti,Zen Estilo,1.1 LXI BSIII,2008,"46,728 kms",Petrol,First Owner,Kolkata,1.45 Lakh*
+1171,Maruti,Swift,LDI BSIV,2016,"1,30,130 kms",Diesel,First Owner,Kolkata,4 Lakh*
+1172,Maruti,Baleno,1.2 Alpha,2018,"51,000 kms",Petrol,First Owner,Kolkata,6.1 Lakh*
+1173,Hyundai,Creta,1.6 CRDi SX,2017,"63,063 kms",Diesel,First Owner,Kolkata,7.95 Lakh*
+1174,Hyundai,i20 Active,S Diesel,2015,"25,225 kms",Diesel,Second Owner,Kolkata,5.25 Lakh*
+1175,Hyundai,Creta,1.6 VTVT E,2018,"19,000 kms",Petrol,First Owner,Kolkata,8.99 Lakh*
+1176,Hyundai,i20,Sportz Option 1.4 CRDi,2016,"19,000 kms",Diesel,First Owner,Kolkata,5.25 Lakh*
+1177,Hyundai,i10,Magna,2011,"48,790 kms",Petrol,First Owner,Kolkata,2.65 Lakh*
+1178,Hyundai,i10,Sportz,2012,"36,000 kms",Petrol,First Owner,Kolkata,2.6 Lakh*
+1179,Hyundai,Creta,1.6 VTVT SX Plus,2017,"55,804 kms",Petrol,First Owner,Kolkata,8 Lakh*
+1180,Hyundai,Verna,Transform VTVT,2011,"45,000 kms",Petrol,First Owner,Kolkata,2.24 Lakh*
+1181,Hyundai,Grand i10,Sportz 1.2,2010,"46,935 kms",Petrol,First Owner,Kolkata,2.35 Lakh*
+1182,Hyundai,i10,Magna 1.1 iTech SE,2013,"13,000 kms",Petrol,First Owner,Kolkata,2.8 Lakh*
+1183,Honda,City,i VTEC VX,2016,"58,000 kms",Petrol,First Owner,Kolkata,6.75 Lakh*
+1184,Honda,City,i VTEC SV,2015,"34,295 kms",Petrol,First Owner,Kolkata,5.65 Lakh*
+1185,Honda,City,i DTEC VX,2014,"60,000 kms",Diesel,First Owner,Kolkata,4.85 Lakh*
+1186,Honda,City,i DTec SV,2016,"57,057 kms",Diesel,First Owner,Kolkata,6 Lakh*
+1187,Honda,Jazz,1.2 S i VTEC,2018,"38,038 kms",Petrol,First Owner,Kolkata,5 Lakh*
+1188,Honda,City,V MT,2011,"49,000 kms",Petrol,First Owner,Kolkata,3.41 Lakh*
+1189,Honda,Jazz,1.2 SV i VTEC,2016,"64,064 kms",Petrol,First Owner,Kolkata,4 Lakh*
+1190,Honda,City,S,2012,"42,285 kms",Petrol,First Owner,Kolkata,3.75 Lakh*
+1191,Honda,City,i DTec VX Option,2015,"39,229 kms",Diesel,First Owner,Kolkata,6.4 Lakh*
+1192,Honda,City,i-VTEC SV,2018,"28,000 kms",Petrol,First Owner,Kolkata,7.5 Lakh*
+1193,Mahindra,TUV 300,T6 Plus,2016,"1,38,000 kms",Diesel,First Owner,Kolkata,5.25 Lakh*
+1194,Mahindra,Bolero Power Plus,SLE,2018,"1,00,000 kms",Diesel,First Owner,Kolkata,5.75 Lakh*
+1195,Mahindra,Bolero,SLX,2015,"1,39,139 kms",Diesel,First Owner,Kolkata,5 Lakh*
+1196,Mahindra,Bolero,B6,2020,"12,470 kms",Diesel,First Owner,Kolkata,8.45 Lakh*
+1197,Mahindra,Scorpio,S11 BSIV,2018,"30,005 kms",Diesel,First Owner,Kolkata,14.5 Lakh*
+1198,Mahindra,Scorpio,VLX 2WD BSIV,2013,"64,176 kms",Diesel,First Owner,Kolkata,6.49 Lakh*
+1199,Mahindra,TUV 300,T8 AMT,2018,"25,517 kms",Diesel,First Owner,Kolkata,7.65 Lakh*
+1200,Mahindra,Marazzo,M6 8Str,2020,"15,000 kms",Diesel,First Owner,Kolkata,10.99 Lakh*
+1201,Mahindra,Scorpio,S4 9 Seater,2016,"29,407 kms",Diesel,First Owner,Kolkata,8.5 Lakh*
+1202,Mahindra,Marazzo,M2 8Str,2019,"30,000 kms",Diesel,First Owner,Kolkata,8.9 Lakh*
+1203,Toyota,Fortuner,4x2 AT,2014,"1,20,000 kms",Diesel,First Owner,Kolkata,15.25 Lakh*
+1204,Toyota,Innova Crysta,2.4 VX MT 8 STR,2017,"60,000 kms",Diesel,First Owner,Kolkata,15.5 Lakh*
+1205,Toyota,Innova Crysta,2.4 ZX MT BSIV,2016,"35,000 kms",Diesel,First Owner,Kolkata,16.75 Lakh*
+1206,Toyota,Innova,2.5 G (Diesel) 7 Seater,2012,"98,000 kms",Diesel,First Owner,Kolkata,6.24 Lakh*
+1207,Toyota,Innova Crysta,2.4 ZX MT BSIV,2016,"38,000 kms",Diesel,First Owner,Kolkata,16.75 Lakh*
+1208,Toyota,Innova,2.5 G (Diesel) 8 Seater BS IV,2014,"42,000 kms",Diesel,First Owner,Kolkata,8.5 Lakh*
+1209,Toyota,Innova,2.5 VX 7 STR BSIV,2012,"75,000 kms",Diesel,First Owner,Kolkata,7.5 Lakh*
+1210,Toyota,Camry,Hybrid,2014,"78,000 kms",Petrol,First Owner,Kolkata,14.95 Lakh*
+1211,Toyota,Etios,1.4 GD,2016,"33,228 kms",Diesel,First Owner,Kolkata,4.5 Lakh*
+1212,Toyota,Innova,2.5 Z Diesel 7 Seater BS IV,2014,"81,000 kms",Diesel,First Owner,Kolkata,8.25 Lakh*
+1213,Volkswagen,Jetta,2.0L TDI Highline,2015,"23,023 kms",Diesel,First Owner,Kolkata,9 Lakh*
+1214,Volkswagen,Vento,2013-2015 1.6 Comfortline,2014,"37,207 kms",Petrol,First Owner,Kolkata,4.25 Lakh*
+1215,Volkswagen,Vento,1.5 TDI Highline AT,2015,"42,000 kms",Diesel,First Owner,Kolkata,5.65 Lakh*
+1216,Volkswagen,Polo,Diesel Comfortline 1.2L,2012,"59,000 kms",Diesel,First Owner,Kolkata,3.24 Lakh*
+1217,Volkswagen,Ameo,1.2 MPI Highline,2017,"27,000 kms",Petrol,First Owner,Kolkata,4.75 Lakh*
+1218,Volkswagen,Polo,1.5 TDI Trendline,2016,"67,067 kms",Diesel,First Owner,Kolkata,3.5 Lakh*
+1219,Volkswagen,Polo,Petrol Highline 1.6L,2012,"51,000 kms",Petrol,First Owner,Kolkata,2.75 Lakh*
+1220,Volkswagen,Passat,Diesel Trendline,2012,"42,477 kms",Diesel,First Owner,Kolkata,4.5 Lakh*
+1221,Volkswagen,Vento,1.6 Highline,2018,"25,000 kms",Petrol,First Owner,Kolkata,6.35 Lakh*
+1222,Volkswagen,Jetta,2.0 TDI Trendline,2010,"79,000 kms",Diesel,First Owner,Kolkata,2.65 Lakh*
+1223,Renault,Scala,RxE,2014,"45,045 kms",Petrol,First Owner,Kolkata,3.25 Lakh*
+1224,Renault,Scala,RxE,2014,"45,045 kms",Petrol,First Owner,Kolkata,3.25 Lakh*
+1225,Renault,Lodgy,Stepway 110PS RXZ 8S,2019,"7,50,000 kms",Diesel,First Owner,Kolkata,7.5 Lakh*
+1226,Renault,Duster,85PS Diesel RxE,2017,"26,000 kms",Diesel,First Owner,Kolkata,6 Lakh*
+1227,Renault,Fluence,E4 D,2014,"41,000 kms",Diesel,First Owner,Kolkata,5.99 Lakh*
+1228,Renault,Duster,85PS Diesel RxE,2013,"69,000 kms",Diesel,First Owner,Kolkata,3.75 Lakh*
+1229,Renault,Scala,RxL AT,2015,"43,000 kms",Petrol,Second Owner,Kolkata,4.45 Lakh*
+1230,Renault,Duster,85PS Diesel RxL Option,2013,"40,000 kms",Diesel,First Owner,Kolkata,3.45 Lakh*
+1231,Renault,Duster,85PS Diesel RxL,2015,"38,000 kms",Diesel,First Owner,Kolkata,5 Lakh*
+1232,Renault,Duster,85PS Diesel RxL,2015,"43,000 kms",Diesel,First Owner,Kolkata,4.85 Lakh*
+1233,Ford,EcoSport,1.5 DV5 MT Trend,2014,"65,000 kms",Diesel,First Owner,Kolkata,4.65 Lakh*
+1234,Ford,EcoSport,1.5 Ti VCT MT Ambiente,2014,"60,000 kms",Petrol,First Owner,Kolkata,4.55 Lakh*
+1235,Ford,Endeavour,3.2 Titanium AT 4X4,2016,"92,000 kms",Diesel,First Owner,Kolkata,19.5 Lakh*
+1236,Ford,EcoSport,1.5 DV5 MT Titanium,2014,"37,470 kms",Diesel,First Owner,Kolkata,5.45 Lakh*
+1237,Ford,Ikon,1.3 Flair,2008,"52,000 kms",Petrol,First Owner,Kolkata,"90,000*"
+1238,Ford,Ecosport,1.5 Diesel Titanium Plus BSIV,2018,"45,000 kms",Diesel,First Owner,Kolkata,7.95 Lakh*
+1239,Ford,Ecosport,1.5 Diesel Titanium Plus BSIV,2017,"44,000 kms",Diesel,First Owner,Kolkata,6.75 Lakh*
+1240,Ford,Ecosport,1.5 TDCi Titanium BSIV,2015,"47,000 kms",Diesel,Second Owner,Kolkata,5.8 Lakh*
+1241,Ford,EcoSport,1.5 DV5 MT Trend,2014,"65,000 kms",Diesel,First Owner,Kolkata,4.65 Lakh*
+1242,Ford,EcoSport,1.5 Ti VCT MT Ambiente,2014,"19,250 kms",Petrol,First Owner,Kolkata,5.5 Lakh*
+1243,Tata,Tiago,XZA,2019,"9,009 kms",Petrol,First Owner,Kolkata,5.5 Lakh*
+1244,Tata,Nexon,1.5 Revotorq XM,2018,"41,000 kms",Diesel,First Owner,Kolkata,5.99 Lakh*
+1245,Tata,Tiago,1.2 Revotron XT,2018,"22,000 kms",Petrol,First Owner,Kolkata,3.85 Lakh*
+1246,Tata,Nano,XT,2014,"29,500 kms",Petrol,First Owner,Kolkata,"85,200*"
+1247,Tata,Hexa,XTA,2018,"38,689 kms",Diesel,First Owner,Kolkata,12.99 Lakh*
+1248,Tata,Zest,Quadrajet 1.3 XMS,2015,"1,00,000 kms",Diesel,First Owner,Kolkata,3.75 Lakh*
+1249,Tata,Tiago,1.2 Revotron XT Option,2019,"1,110 kms",Petrol,First Owner,Kolkata,5.5 Lakh*
+1250,Tata,Indica,DLS BSIII,2016,"2,00,000 kms",Diesel,First Owner,Kolkata,1.5 Lakh*
+1251,Tata,Zest,Revotron 1.2T XM,2015,"40,000 kms",Petrol,First Owner,Kolkata,4 Lakh*
+1252,Tata,Sumo,Gold EX,2014,"90,000 kms",Diesel,First Owner,Kolkata,3.28 Lakh*
+1253,Chevrolet,Aveo U-VA,1.2 LS,2009,"36,000 kms",Petrol,First Owner,Kolkata,1.45 Lakh*
+1254,Chevrolet,Aveo U-VA,1.2 LS,2009,"36,000 kms",Petrol,First Owner,Kolkata,1.45 Lakh*
+1255,Chevrolet,Tavera,2 LS B3,2007,"80,000 kms",Diesel,Second Owner,Kolkata,1.65 Lakh*
+1256,Chevrolet,Enjoy,1.3 TCDi LTZ 7,2015,"63,000 kms",Diesel,First Owner,Kolkata,3.5 Lakh*
+1257,Chevrolet,Aveo,1.4 LS,2009,"49,568 kms",Petrol,First Owner,Kolkata,1.49 Lakh*
+1258,Chevrolet,Aveo,1.4 LS BSIV,2007,"4,95,683 kms",Petrol,First Owner,Kolkata,1.49 Lakh*
+1259,Chevrolet,Aveo,1.4 LS,2010,"39,256 kms",Petrol,First Owner,Kolkata,1.99 Lakh*
+1260,Chevrolet,Cruze,LTZ,2012,"47,000 kms",Diesel,First Owner,Kolkata,3.45 Lakh*
+1261,Chevrolet,Tavera,Neo 3 LT 9 Seats BSIV,2012,"90,000 kms",Diesel,First Owner,Kolkata,2.65 Lakh*
+1262,Chevrolet,Beat,LS,2010,"49,368 kms",Petrol,First Owner,Kolkata,"89,000*"
+1263,Audi,Q5,2.0 TDI Technology,2013,"45,000 kms",Diesel,First Owner,Kolkata,16 Lakh*
+1264,Audi,Q3,35 TDI Quattro Premium Plus,2015,"55,000 kms",Diesel,First Owner,Kolkata,16.99 Lakh*
+1265,Audi,Q5,2.0 TDI,2011,"65,345 kms",Diesel,First Owner,Kolkata,13 Lakh*
+1266,Audi,Q5,2.0 TDI Premium Plus,2014,"36,000 kms",Diesel,First Owner,Kolkata,23.75 Lakh*
+1267,Audi,A6,2.0 TDI Premium Plus,2014,"34,900 kms",Diesel,First Owner,Kolkata,15.25 Lakh*
+1268,Audi,A4,2.0 TDI 177 Bhp Premium Plus,2014,"27,000 kms",Diesel,First Owner,Kolkata,16.15 Lakh*
+1269,Audi,A4,2.0 TDI Multitronic,2014,"33,199 kms",Diesel,First Owner,Kolkata,12.49 Lakh*
+1270,Audi,A6,2.7 TDI,2011,"54,000 kms",Diesel,First Owner,Kolkata,9.95 Lakh*
+1271,Audi,A3 cabriolet,40 TFSI Premium Plus,2015,"49,000 kms",Petrol,First Owner,Kolkata,35 Lakh*
+1272,Audi,A4,2.0 TDI,2013,"48,650 kms",Diesel,First Owner,Kolkata,11.99 Lakh*
+1273,BMW,3 Series,320d Luxury Line,2015,"29,000 kms",Diesel,First Owner,Kolkata,20.75 Lakh*
+1274,BMW,X3,xDrive20d,2012,"42,000 kms",Diesel,First Owner,Kolkata,14.95 Lakh*
+1275,BMW,5 Series,525d Sedan,2011,"54,473 kms",Diesel,First Owner,Kolkata,12.99 Lakh*
+1276,BMW,3 Series GT,Luxury Line,2019,"16,936 kms",Diesel,First Owner,Kolkata,37 Lakh*
+1277,BMW,X1,sDrive 20d xLine,2017,"40,001 kms",Diesel,First Owner,Kolkata,24.99 Lakh*
+1278,BMW,X1,xDrive 20d M Sport,2017,"53,001 kms",Diesel,First Owner,Kolkata,22.99 Lakh*
+1279,BMW,7 Series,730Ld Sedan,2011,"76,500 kms",Diesel,First Owner,Kolkata,13.99 Lakh*
+1280,BMW,3 Series,320d,2011,"47,000 kms",Diesel,First Owner,Kolkata,9.25 Lakh*
+1281,BMW,X3,2.5si,2008,"45,000 kms",Petrol,First Owner,Kolkata,9.25 Lakh*
+1282,BMW,3 Series,320d,2011,"45,000 kms",Diesel,First Owner,Kolkata,9.25 Lakh*
+1283,Nissan,Sunny,XL CVT,2016,"30,030 kms",Petrol,First Owner,Kolkata,5 Lakh*
+1284,Nissan,Micra,Diesel XV,2011,"48,055 kms",Diesel,First Owner,Kolkata,2.65 Lakh*
+1285,Nissan,Micra,Diesel XV,2013,"65,000 kms",Diesel,First Owner,Kolkata,2 Lakh*
+1286,Nissan,Terrano,XL,2016,"8,000 kms",Petrol,First Owner,Kolkata,5.75 Lakh*
+1287,Nissan,Sunny,Diesel XV,2014,"38,569 kms",Diesel,First Owner,Kolkata,3.69 Lakh*
+1288,Nissan,Sunny,Diesel XL,2012,"68,000 kms",Diesel,First Owner,Kolkata,3.25 Lakh*
+1289,Nissan,Sunny,XL,2011,"42,766 kms",Petrol,First Owner,Kolkata,2.8 Lakh*
+1290,Nissan,Sunny,XL,2015,"39,000 kms",Petrol,First Owner,Kolkata,3.9 Lakh*
+1291,Nissan,Terrano,XV 110 PS,2015,"32,000 kms",Diesel,First Owner,Kolkata,5.9 Lakh*
+1292,Nissan,Micra,Diesel XV,2012,"60,000 kms",Diesel,First Owner,Kolkata,1.8 Lakh*
+1293,Datsun,GO,T BSIV,2014,"9,009 kms",Petrol,First Owner,Kolkata,2.9 Lakh*
+1294,Datsun,GO,T BSIV,2018,"9,090 kms",Petrol,First Owner,Kolkata,3.25 Lakh*
+1295,Datsun,GO Plus,T BSIV,2017,"8,585 kms",Petrol,First Owner,Kolkata,3.25 Lakh*
+1296,Datsun,GO,A,2014,"6,000 kms",Petrol,First Owner,Kolkata,2.25 Lakh*
+1297,Datsun,RediGO,T Option,2018,"20,000 kms",Petrol,First Owner,Kolkata,2.65 Lakh*
+1298,Datsun,GO,T,2014,"29,000 kms",Petrol,First Owner,Kolkata,2.75 Lakh*
+1299,Datsun,RediGO,AMT 1.0 S,2018,"14,002 kms",Petrol,First Owner,Kolkata,3.49 Lakh*
+1300,Datsun,GO,T,2019,"1,041 kms",Petrol,First Owner,Kolkata,5.3 Lakh*
+1301,Datsun,RediGO,S,2019,"8,000 kms",Petrol,First Owner,Kolkata,2.99 Lakh*
+1302,Datsun,RediGO,T Option,2018,"10,000 kms",Petrol,First Owner,Kolkata,3 Lakh*
+1303,Skoda,Octavia,Ambition 2.0 TDI AT,2013,"45,000 kms",Diesel,First Owner,Kolkata,4.6 Lakh*
+1304,Skoda,Laura,Elegance 2.0 TDI CR AT,2012,"54,000 kms",Diesel,First Owner,Kolkata,3.8 Lakh*
+1305,Skoda,Fabia,1.2 Petrol Active,2012,"37,256 kms",Petrol,First Owner,Kolkata,2.19 Lakh*
+1306,Skoda,Rapid,1.6 TDI Elegance,2013,"37,256 kms",Diesel,First Owner,Kolkata,3.49 Lakh*
+1307,Skoda,Rapid,1.6 TDI Elegance Plus,2012,"55,000 kms",Diesel,First Owner,Kolkata,2.44 Lakh*
+1308,Skoda,Octavia,Ambition 1.4 TSI MT,2014,"43,000 kms",Petrol,First Owner,Kolkata,6.49 Lakh*
+1309,Skoda,Octavia,Style Plus 1.8 TSI AT,2016,"11,000 kms",Petrol,First Owner,Kolkata,13.5 Lakh*
+1310,Skoda,Octavia,2.0 TDI AT Style Plus,2016,"39,000 kms",Diesel,First Owner,Kolkata,12.5 Lakh*
+1311,Skoda,Rapid,1.6 TDI Elegance,2013,"27,000 kms",Diesel,First Owner,Kolkata,3.25 Lakh*
+1312,Skoda,Octavia,2.0 TDI AT Style Plus,2017,"31,001 kms",Diesel,First Owner,Kolkata,12.99 Lakh*
+1313,Mercedes-Benz,New C-Class,220 CDI MT,2012,"48,000 kms",Diesel,First Owner,Kolkata,12.5 Lakh*
+1314,Mercedes-Benz,S-Class,S 350 CDI,2010,"15,000 kms",Diesel,First Owner,Kolkata,17.5 Lakh*
+1315,Mercedes-Benz,New C-Class,C 200 CGI,2015,"49,000 kms",Petrol,First Owner,Kolkata,19.99 Lakh*
+1316,Mercedes-Benz,M-Class,ML 250 CDI,2015,"36,000 kms",Diesel,First Owner,Kolkata,32.5 Lakh*
+1317,Mercedes-Benz,GLA Class,200 d Style,2018,"33,178 kms",Diesel,First Owner,Kolkata,24.99 Lakh*
+1318,Mercedes-Benz,E-Class,Exclusive E 220d,2017,"19,260 kms",Diesel,First Owner,Kolkata,38 Lakh*
+1319,Mercedes-Benz,GLE Class,250d,2017,"61,000 kms",Diesel,First Owner,Kolkata,36.99 Lakh*
+1320,Mercedes-Benz,E-Class,E250 CDI Blue Efficiency,2011,"50,000 kms",Diesel,First Owner,Kolkata,7.99 Lakh*
+1321,Mercedes-Benz,B Class,B180 CDI,2013,"47,601 kms",Diesel,Second Owner,Kolkata,12 Lakh*
+1322,Mercedes-Benz,GLA Class,200 CDI SPORT,2014,"40,000 kms",Diesel,First Owner,Kolkata,16 Lakh*
+1323,Mitsubishi,Pajero,Sport 4X2 AT,2015,"59,000 kms",Diesel,First Owner,Kolkata,13.99 Lakh*
+1324,Mitsubishi,Pajero,Sport 4X4 DualTone BlackTop,2017,"1,39,369 kms",Diesel,First Owner,Kolkata,15 Lakh*
+1325,Mitsubishi,Cedia,Sports,2007,"49,000 kms",Petrol,First Owner,Kolkata,1.85 Lakh*
+1326,Mitsubishi,Pajero,Sport 4X4,2014,"60,000 kms",Diesel,First Owner,Kolkata,11.5 Lakh*
+1327,Mitsubishi,Lancer,1.5 GLXi,2001,"49,500 kms",Petrol,Second Owner,Kolkata,1.2 Lakh*
+1328,Porsche,Boxster,S,2014,"26,898 kms",Petrol,First Owner,Kolkata,65 Lakh*
+1329,Porsche,718,Boxster,2020,"18,000 kms",Petrol,First Owner,Kolkata,69 Lakh*
+1330,Porsche,Cayman,S Tiptronic,2017,"18,111 kms",Petrol,First Owner,Kolkata,65 Lakh*
+1331,Porsche,Cayman,S Tiptronic,2017,"18,001 kms",Petrol,First Owner,Kolkata,59.99 Lakh*
+1332,Porsche,Boxster,S tiptronic,2018,"18,000 kms",Petrol,First Owner,Kolkata,69 Lakh*
+1333,Land-Rover,--,SD4 HSE Luxury,2016 Land Rover Discovery Sport,"60,000 kms",Diesel,First Owner,Kolkata,30 Lakh*
+1334,Land-Rover,--,TD4 HSE 7S,2018 Land Rover Discovery Sport,"25,000 kms",Diesel,Second Owner,Kolkata,38 Lakh*
+1335,Land-Rover,--,2.0 TD4 Landmark Edition,2019 Land Rover Range Rover Evoque,"5,000 kms",Diesel,First Owner,Kolkata,50 Lakh*
+1336,Land-Rover,--,2.2L Prestige,2012 Land Rover Range Rover Evoque,"46,300 kms",Diesel,First Owner,Kolkata,21.99 Lakh*
+1337,Land-Rover,--,2.2L Dynamic,2012 Land Rover Range Rover Evoque,"50,350 kms",Diesel,First Owner,Kolkata,21.99 Lakh*
+1338,Volvo,XC40,T4 R-Design BSIV,2020,"38,501 kms",Petrol,First Owner,Kolkata,34.99 Lakh*
+1339,Volvo,XC 90,D5 Inscription,2016,"69,700 kms",Diesel,First Owner,Kolkata,44.99 Lakh*
+1340,Volvo,V40,D3 R Design,2017,"10,000 kms",Diesel,First Owner,Kolkata,19.75 Lakh*
+1341,Jaguar,XE,Prestige,2017,"20,000 kms",Petrol,First Owner,Kolkata,21.9 Lakh*
+1342,Jaguar,XE,Prestige,2017,"20,000 kms",Petrol,First Owner,Kolkata,21.9 Lakh*
+1343,Jaguar,XF,3.0 Litre S Premium Luxury,2012,"72,000 kms",Diesel,First Owner,Kolkata,12.99 Lakh*
+1344,Hindustan-Motors,--,Classic Nova Diesel,1996 Ambassador,"1,10,000 kms",Diesel,First Owner,Kolkata,"80,001*"
+1345,Hindustan-Motors,--,Classic Nova Diesel,1992 Ambassador,"90,000 kms",Diesel,Second Owner,Kolkata,"65,000*"
+1346,MG,Hector Plus,Sharp Diesel MT,2021,"5,000 kms",Diesel,First Owner,Kolkata,18.49 Lakh*
+1347,MG,Hector,Sharp Diesel MT,2020,"4,700 kms",Diesel,First Owner,Kolkata,17.5 Lakh*
+1348,Fiat,Grande Punto,EVO 90HP 1.3 Sport,2013,"50,000 kms",Diesel,Second Owner,Kolkata,1.85 Lakh*
+1349,Mahindra-Renault,--,1.4 GLX,2008 Mahindra Renault Logan,"23,200 kms",Petrol,First Owner,Kolkata,1.55 Lakh*
+1350,Jeep,Compass,2.0 Limited Option,2017,"90,000 kms",Diesel,First Owner,Kolkata,16 Lakh*
+1351,Kia,Seltos,HTX Plus D,2020,"21,000 kms",Diesel,First Owner,Kolkata,13 Lakh*
+1352,Maruti,Vitara Brezza,ZDi Plus,2016,,--,--,Mumbai,--
+1353,Maruti,Swift,VXI Optional,2016,,--,--,Mumbai,--
+1354,Maruti,Vitara Brezza,ZDi Plus,2016,,--,--,Mumbai,--
+1355,Maruti,Wagon R,VXI BS IV,2014,,--,--,Mumbai,--
+1356,Maruti,Wagon R,VXI,2017,,--,--,Mumbai,--
+1357,Maruti,Wagon R,LXI CNG,2014,,--,--,Mumbai,--
+1358,Maruti,Baleno,1.2 Delta,2017,"10,266 Kms",Petrol,1st Owner,Mumbai,"5,63,500"
+1359,Maruti,Wagon R,VXI BS IV,2016,"57,818 Kms",Petrol,1st Owner,Mumbai,"3,85,000"
+1360,Maruti,Wagon R,VXI AMT Opt,2016,"19,533 Kms",Petrol,1st Owner,Mumbai,"3,82,000"
+1361,Maruti,Wagon R,AMT VXI,2015,"53,611 Kms",Petrol,1st Owner,Mumbai,"3,75,000"
+1362,Hyundai,Grand i10,Sportz,2015,"38,840 Kms",Petrol,1st Owner,Mumbai,"3,93,000"
+1363,Hyundai,i20 Active,1.2 S,2017,"47,113 Kms",Petrol,1st Owner,Mumbai,"5,68,500"
+1364,Hyundai,i20,Asta 1.4 CRDi,2014,"82,580 Kms",Diesel,1st Owner,Mumbai,"5,47,500"
+1365,Hyundai,i20,1.2 Asta,2011,"84,571 Kms",Petrol,1st Owner,Mumbai,"2,88,000"
+1366,Hyundai,i20,1.2 Asta Option,2017,"17,103 Kms",Petrol,1st Owner,Mumbai,"6,04,000"
+1367,Hyundai,Grand i10,Magna,2014,"31,884 Kms",Petrol,1st Owner,Mumbai,"4,06,500"
+1368,Hyundai,i20,1.2 Asta,2011,"50,796 Kms",Petrol,1st Owner,Mumbai,"3,10,000"
+1369,Hyundai,i20,Asta 1.2,2014,"65,892 Kms",Petrol,1st Owner,Mumbai,"5,38,500"
+1370,Hyundai,i20,Asta 1.4 CRDi,2014,"82,580 Kms",Diesel,1st Owner,Mumbai,"5,47,500"
+1371,Hyundai,i20,Magna 1.2,2016,"59,140 Kms",Petrol,1st Owner,Mumbai,"5,19,500"
+1372,Toyota,Glanza,V CVT,2019,"17,427 Kms",Petrol,1st Owner,Mumbai,"8,36,500"
+1373,Toyota,Corolla Altis,GL MT,2016,"53,000 kms",Petrol,First Owner,Mumbai,9.86 Lakh*
+1374,Toyota,Innova,2.5 G (Diesel) 8 Seater,2010,"1,15,000 kms",Diesel,First Owner,Mumbai,5.85 Lakh*
+1375,Toyota,Corolla Altis,G MT,2015,"33,000 kms",Petrol,First Owner,Mumbai,8.45 Lakh*
+1376,Toyota,Corolla Altis,GL MT,2016,"78,000 kms",Petrol,First Owner,Mumbai,7.88 Lakh*
+1377,Toyota,Innova Crysta,2.8 GX AT 8S BSIV,2019,"34,000 kms",Diesel,First Owner,Mumbai,20 Lakh*
+1378,Toyota,Fortuner,4x2 AT TRD Sportivo,2013,"98,145 kms",Diesel,Second Owner,Mumbai,13.75 Lakh*
+1379,Toyota,Corolla Altis,G MT,2015,"49,000 kms",Petrol,First Owner,Mumbai,8.5 Lakh*
+1380,Toyota,Innova,2.5 V Diesel 8-seater,2010,"1,38,000 kms",Diesel,First Owner,Mumbai,5.85 Lakh*
+1381,Toyota,Qualis,GS C8,2001,"1,50,010 kms",Diesel,Third Owner,Mumbai,1.75 Lakh*
+1382,Honda,Brio,E MT,2015,"25,196 Kms",Petrol,1st Owner,Mumbai,"3,37,500"
+1383,Honda,Jazz,1.2 V i VTEC,2016,"72,471 Kms",Petrol,1st Owner,Mumbai,"5,20,000"
+1384,Honda,Amaze,V Petrol BSIV,2020,"1,594 Kms",Petrol,1st Owner,Mumbai,"7,57,500"
+1385,Honda,Brio,S Option MT,2012,"37,904 Kms",Petrol,2nd Owner,Mumbai,"2,63,000"
+1386,Honda,Jazz,1.5 VX i DTEC,2016,"44,629 Kms",Diesel,1st Owner,Mumbai,"5,90,000"
+1387,Honda,WR-V,i-VTEC VX,2017,"13,790 Kms",Petrol,1st Owner,Mumbai,"6,90,500"
+1388,Honda,Jazz,Basic,2012,"57,826 Kms",Petrol,1st Owner,Mumbai,"3,22,000"
+1389,Honda,Jazz,1.2 V i VTEC,2016,"21,761 Kms",Petrol,1st Owner,Mumbai,"5,31,500"
+1390,Honda,Amaze,S i-Vtech,2015,"29,709 Kms",Petrol,1st Owner,Mumbai,"4,46,500"
+1391,Honda,Brio,V MT,2012,"57,630 Kms",Petrol,1st Owner,Mumbai,"3,00,500"
+1392,Mahindra,XUV500,W6 2WD,2013,"85,820 Kms",Diesel,2nd Owner,Mumbai,"5,56,000"
+1393,Mahindra,TUV 300,T8,2017,"47,000 kms",Diesel,First Owner,Mumbai,7.85 Lakh*
+1394,Mahindra,TUV 300,mHAWK100 T8,2018,"29,000 kms",Diesel,First Owner,Mumbai,8.5 Lakh*
+1395,Mahindra,XUV500,W8 2WD,2012,"31,000 kms",Diesel,First Owner,Mumbai,6.05 Lakh*
+1396,Mahindra,XUV500,W8 2WD,2014,"69,800 kms",Diesel,Second Owner,Mumbai,7.45 Lakh*
+1397,Mahindra,XUV500,W11 Option AT AWD,2018,"37,600 kms",Diesel,First Owner,Mumbai,15.85 Lakh*
+1398,Mahindra,Quanto,C8,2016,"38,000 kms",Diesel,Second Owner,Mumbai,4.25 Lakh*
+1399,Mahindra,Quanto,C8,2015,"84,000 kms",Diesel,Second Owner,Mumbai,4.25 Lakh*
+1400,Mahindra,XUV500,W10 AWD,2017,"37,000 kms",Diesel,First Owner,Mumbai,12.9 Lakh*
+1401,Mahindra,XUV500,W7 BSIV,2018,"31,300 kms",Diesel,First Owner,Mumbai,13.51 Lakh*
+1402,Mercedes-Benz,E-Class,Exclusive E 220 d BSIV,2018,"16,000 kms",Diesel,First Owner,Mumbai,47.85 Lakh*
+1403,Mercedes-Benz,GL-Class,350 CDI Blue Efficiency,2014,"83,000 kms",Diesel,Second Owner,Mumbai,34.5 Lakh*
+1404,Mercedes-Benz,CLK Class,350,2005,"50,000 kms",Petrol,Second Owner,Mumbai,7.25 Lakh*
+1405,Mercedes-Benz,S-Class,S 350 CDI,2015,"54,000 kms",Diesel,Second Owner,Mumbai,54.5 Lakh*
+1406,Mercedes-Benz,New C-Class,C 250 CDI Elegance,2011,"75,000 kms",Diesel,Second Owner,Mumbai,12.25 Lakh*
+1407,Mercedes-Benz,New C-Class,230 Avantgarde,2010,"71,000 kms",Petrol,First Owner,Mumbai,7 Lakh*
+1408,Mercedes-Benz,GLA Class,200 d Sport,2018,"18,000 kms",Diesel,First Owner,Mumbai,28.5 Lakh*
+1409,Mercedes-Benz,S-Class,S 350 CDI,2011,"69,000 kms",Diesel,Second Owner,Mumbai,16.49 Lakh*
+1410,Mercedes-Benz,S-Class,S 350 CDIL,2011,"55,000 kms",Diesel,Second Owner,Mumbai,16.5 Lakh*
+1411,Mercedes-Benz,S-Class,S 350 CDIL,2011,"55,000 kms",Diesel,Second Owner,Mumbai,16.5 Lakh*
+1412,Volkswagen,Polo,1.2 MPI Highline,2015,"71,121 Kms",Petrol,1st Owner,Mumbai,"4,85,000"
+1413,Volkswagen,Polo,Diesel Comfortline 1.2L,2010,"88,000 kms",Diesel,Second Owner,Mumbai,2.49 Lakh*
+1414,Volkswagen,Polo,1.5 TDI Highline,2014,"51,000 kms",Diesel,First Owner,Mumbai,4.55 Lakh*
+1415,Volkswagen,Polo,GT TSI,2018,"16,000 kms",Petrol,First Owner,Mumbai,8.65 Lakh*
+1416,Volkswagen,Polo,Petrol Highline 1.2L,2013,"8,031 kms",Petrol,Second Owner,Mumbai,4.25 Lakh*
+1417,Volkswagen,Vento,IPL II Petrol Highline,2011,"85,000 kms",Petrol,Second Owner,Mumbai,2.65 Lakh*
+1418,Volkswagen,Polo,Petrol Trendline 1.2L,2011,"86,000 kms",Petrol,First Owner,Mumbai,2.6 Lakh*
+1419,Volkswagen,Ameo,1.5 TDI Highline Plus,2017,"79,372 kms",Diesel,Second Owner,Mumbai,5.9 Lakh*
+1420,Volkswagen,Polo,1.2 MPI Comfortline,2017,"15,000 kms",Petrol,First Owner,Mumbai,5.51 Lakh*
+1421,Volkswagen,Polo,GT TSI,2015,"23,000 kms",Petrol,First Owner,Mumbai,6.25 Lakh*
+1422,BMW,3 Series,320d Corporate Edition,2012,"78,000 kms",Diesel,First Owner,Mumbai,10.75 Lakh*
+1423,BMW,5 Series,520d,2009,"98,000 kms",Diesel,First Owner,Mumbai,6.5 Lakh*
+1424,BMW,7 Series,740Li Sedan,2011,"64,000 kms",Petrol,Second Owner,Mumbai,17.5 Lakh*
+1425,BMW,5 Series,530i Sport Line,2017,"21,000 kms",Petrol,First Owner,Mumbai,43.75 Lakh*
+1426,BMW,X1,sDrive20d,2013,"48,000 kms",Diesel,Second Owner,Mumbai,10.75 Lakh*
+1427,BMW,X1,sDrive20d Expedition,2019,"13,000 kms",Diesel,First Owner,Mumbai,28.75 Lakh*
+1428,BMW,5 Series,525d Sedan,2012,"56,000 kms",Diesel,Second Owner,Mumbai,16.5 Lakh*
+1429,BMW,5 Series,GT 530d LE,2010,"96,500 kms",Diesel,Second Owner,Mumbai,14.75 Lakh*
+1430,BMW,3 Series,320d,2016,"52,500 kms",Diesel,First Owner,Mumbai,18.75 Lakh*
+1431,BMW,5 Series,520d Luxury Line,2018,"36,000 kms",Diesel,First Owner,Mumbai,44 Lakh*
+1432,Ford,Figo Aspire,1.2 Ti-VCT Titanium,2015,"37,687 Kms",Petrol,1st Owner,Mumbai,"4,27,500"
+1433,Ford,Figo Aspire,1.5 TDCi Titanium,2017,"64,511 Kms",Diesel,1st Owner,Mumbai,"5,73,500"
+1434,Ford,Figo Aspire,Titanium BSIV,2018,"17,439 Kms",Petrol,1st Owner,Mumbai,"6,04,500"
+1435,Ford,Ecosport,1.5 Diesel Titanium BSIV,2016,"84,341 Kms",Diesel,1st Owner,Mumbai,"6,03,500"
+1436,Ford,Ecosport,1.5 Ti VCT AT Titanium BSIV,2016,"50,000 kms",Petrol,First Owner,Mumbai,8.75 Lakh*
+1437,Ford,Ecosport,1.5 TDCi Trend Plus BSIV,2015,"89,500 kms",Diesel,Second Owner,Mumbai,5.4 Lakh*
+1438,Ford,Ecosport,1.5 Petrol Titanium BSIV,2017,"5,400 kms",Petrol,First Owner,Mumbai,8.45 Lakh*
+1439,Ford,Figo,Diesel EXI,2012,"67,232 kms",Diesel,First Owner,Mumbai,2.25 Lakh*
+1440,Ford,Ecosport,1.5 Petrol Ambiente,2017,"16,500 kms",Petrol,First Owner,Mumbai,6.98 Lakh*
+1441,Ford,Ecosport,1.5 Petrol Titanium AT,2016,"51,000 kms",Petrol,First Owner,Mumbai,7.45 Lakh*
+1442,Tata,Nexon,1.5 Revotorq XZ Plus,2017,"86,678 Kms",Diesel,1st Owner,Mumbai,"7,93,000"
+1443,Tata,Nexon,1.2 Revotron XZA Plus,2018,"1,900 Kms",Petrol,1st Owner,Mumbai,"9,65,000"
+1444,Tata,Nexon,1.5 Revotorq XZ Plus,2018,"11,671 Kms",Diesel,1st Owner,Mumbai,"9,05,500"
+1445,Tata,Nexon,1.2 Revotron XM,2018,"24,000 kms",Petrol,First Owner,Mumbai,6.25 Lakh*
+1446,Tata,Nexon,1.2 Revotron XM,2018,"18,800 kms",Petrol,First Owner,Mumbai,6.45 Lakh*
+1447,Tata,Nexon,1.5 Revotorq XZA Plus,2018,"27,000 kms",Diesel,First Owner,Mumbai,10.5 Lakh*
+1448,Tata,Sumo,Gold EX,2016,"49,939 kms",Diesel,First Owner,Mumbai,4.99 Lakh*
+1449,Tata,Sumo,Std,2019,"8,500 kms",Diesel,First Owner,Mumbai,6.25 Lakh*
+1450,Tata,Tiago,1.05 Revotorq XE,2017,"64,604 kms",Diesel,First Owner,Mumbai,4.11 Lakh*
+1451,Tata,New Safari,DICOR 2.2 EX 4x2 BS IV,2010,"70,000 kms",Diesel,Second Owner,Mumbai,2.4 Lakh*
+1452,Skoda,Rapid,1.6 TDI Elegance,2013,"79,000 kms",Diesel,First Owner,Mumbai,3.99 Lakh*
+1453,Skoda,Laura,1.9 TDI MT Ambiente,2011,"74,000 kms",Diesel,First Owner,Mumbai,4.75 Lakh*
+1454,Skoda,Rapid,Monte Carlo 1.6 MPI AT BSIV,2017,"29,000 kms",Petrol,Second Owner,Mumbai,7.11 Lakh*
+1455,Skoda,Rapid,1.5 TDI Ambition With Alloy Wheel,2014,"73,000 kms",Diesel,First Owner,Mumbai,4.5 Lakh*
+1456,Skoda,Rapid,1.6 MPI AT Style BSIV,2017,"50,700 kms",Petrol,First Owner,Mumbai,6.95 Lakh*
+1457,Skoda,Rapid,1.5 TDI Ambition With Alloy Wheel,2015,"72,000 kms",Diesel,First Owner,Mumbai,6.5 Lakh*
+1458,Skoda,Laura,RS,2012,"67,000 kms",Petrol,First Owner,Mumbai,9.85 Lakh*
+1459,Skoda,Rapid,1.6 MPI AT Style BSIV,2017,"25,000 kms",Petrol,First Owner,Mumbai,8.9 Lakh*
+1460,Skoda,Rapid,1.6 MPI Ambition Plus,2014,"27,000 kms",Petrol,First Owner,Mumbai,4.6 Lakh*
+1461,Skoda,Rapid,1.5 TDI Elegance Plus Black Package,2015,"67,000 kms",Diesel,First Owner,Mumbai,5.5 Lakh*
+1462,Audi,A3,35 TDI Premium Plus,2016,"26,000 kms",Diesel,First Owner,Mumbai,19.51 Lakh*
+1463,Audi,A6,2.0 TDI Premium Plus,2012,"1,00,000 kms",Diesel,First Owner,Mumbai,13 Lakh*
+1464,Audi,A3,35 TDI Premium Plus,2017,"39,000 kms",Diesel,First Owner,Mumbai,19.75 Lakh*
+1465,Audi,A4,35 TDI Technology Edition,2015,"65,000 kms",Diesel,Second Owner,Mumbai,16.5 Lakh*
+1466,Audi,A4,2.0 TDI,2013,"79,000 kms",Diesel,First Owner,Mumbai,11.5 Lakh*
+1467,Audi,A8,L 3.0 TDI quattro,2012,"25,000 kms",Diesel,Third Owner,Mumbai,27.5 Lakh*
+1468,Audi,A6,2.0 TDI Premium Plus,2012,"65,000 kms",Diesel,Second Owner,Mumbai,12.5 Lakh*
+1469,Audi,A6,35 TDI Premium,2014,"61,000 kms",Diesel,Second Owner,Mumbai,14.5 Lakh*
+1470,Audi,Q7,3.0 TDI Quattro Premium Plus,2010,"47,000 kms",Diesel,Second Owner,Mumbai,15.5 Lakh*
+1471,Audi,Q7,3.0 TDI Quattro Premium Plus,2011,"64,000 kms",Diesel,Second Owner,Mumbai,18.5 Lakh*
+1472,Renault,KWID,RXL,2019,"11,461 Kms",Petrol,1st Owner,Mumbai,"3,24,500"
+1473,Renault,KWID,AMT RXL,2017,"26,896 Kms",Petrol,1st Owner,Mumbai,"3,26,000"
+1474,Renault,KWID,RXL,2015,"31,383 Kms",Petrol,1st Owner,Mumbai,"2,38,000"
+1475,Renault,Duster,85PS Diesel RxL,2015,"114,710 Kms",Diesel,1st Owner,Mumbai,"5,79,000"
+1476,Renault,Duster,85PS Diesel RxL,2015,"61,175 Kms",Diesel,1st Owner,Mumbai,"5,57,000"
+1477,Renault,Duster,85PS Diesel RxL Option,2012,"95,320 kms",Diesel,Second Owner,Mumbai,4.75 Lakh*
+1478,Renault,KWID,RXL,2016,"74,000 kms",Petrol,First Owner,Mumbai,2.65 Lakh*
+1479,Renault,Duster,110PS Diesel RxZ,2013,"67,000 kms",Diesel,Second Owner,Mumbai,4.99 Lakh*
+1480,Renault,Captur,Platine Dual Tone Diesel,2017,"58,000 kms",Diesel,First Owner,Mumbai,8.9 Lakh*
+1481,Renault,Lodgy,Stepway 85PS RXL 8S,2017,"55,000 kms",Diesel,First Owner,Mumbai,6.55 Lakh*
+1482,Chevrolet,Aveo U-VA,1.2 LT,2009,"41,500 kms",Petrol,Second Owner,Mumbai,1.25 Lakh*
+1483,Chevrolet,Optra,1.6 LT Royale,2005,"63,000 kms",Petrol,First Owner,Mumbai,1.25 Lakh*
+1484,Chevrolet,Spark,1.0 LS,2012,"24,500 kms",Petrol,First Owner,Mumbai,1.7 Lakh*
+1485,Chevrolet,Enjoy,TCDi LS 7 Seater,2014,"95,400 kms",Diesel,First Owner,Mumbai,3.15 Lakh*
+1486,Chevrolet,Sail,LT ABS,2014,"63,500 kms",Diesel,First Owner,Mumbai,2.95 Lakh*
+1487,Chevrolet,Cruze,LTZ,2010,"70,000 kms",Diesel,First Owner,Mumbai,3.35 Lakh*
+1488,Chevrolet,Enjoy,TCDi LTZ 8 Seater,2014,"70,500 kms",Diesel,First Owner,Mumbai,3.76 Lakh*
+1489,Chevrolet,Beat,LS,2015,"39,000 kms",Petrol,First Owner,Mumbai,2.75 Lakh*
+1490,Chevrolet,Beat,LT,2011,"22,000 kms",Petrol,Second Owner,Mumbai,1.95 Lakh*
+1491,Chevrolet,Beat,LT,2015,"25,300 kms",Petrol,First Owner,Mumbai,3.15 Lakh*
+1492,Jeep,Compass,2.0 Limited,2017,"47,000 kms",Diesel,First Owner,Mumbai,15.85 Lakh*
+1493,Jeep,Compass,2.0 Limited,2018,"51,000 kms",Diesel,First Owner,Mumbai,15.75 Lakh*
+1494,Jeep,Wrangler,Unlimited,2019,"32,000 kms",Petrol,First Owner,Mumbai,54 Lakh*
+1495,Jeep,Compass,1.4 Limited,2018,"11,000 kms",Petrol,First Owner,Mumbai,16.25 Lakh*
+1496,Jeep,Compass,2.0 Longitude Option BSIV,2017,"46,706 kms",Diesel,First Owner,Mumbai,14.25 Lakh*
+1497,Jeep,Compass,2.0 Longitude Option BSIV,2017,"35,800 kms",Diesel,First Owner,Mumbai,15.25 Lakh*
+1498,Jeep,Compass,2.0 Longitude Option BSIV,2017,"26,000 kms",Diesel,First Owner,Mumbai,15.25 Lakh*
+1499,Jeep,Compass,2.0 Limited Plus 4X4,2018,"72,000 kms",Diesel,First Owner,Mumbai,15.45 Lakh*
+1500,Jeep,Compass,1.4 Limited Option,2018,"19,000 kms",Petrol,First Owner,Mumbai,16.9 Lakh*
+1501,Jeep,Compass,2.0 Limited Option Black,2019,"14,000 kms",Diesel,Second Owner,Mumbai,19.75 Lakh*
+1502,Nissan,Micra Active,XV S,2014,"43,000 kms",Petrol,First Owner,Mumbai,3.2 Lakh*
+1503,Nissan,Kicks,XV Premium D BSIV,2019,"42,910 kms",Diesel,First Owner,Mumbai,10.5 Lakh*
+1504,Nissan,Sunny,XL,2012,"24,500 kms",Petrol,First Owner,Mumbai,3.75 Lakh*
+1505,Nissan,Sunny,Diesel XL,2012,"74,309 kms",Diesel,Second Owner,Mumbai,3.21 Lakh*
+1506,Nissan,Sunny,Diesel XV,2014,"58,050 kms",Diesel,First Owner,Mumbai,4.75 Lakh*
+1507,Nissan,Sunny,XV Special Edition,2013,"55,000 kms",Petrol,First Owner,Mumbai,3.2 Lakh*
+1508,Nissan,Terrano,XL 110 PS,2014,"70,000 kms",Diesel,Second Owner,Mumbai,5.49 Lakh*
+1509,Nissan,X-Trail,SLX MT,2010,"98,423 kms",Diesel,Second Owner,Mumbai,4.75 Lakh*
+1510,Nissan,Sunny,XE,2013,"52,000 kms",Petrol,First Owner,Mumbai,2.65 Lakh*
+1511,Nissan,Micra,Diesel XV Premium,2014,"50,000 kms",Diesel,First Owner,Mumbai,3.9 Lakh*
+1512,Land-Rover,--,SD4 HSE Luxury 7S,2017 Land Rover Discovery Sport,,Diesel,Owner,Mumbai,--
+1513,Land-Rover,--,LWB 4.4 SDV8 Vogue SE,2012 Land Rover Range Rover,,Diesel,Owner,Mumbai,--
+1514,Land-Rover,--,TD4 HSE Luxury,2017 Land Rover Discovery Sport,,Diesel,Owner,Mumbai,--
+1515,Land-Rover,--,HSE 3.0 TD6,2020 Land Rover Discovery,"22,000 kms",Diesel,Second Owner,Mumbai,79.5 Lakh*
+1516,Land-Rover,--,HSE,2015 Land Rover Range Rover Evoque,"40,000 kms",Diesel,First Owner,Mumbai,34 Lakh*
+1517,Land-Rover,--,3.0 D HSE,2015 Land Rover Range Rover Sport,"38,000 kms",Diesel,First Owner,Mumbai,76.5 Lakh*
+1518,Land-Rover,--,2.0 TD4 SE Dynamic,2016 Land Rover Range Rover Evoque,"56,000 kms",Diesel,Second Owner,Mumbai,34 Lakh*
+1519,Land-Rover,--,2.0 TD4 SE Dynamic,2016 Land Rover Range Rover Evoque,"44,000 kms",Diesel,Second Owner,Mumbai,32.75 Lakh*
+1520,Land-Rover,--,2.2L Pure,2012 Land Rover Range Rover Evoque,"74,000 kms",Diesel,Second Owner,Mumbai,23.5 Lakh*
+1521,Kia,Seltos,GTX Plus,2020,"26,000 kms",Petrol,First Owner,Mumbai,18.75 Lakh*
+1522,Kia,Seltos,GTX Plus,2020,"25,500 kms",Petrol,First Owner,Mumbai,18.25 Lakh*
+1523,Kia,Seltos,GTX Plus DCT,2020,"4,500 kms",Petrol,First Owner,Mumbai,19.25 Lakh*
+1524,Kia,Seltos,HTK Plus D,2019,"39,225 kms",Diesel,First Owner,Mumbai,11.99 Lakh*
+1525,Kia,Seltos,GTX Plus DCT,2020,"15,000 kms",Petrol,First Owner,Mumbai,18.85 Lakh*
+1526,Kia,Seltos,GTX Plus DCT,2019,"7,397 kms",Petrol,First Owner,Mumbai,18.85 Lakh*
+1527,Kia,Seltos,HTX Plus D,2019,"11,001 kms",Diesel,First Owner,Mumbai,17.11 Lakh*
+1528,Kia,Seltos,HTX Plus D,2019,"11,000 kms",Diesel,First Owner,Mumbai,17.11 Lakh*
+1529,Kia,Seltos,GTX DCT,2019,"11,900 kms",Petrol,First Owner,Mumbai,17.85 Lakh*
+1530,Kia,Seltos,HTX Plus AT D,2020,"19,137 kms",Diesel,First Owner,Mumbai,18.85 Lakh*
+1531,Mitsubishi,Montero,3.2 GLS,2008,"1,05,300 kms",Diesel,First Owner,Mumbai,6.25 Lakh*
+1532,Mitsubishi,Cedia,Select,2012,"70,000 kms",Petrol,First Owner,Mumbai,3.25 Lakh*
+1533,Mitsubishi,Pajero,2.8 SFX,2010,"2,00,000 kms",Diesel,First Owner,Mumbai,6.45 Lakh*
+1534,Mitsubishi,Pajero,Sport 4X2 AT DualTone BlackTop,2017,"49,000 kms",Diesel,First Owner,Mumbai,19.9 Lakh*
+1535,Mitsubishi,Pajero,Sport 4X2 AT,2015,"65,000 kms",Diesel,First Owner,Mumbai,15.5 Lakh*
+1536,Mitsubishi,Pajero,Sport 4X4,2013,"1,17,064 kms",Diesel,First Owner,Mumbai,9.55 Lakh*
+1537,Mitsubishi,Pajero,Sport 4X2 AT,2017,"41,000 kms",Diesel,First Owner,Mumbai,18.75 Lakh*
+1538,Mitsubishi,Cedia,New Sports,2011,"60,000 kms",Petrol,Second Owner,Mumbai,3.65 Lakh*
+1539,Mitsubishi,Outlander,2.4,2010,"80,000 kms",Petrol,Second Owner,Mumbai,5.25 Lakh*
+1540,Mitsubishi,Outlander,2.4,2010,"1,00,000 kms",Petrol,First Owner,Mumbai,6 Lakh*
+1541,Jaguar,XJ,5.0L,2011,"59,000 kms",Petrol,First Owner,Mumbai,25 Lakh*
+1542,Jaguar,XJ,5.0 L V8 Supercharged,2011,"60,001 kms",Petrol,First Owner,Mumbai,25 Lakh*
+1543,Jaguar,XJ,3.0L,2011,"55,500 kms",Diesel,First Owner,Mumbai,25.49 Lakh*
+1544,Jaguar,XF,2.2 Litre Luxury,2015,"59,000 kms",Diesel,Second Owner,Mumbai,19.5 Lakh*
+1545,Jaguar,XF,2.2 Litre Executive,2013,"76,000 kms",Diesel,Second Owner,Mumbai,14.5 Lakh*
+1546,Jaguar,XJ,5.0 L V8 Supercharged,2012,"40,000 kms",Petrol,Second Owner,Mumbai,27.5 Lakh*
+1547,Jaguar,XE,SE Diesel,2020,"10,000 kms",Diesel,First Owner,Mumbai,37.99 Lakh*
+1548,Jaguar,XJ,5.0 L V8 Supercharged,2011,"60,200 kms",Petrol,First Owner,Mumbai,24.99 Lakh*
+1549,Jaguar,XF,5.0 Litre V8 Petrol,2010,"55,000 kms",Petrol,Second Owner,Mumbai,12 Lakh*
+1550,Jaguar,XF,3.0 Litre S Premium Luxury,2013,"73,000 kms",Diesel,Second Owner,Mumbai,18.25 Lakh*
+1551,Fiat,Avventura Urban Cross,1.4 T-Jet Emotion,2018,"41,400 kms",Petrol,First Owner,Mumbai,5.95 Lakh*
+1552,Fiat,Linea,T Jet Dynamic,2013,"28,000 kms",Petrol,First Owner,Mumbai,3.75 Lakh*
+1553,Fiat,Punto,1.2 Active,2010,"31,047 kms",Petrol,First Owner,Mumbai,1.85 Lakh*
+1554,Fiat,Grande Punto,1.4 Emotion,2011,"78,652 kms",Petrol,Second Owner,Mumbai,1.68 Lakh*
+1555,Fiat,Linea,T Jet Dynamic,2016,"41,000 kms",Petrol,First Owner,Mumbai,4.25 Lakh*
+1556,Fiat,Linea,Power Up 1.3 Dynamic,2017,"41,000 kms",Diesel,First Owner,Mumbai,5.65 Lakh*
+1557,Fiat,Grande Punto,1.4 Emotion,2009,"40,000 kms",Petrol,First Owner,Mumbai,1.65 Lakh*
+1558,Fiat,Linea,Emotion (Diesel),2015,"1,50,000 kms",Diesel,Second Owner,Mumbai,3 Lakh*
+1559,Fiat,Linea,Emotion,2009,"90,000 kms",Petrol,Second Owner,Mumbai,1.5 Lakh*
+1560,Fiat,Punto,1.3 Active,2010,"90,000 kms",Diesel,Third Owner,Mumbai,1.1 Lakh*
+1561,Mini,Cooper Countryman,One,2014,"29,800 kms",Petrol,First Owner,Mumbai,15.9 Lakh*
+1562,Mini,Cooper Countryman,D,2013,"35,000 kms",Diesel,First Owner,Mumbai,14.25 Lakh*
+1563,Mini,Cooper Countryman,D,2014,"50,000 kms",Diesel,First Owner,Mumbai,15.6 Lakh*
+1564,Mini,Cooper,S,2020,"2,800 kms",Petrol,First Owner,Mumbai,48.5 Lakh*
+1565,Mini,Cooper Countryman,D High,2014,"39,000 kms",Diesel,First Owner,Mumbai,19 Lakh*
+1566,Mini,3 DOOR,Cooper D,2016,"24,000 kms",Diesel,First Owner,Mumbai,23.5 Lakh*
+1567,Mini,Cooper,S,2013,"34,000 kms",Petrol,Second Owner,Mumbai,18.75 Lakh*
+1568,Mini,Cooper Countryman,D,2015,"34,000 kms",Diesel,First Owner,Mumbai,18.1 Lakh*
+1569,Mini,Cooper Countryman,Cooper S JCW Inspired,2021,"1,000 kms",Petrol,First Owner,Mumbai,50 Lakh*
+1570,Mini,Cooper Countryman,Cooper S JCW Inspired,2021,"3,800 kms",Petrol,First Owner,Mumbai,49 Lakh*
+1571,Volvo,S90,D4 Inscription BSIV,2018,"48,000 kms",Diesel,First Owner,Mumbai,38 Lakh*
+1572,Volvo,XC 90,D5 AWD,2013,"79,999 kms",Diesel,First Owner,Mumbai,16.11 Lakh*
+1573,Volvo,XC60,D3 Kinetic,2012,"81,800 kms",Diesel,Second Owner,Mumbai,18 Lakh*
+1574,Volvo,XC 90,D5 AWD,2013,"80,232 kms",Diesel,First Owner,Mumbai,16 Lakh*
+1575,Volvo,XC 90,D5 Inscription,2016,"90,000 kms",Diesel,First Owner,Mumbai,38 Lakh*
+1576,Volvo,XC 90,D5 AT AWD,2008,"1,70,000 kms",Diesel,Second Owner,Mumbai,13 Lakh*
+1577,Volvo,XC 90,D5 Momentum BSIV,2018,"60,000 kms",Diesel,Second Owner,Mumbai,48 Lakh*
+1578,Volvo,S60,D4 Momentum BSIV,2017,"12,000 kms",Diesel,First Owner,Mumbai,25 Lakh*
+1579,Volvo,V40,D3 R Design,2018,"24,000 kms",Diesel,First Owner,Mumbai,26 Lakh*
+1580,Datsun,RediGO,T Option,2019,"41,298 kms",Petrol,First Owner,Mumbai,3.1 Lakh*
+1581,Datsun,RediGO,AMT 1.0 T Option,2018,"15,738 kms",Petrol,First Owner,Mumbai,3.7 Lakh*
+1582,Datsun,RediGO,A,2016,"33,263 kms",Petrol,First Owner,Mumbai,2.29 Lakh*
+1583,Datsun,GO Plus,A,2017,"30,000 kms",Petrol,First Owner,Mumbai,3.4 Lakh*
+1584,Datsun,GO Plus,T BSIV,2017,"22,000 kms",Petrol,First Owner,Mumbai,3.4 Lakh*
+1585,Datsun,RediGO,A,2018,"31,975 kms",Petrol,First Owner,Mumbai,2.39 Lakh*
+1586,Datsun,RediGO,T Option,2016,"9,020 kms",Petrol,First Owner,Mumbai,2.29 Lakh*
+1587,Datsun,GO,T BSIV,2014,"20,000 kms",Petrol,Second Owner,Mumbai,1.75 Lakh*
+1588,Porsche,Cayenne,Diesel,2014,"35,549 kms",Diesel,Second Owner,Mumbai,51 Lakh*
+1589,Porsche,Cayenne,Diesel Platinum Edition,2014,"1,10,000 kms",Diesel,First Owner,Mumbai,41.5 Lakh*
+1590,Porsche,Cayenne,Turbo S,2011,"30,000 kms",Petrol,Third Owner,Mumbai,31.5 Lakh*
+1591,Porsche,Macan,2L,2017,"38,000 kms",Petrol,Second Owner,Mumbai,52 Lakh*
+1592,Porsche,Cayenne,Diesel,2014,"1,10,000 kms",Diesel,First Owner,Mumbai,45 Lakh*
+1593,Porsche,Cayenne,Diesel,2014,"51,000 kms",Diesel,Second Owner,Mumbai,39 Lakh*
+1594,Porsche,Panamera,Diesel,2013,"36,000 kms",Diesel,First Owner,Mumbai,49 Lakh*
+1595,MG,Hector,Sharp DCT,2020,"8,000 kms",Petrol,First Owner,Mumbai,18.75 Lakh*
+1596,MG,Hector,Smart Diesel MT BSIV,2019,"47,846 kms",Diesel,First Owner,Mumbai,16.85 Lakh*
+1597,MG,Hector,Sharp AT BSIV,2020,"8,020 kms",Petrol,First Owner,Mumbai,18 Lakh*
+1598,MG,Hector Plus,Sharp AT,2020,"9,000 kms",Petrol,First Owner,Mumbai,20.25 Lakh*
+1599,MG,Hector,Sharp DCT,2020,"4,500 kms",Petrol,First Owner,Mumbai,19.4 Lakh*
+1600,Mahindra-Renault,--,1.4 GLE Petrol,2009 Mahindra Renault Logan,"56,191 kms",Petrol,Third Owner,Mumbai,1.73 Lakh*
+1601,Mahindra-Renault,--,1.5 DLX Diesel,2008 Mahindra Renault Logan,"1,32,000 kms",Diesel,Second Owner,Mumbai,1.26 Lakh*
+1602,Mahindra-Renault,--,1.4 GLE Petrol,2008 Mahindra Renault Logan,"1,00,000 kms",Petrol,Third Owner,Mumbai,1.05 Lakh*
+1603,Mahindra-Renault,--,1.4 GL Petrol,2008 Mahindra Renault Logan,"40,000 kms",Petrol,Second Owner,Mumbai,1.35 Lakh*
+1604,Bentley,Continental,GT,2008,"6,000 kms",Petrol,First Owner,Mumbai,75 Lakh*
+1605,Bentley,Continental,Flying Spur BSIV,2010,"49,000 kms",Petrol,Second Owner,Mumbai,76 Lakh*
+1606,Isuzu,MU-X,4X2,2017,"40,200 kms",Diesel,First Owner,Mumbai,22.5 Lakh*
+1607,Isuzu,MU 7,4x2 HIPACK,2015,"34,000 kms",Diesel,Second Owner,Mumbai,14.5 Lakh*
+1608,Premier,Rio,DX,2012,"17,500 kms",Diesel,First Owner,Mumbai,2 Lakh*
+1609,Premier,Rio,DX,2012,"17,500 kms",Diesel,First Owner,Mumbai,2 Lakh*
+1610,Force,One,4X2 6 Seating,2012,"80,000 kms",Diesel,First Owner,Mumbai,4.5 Lakh*
+1611,Mahindra-Ssangyong,--,RX7,2013 Mahindra Ssangyong Rexton,"89,000 kms",Diesel,First Owner,Mumbai,6.5 Lakh*
+1612,Maruti,Baleno,1.2 CVT Delta,2017,"39,462 Kms",Petrol,1st Owner,Noida,"5,75,500"
+1613,Maruti,Ciaz,VDi,2014,"77,891 Kms",Diesel,1st Owner,Noida,"4,87,500"
+1614,Maruti,Baleno,1.2 CVT Delta,2017,"39,462 Kms",Petrol,1st Owner,Noida,"5,75,500"
+1615,Maruti,Ciaz,Sigma Diesel,2017,"51,421 Kms",Diesel,1st Owner,Noida,"6,40,000"
+1616,Maruti,Baleno,1.2 Delta,2018,"23,630 Kms",Petrol,2nd Owner,Noida,"5,48,500"
+1617,Maruti,Alto K10,VXI,2018,"18,819 Kms",Petrol,1st Owner,Noida,"3,54,000"
+1618,Maruti,Baleno,Alpha,2017,"41,867 Kms",Petrol,1st Owner,Noida,"5,93,500"
+1619,Maruti,Ciaz,ZDi SHVS,2016,"72,705 Kms",Diesel,1st Owner,Noida,"6,34,500"
+1620,Maruti,Alto K10,VXI AMT,2016,"21,863 Kms",Petrol,1st Owner,Noida,"3,32,000"
+1621,Maruti,Baleno,1.2 CVT Delta,2016,"44,802 Kms",Petrol,1st Owner,Noida,"5,42,500"
+1622,Hyundai,Santro,Magna BSIV,2018,872 Kms,Petrol,1st Owner,Noida,"5,03,000"
+1623,Hyundai,Grand i10,Magna,2015,"73,504 Kms",Petrol,1st Owner,Noida,"3,66,500"
+1624,Hyundai,Grand i10,Asta,2013,"42,363 Kms",Petrol,2nd Owner,Noida,"3,16,500"
+1625,Hyundai,Grand i10,CRDi Magna,2016,"74,520 Kms",Diesel,1st Owner,Noida,"3,51,500"
+1626,Hyundai,Grand i10,Magna,2015,"41,031 Kms",Petrol,2nd Owner,Noida,"3,56,500"
+1627,Hyundai,Grand i10,1.2 Kappa Sportz Option AT,2018,"43,980 Kms",Petrol,1st Owner,Noida,"5,17,408"
+1628,Hyundai,Grand i10,Sportz,2015,"80,081 Kms",Petrol,1st Owner,Noida,"3,69,500"
+1629,Hyundai,i20,Asta 1.4 CRDi,2015,"117,327 Kms",Diesel,1st Owner,Noida,"4,89,500"
+1630,Hyundai,i20 Active,1.2 SX,2018,"14,713 Kms",Petrol,1st Owner,Noida,"6,31,500"
+1631,Hyundai,Grand i10,Magna,2013,"48,727 Kms",Petrol,2nd Owner,Noida,"3,39,000"
+1632,Honda,Brio,VX AT,2014,"36,205 Kms",Petrol,1st Owner,Noida,"3,88,500"
+1633,Honda,Amaze,S Petrol,2019,"33,488 Kms",Petrol,1st Owner,Noida,"6,61,000"
+1634,Honda,Amaze,VX Diesel BSIV,2018,"55,694 Kms",Diesel,1st Owner,Noida,"6,39,116"
+1635,Honda,Jazz,VX,2017,"58,269 Kms",Petrol,1st Owner,Noida,"5,38,000"
+1636,Honda,Brio,S MT,2012,"37,297 Kms",Petrol,1st Owner,Noida,"3,04,500"
+1637,Honda,Brio,S MT,2012,"57,854 Kms",Petrol,2nd Owner,Noida,"2,15,500"
+1638,Honda,Brio,S MT,2012,"27,371 Kms",Petrol,2nd Owner,Noida,"2,97,500"
+1639,Honda,Brio,1.2 VX AT,2015,"62,409 Kms",Petrol,1st Owner,Noida,"3,94,500"
+1640,Honda,Civic,1.8 V AT,2011,"101,021 Kms",Petrol,2nd Owner,Noida,"3,60,000"
+1641,Honda,Brio,S MT,2014,"90,158 Kms",Petrol,1st Owner,Noida,"3,28,000"
+1642,Mahindra,XUV300,W6,2019,"11,330 Kms",Petrol,1st Owner,Noida,"8,18,458"
+1643,Mahindra,XUV500,W6 2WD,2014,"104,149 Kms",Diesel,2nd Owner,Noida,"5,12,000"
+1644,Mahindra,KUV 100,mFALCON D75 K6 5str,2016,"64,000 kms",Diesel,First Owner,Noida,4.5 Lakh*
+1645,Mahindra,XUV500,W10 AWD,2017,"54,000 kms",Diesel,First Owner,Noida,13.5 Lakh*
+1646,Mahindra,TUV 300,T8,2016,"40,000 kms",Diesel,First Owner,Noida,6.25 Lakh*
+1647,Mahindra,Thar,DI 4X4,2017,"38,000 kms",Diesel,First Owner,Noida,7.5 Lakh*
+1648,Mahindra,KUV 100,mFALCON D75 K4 Plus 5str,2016,"50,000 kms",Diesel,First Owner,Noida,3.49 Lakh*
+1649,Mahindra,Scorpio,1.99 S6 Plus,2016,"90,000 kms",Diesel,First Owner,Noida,10 Lakh*
+1650,Mahindra,XUV500,W8 2WD,2013,"1,27,000 kms",Diesel,First Owner,Noida,5.75 Lakh*
+1651,Mahindra,XUV500,W6 2WD,2017,"50,000 kms",Diesel,First Owner,Noida,9 Lakh*
+1652,Renault,Triber,RXZ BSIV,2019,"11,152 Kms",Petrol,1st Owner,Noida,"6,16,500"
+1653,Renault,Triber,RXT,2020,"1,581 Kms",Petrol,1st Owner,Noida,"6,58,500"
+1654,Renault,KWID,RXT Optional,2018,"10,287 Kms",Petrol,1st Owner,Noida,"3,53,000"
+1655,Renault,KWID,RXL,2015,"80,036 Kms",Petrol,2nd Owner,Noida,"1,98,500"
+1656,Renault,KWID,RXL,2017,"5,111 Kms",Petrol,1st Owner,Noida,"2,87,000"
+1657,Renault,Triber,RXL,2020,"8,560 Kms",Petrol,1st Owner,Noida,"5,66,000"
+1658,Renault,Duster,85PS Diesel RxL,2015,"82,193 Kms",Diesel,1st Owner,Noida,"4,36,000"
+1659,Renault,KWID,RXL,2018,"10,620 Kms",Petrol,1st Owner,Noida,"3,13,000"
+1660,Renault,KWID,RXL,2017,"17,000 kms",Petrol,First Owner,Noida,2.95 Lakh*
+1661,Renault,KWID,RXL,2016,"46,000 kms",Petrol,First Owner,Noida,2.75 Lakh*
+1662,Toyota,Corolla Altis,VL AT,2015,"43,241 Kms",Petrol,1st Owner,Noida,"9,41,000"
+1663,Toyota,Corolla Altis,G,2010,"76,228 Kms",Petrol,2nd Owner,Noida,"3,24,000"
+1664,Toyota,Innova,2.5 GX (Diesel) 7 Seater BS IV,2012,"126,657 Kms",Diesel,1st Owner,Noida,"5,96,500"
+1665,Toyota,Etios,1.5 VX,2016,"67,000 kms",Petrol,First Owner,Noida,4.9 Lakh*
+1666,Toyota,Innova,2.5 GX (Diesel) 7 Seater BS IV,2013,"85,000 kms",Diesel,First Owner,Noida,6.5 Lakh*
+1667,Toyota,Innova Crysta,2.8 ZX AT BSIV,2016,"96,000 kms",Diesel,First Owner,Noida,15.75 Lakh*
+1668,Toyota,Fortuner,4x4 MT,2012,"80,000 kms",Diesel,First Owner,Noida,13 Lakh*
+1669,Toyota,Fortuner,4x4 MT,2013,"1,65,000 kms",Diesel,First Owner,Noida,12.5 Lakh*
+1670,Toyota,Etios,VXD,2015,"1,20,000 kms",Diesel,First Owner,Noida,4 Lakh*
+1671,Toyota,Innova,2.5 VX 7 STR BSIV,2012,"60,000 kms",Diesel,First Owner,Noida,7.25 Lakh*
+1672,Tata,Tiago,1.2 Revotron XZ,2018,"20,463 Kms",Petrol,1st Owner,Noida,"4,51,000"
+1673,Tata,Nexon,1.5 Revotorq XZ Plus,2017,"115,229 Kms",Diesel,1st Owner,Noida,"5,92,000"
+1674,Tata,Tigor,1.2 Revotron XZ,2018,"67,371 Kms",Petrol,1st Owner,Noida,"4,31,000"
+1675,Tata,Tiago,1.2 Revotron XT,2020,"15,798 Kms",Petrol,1st Owner,Noida,"5,24,243"
+1676,Tata,Tiago,1.2 Revotron XZ,2016,"52,000 kms",Petrol,Second Owner,Noida,4.25 Lakh*
+1677,Tata,Zest,Revotron 1.2T XM,2014,"72,000 kms",Petrol,First Owner,Noida,3.45 Lakh*
+1678,Tata,Tiago,1.05 Revotorq XZ,2017,"66,000 kms",Diesel,First Owner,Noida,4.45 Lakh*
+1679,Tata,Nexon,XZ Plus DualTone Roof (O),2020,"20,000 kms",Petrol,First Owner,Noida,10.75 Lakh*
+1680,Tata,Winger,Deluxe - Flat Roof (AC),2012,"80,000 kms",Diesel,First Owner,Noida,5.5 Lakh*
+1681,Tata,New Safari,DICOR 2.2 LX 4x2 BS IV,2011,"54,900 kms",Diesel,First Owner,Noida,5 Lakh*
+1682,Ford,Figo Aspire,1.5 TDCi Titanium,2015,"59,092 Kms",Diesel,1st Owner,Noida,"4,12,500"
+1683,Ford,Ecosport,1.5 Petrol Titanium AT,2016,"86,546 Kms",Petrol,2nd Owner,Noida,"5,76,000"
+1684,Ford,EcoSport,1.5 DV5 MT Titanium,2014,"84,000 kms",Diesel,First Owner,Noida,5.1 Lakh*
+1685,Ford,Ecosport,1.5 Diesel Titanium Plus,2015,"80,000 kms",Diesel,Second Owner,Noida,4.9 Lakh*
+1686,Ford,Ecosport,1.5 TDCi Titanium Plus BE BSIV,2018,"30,000 kms",Diesel,First Owner,Noida,8.9 Lakh*
+1687,Ford,Ecosport,Titanium Plus AT,2017,"93,457 kms",Petrol,First Owner,Noida,7 Lakh*
+1688,Ford,EcoSport,1.5 Ti VCT MT Titanium,2013,"52,000 kms",Petrol,Second Owner,Noida,4.75 Lakh*
+1689,Ford,Ecosport,Titanium Plus AT,2016,"75,847 kms",Petrol,Second Owner,Noida,6.1 Lakh*
+1690,Ford,Endeavour,Hurricane Limited Edition,2011,"1,20,000 kms",Diesel,First Owner,Noida,7 Lakh*
+1691,Ford,Figo,Diesel Titanium,2014,"50,000 kms",Diesel,First Owner,Noida,2.25 Lakh*
+1692,Volkswagen,Polo,1.0 MPI Trendline,2019,"8,559 Kms",Petrol,1st Owner,Noida,"5,28,000"
+1693,Volkswagen,Polo,GT TSI,2014,"53,019 Kms",Petrol,2nd Owner,Noida,"4,99,000"
+1694,Volkswagen,Ameo,1.2 MPI Highline,2016,"46,846 Kms",Petrol,1st Owner,Noida,"4,59,500"
+1695,Volkswagen,Ameo,1.2 MPI Trendline,2017,"41,665 Kms",Petrol,2nd Owner,Noida,"3,94,500"
+1696,Volkswagen,Vento,Petrol Comfortline,2012,"59,259 Kms",Petrol,1st Owner,Noida,"2,95,500"
+1697,Volkswagen,Polo,1.2 MPI Comfortline,2016,"63,000 kms",Petrol,First Owner,Noida,4.6 Lakh*
+1698,Volkswagen,Polo,Petrol Comfortline 1.2L,2011,"71,000 kms",Petrol,First Owner,Noida,2.85 Lakh*
+1699,Volkswagen,Polo,1.2 MPI Highline,2017,"50,033 kms",Petrol,First Owner,Noida,6.5 Lakh*
+1700,Volkswagen,Ameo,1.2 MPI Comfortline,2017,"11,894 kms",Petrol,First Owner,Noida,6 Lakh*
+1701,Volkswagen,Polo,Petrol Trendline 1.2L,2011,"48,000 kms",Petrol,Second Owner,Noida,2.85 Lakh*
+1702,Mercedes-Benz,New C-Class,C 200 AVANTGARDE,2011,"32,000 kms",Petrol,Second Owner,Noida,9.75 Lakh*
+1703,Mercedes-Benz,E-Class,E250 CDI Avantgarde,2013,"63,000 kms",Diesel,Third Owner,Noida,15.75 Lakh*
+1704,Mercedes-Benz,A Class,A180 CDI,2015,"56,000 kms",Diesel,Third Owner,Noida,13.25 Lakh*
+1705,Mercedes-Benz,New C-Class,C 200 Kompressor Elegance AT,2008,"1,00,000 kms",Petrol,Third Owner,Noida,7.5 Lakh*
+1706,Mercedes-Benz,New C-Class,C 200 CGI Elegance,2011,"1,54,000 kms",Petrol,First Owner,Noida,7 Lakh*
+1707,Mercedes-Benz,CLA,200 CDI Style,2017,"35,000 kms",Diesel,Second Owner,Noida,22 Lakh*
+1708,Mercedes-Benz,GLC,43 AMG Coupe,2020,"4,000 kms",Petrol,First Owner,Noida,82 Lakh*
+1709,Mercedes-Benz,GLE,300d,2020,"5,000 kms",Diesel,First Owner,Noida,75 Lakh*
+1710,Audi,A4,1.8 TFSI Premium Plus,2010,"75,000 kms",Petrol,Second Owner,Noida,8.2 Lakh*
+1711,Audi,A6,2.0 TDI Premium Plus,2013,"82,000 kms",Diesel,First Owner,Noida,16.2 Lakh*
+1712,Audi,Q7,3.0 TDI Quattro Technology,2010,"1,20,000 kms",Diesel,Fourth & Above Owner,Noida,11 Lakh*
+1713,Audi,Q7,3.0 TDI Quattro Premium Plus,2014,"88,000 kms",Diesel,Second Owner,Noida,24.5 Lakh*
+1714,Skoda,Rapid,1.6 MPI Ambition Plus,2015,"90,000 kms",Petrol,First Owner,Noida,4.7 Lakh*
+1715,Skoda,Rapid,1.6 MPI AT Ambition,2014,"69,000 kms",Petrol,First Owner,Noida,4.85 Lakh*
+1716,Skoda,Karoq,Style AT,2020,"20,000 kms",Petrol,First Owner,Noida,24.49 Lakh*
+1717,Skoda,Rapid,1.6 MPI Style BSIV,2017,"86,000 kms",Petrol,First Owner,Noida,5.75 Lakh*
+1718,Chevrolet,Cruze,LTZ,2015,"73,000 kms",Diesel,First Owner,Noida,6 Lakh*
+1719,Chevrolet,Beat,Diesel LS,2013,"80,000 kms",Diesel,First Owner,Noida,1.6 Lakh*
+1720,Chevrolet,Beat,Diesel PS,2014,"53,184 kms",Diesel,Second Owner,Noida,1.45 Lakh*
+1721,Nissan,Micra,XL,2011,"59,000 kms",Petrol,First Owner,Noida,2.55 Lakh*
+1722,Nissan,Terrano,XE 85 PS,2014,"1,20,000 kms",Diesel,First Owner,Noida,4.15 Lakh*
+1723,Nissan,Micra Active,XV,2017,"60,000 kms",Petrol,Second Owner,Noida,2.85 Lakh*
+1724,BMW,5 Series,520i,2012,"70,000 kms",Petrol,Third Owner,Noida,9.5 Lakh*
+1725,BMW,3 Series,328i Sport Line,2012,"70,000 kms",Petrol,Third Owner,Noida,12.5 Lakh*
+1726,Datsun,RediGO,A,2019,"15,598 Kms",Petrol,1st Owner,Noida,"2,70,000"
+1727,Datsun,RediGO,T Option,2017,"18,000 kms",Petrol,First Owner,Noida,2.95 Lakh*
+1728,Fiat,Linea,1.3 Multijet Dynamic,2015,"52,000 kms",Diesel,First Owner,Noida,3.75 Lakh*
+1729,Jaguar,XF,3.0 Litre S Premium Luxury,2011,"63,000 kms",Diesel,Second Owner,Noida,12 Lakh*
+1730,Mahindra-Ssangyong,--,RX7,2013 Mahindra Ssangyong Rexton,"75,000 kms",Diesel,Second Owner,Noida,6.25 Lakh*
+1731,Isuzu,MU-X,2WD,2017,"35,000 kms",Diesel,First Owner,Noida,17.75 Lakh*
+1732,MG,Hector,Sharp AT BSIV,2020,"5,500 kms",Petrol,First Owner,Noida,18.75 Lakh*
+1733,Maruti,Wagon R,VXI BS IV,2014,,--,--,Pune,--
+1734,Maruti,Celerio,VXI CNG BSIV,2018,"35,739 Kms",CNG,1st Owner,Pune,"5,05,000"
+1735,Maruti,Baleno,1.2 CVT Alpha,2018,"24,229 Kms",Petrol,2nd Owner,Pune,"8,01,500"
+1736,Maruti,Baleno,1.2 Delta,2016,"59,044 Kms",Petrol,1st Owner,Pune,"5,80,500"
+1737,Maruti,Baleno,1.2 Delta,2016,"15,600 Kms",Petrol,1st Owner,Pune,"5,91,500"
+1738,Maruti,Swift Dzire,ZXI,2014,,--,--,Pune,--
+1739,Maruti,Wagon R,VXI,2018,"31,380 Kms",Petrol,1st Owner,Pune,"4,77,000"
+1740,Maruti,Wagon R,VXI,2017,"24,273 Kms",Petrol,1st Owner,Pune,"4,57,500"
+1741,Maruti,Wagon R,VXI 1.2 BSIV,2016,"29,722 Kms",Petrol,1st Owner,Pune,"4,23,500"
+1742,Maruti,Wagon R,VXI Opt,2017,"43,192 Kms",Petrol,1st Owner,Pune,"4,56,000"
+1743,Hyundai,i20,Petrol Spotz,2018,,--,--,Pune,--
+1744,Hyundai,Grand i10,Asta,2015,,--,--,Pune,--
+1745,Hyundai,Santro,Sportz AMT BSIV,2019,"4,521 Kms",Petrol,1st Owner,Pune,"6,04,500"
+1746,Hyundai,i20 Active,1.2 S,2015,"73,029 Kms",Petrol,2nd Owner,Pune,"4,69,500"
+1747,Hyundai,Grand i10,Sportz Petrol BSIV,2018,"13,426 Kms",Petrol,1st Owner,Pune,"5,58,000"
+1748,Hyundai,Santro,Sportz AMT BSIV,2019,"24,296 Kms",Petrol,1st Owner,Pune,"5,70,500"
+1749,Hyundai,Grand i10,1.2 Kappa Magna BSIV,2019,"1,171 Kms",Petrol,1st Owner,Pune,"5,97,500"
+1750,Hyundai,Grand i10,1.2 Kappa Magna BSIV,2018,"8,707 Kms",Petrol,1st Owner,Pune,"5,33,500"
+1751,Hyundai,i20 Active,1.2 S,2016,"41,696 Kms",Petrol,1st Owner,Pune,"5,75,000"
+1752,Hyundai,i20,Petrol CVT Asta,2018,"23,068 Kms",Petrol,1st Owner,Pune,"8,22,500"
+1753,Volkswagen,Polo,1.2 MPI Highline Plus,2017,"8,355 Kms",Petrol,1st Owner,Pune,"6,51,500"
+1754,Volkswagen,Polo,GT TSI,2014,"11,851 Kms",Petrol,1st Owner,Pune,"6,38,000"
+1755,Volkswagen,Vento,Diesel Highline,2013,"125,277 Kms",Diesel,2nd Owner,Pune,"4,08,000"
+1756,Volkswagen,Vento,Diesel Highline,2013,"99,655 kms",Diesel,Second Owner,Pune,4.5 Lakh*
+1757,Volkswagen,Vento,1.2 TSI Highline Plus AT,2015,"70,400 kms",Petrol,First Owner,Pune,5.35 Lakh*
+1758,Volkswagen,Vento,1.2 TSI Highline AT,2015,"57,000 kms",Petrol,First Owner,Pune,7 Lakh*
+1759,Volkswagen,CrossPolo,1.5 TDI,2015,"73,000 kms",Diesel,First Owner,Pune,6.5 Lakh*
+1760,Volkswagen,Vento,1.6 MPI ALL STAR,2017,"49,000 kms",Petrol,First Owner,Pune,7.3 Lakh*
+1761,Volkswagen,Polo,1.2 MPI Comfortline,2014,"42,397 kms",Petrol,First Owner,Pune,5.5 Lakh*
+1762,Volkswagen,CrossPolo,1.5 TDI,2015,"73,376 kms",Diesel,First Owner,Pune,6.25 Lakh*
+1763,Honda,Jazz,V,2016,"27,332 Kms",Petrol,2nd Owner,Pune,"5,59,500"
+1764,Honda,Jazz,1.2 V AT i VTEC,2017,"30,329 Kms",Petrol,1st Owner,Pune,"7,26,000"
+1765,Honda,Brio,1.2 S MT,2012,"87,437 Kms",Petrol,1st Owner,Pune,"3,28,500"
+1766,Honda,Jazz,1.2 V i VTEC,2015,"55,000 kms",Petrol,First Owner,Pune,6.25 Lakh*
+1767,Honda,City,1.5 S MT,2009,"72,000 kms",Petrol,Second Owner,Pune,3.25 Lakh*
+1768,Honda,Jazz,S,2012,"62,400 kms",Petrol,First Owner,Pune,3.65 Lakh*
+1769,Honda,City,i VTEC CVT SV,2014,"68,000 kms",Petrol,First Owner,Pune,6.5 Lakh*
+1770,Honda,City,i VTEC CVT SV,2014,"68,000 kms",Petrol,First Owner,Pune,6.5 Lakh*
+1771,Honda,City,1.5 S MT,2009,"72,000 kms",Petrol,Second Owner,Pune,3.25 Lakh*
+1772,Honda,Brio,S MT,2013,"70,557 kms",Petrol,First Owner,Pune,3.5 Lakh*
+1773,Toyota,Innova Crysta,2.4 ZX MT BSIV,2016,"70,370 Kms",Diesel,1st Owner,Pune,"17,49,500"
+1774,Toyota,Etios,V,2014,"77,000 kms",Petrol,Second Owner,Pune,4.35 Lakh*
+1775,Toyota,Yaris,G BSIV,2018,"23,643 kms",Petrol,First Owner,Pune,10 Lakh*
+1776,Toyota,Yaris,G BSIV,2018,"23,643 kms",Petrol,First Owner,Pune,10 Lakh*
+1777,Toyota,Etios,V,2014,"77,000 kms",Petrol,Second Owner,Pune,4.35 Lakh*
+1778,Toyota,Innova Crysta,2.4 VX MT,2018,"79,000 kms",Diesel,First Owner,Pune,17.25 Lakh*
+1779,Toyota,Innova,2.5 G (Diesel) 7 Seater,2013,"1,36,000 kms",Diesel,Second Owner,Pune,8.75 Lakh*
+1780,Toyota,Innova,2.5 G (Diesel) 7 Seater BS IV,2007,"1,08,000 kms",Diesel,First Owner,Pune,4.25 Lakh*
+1781,Toyota,Innova,2.5 GX (Diesel) 7 Seater,2015,"92,000 kms",Diesel,First Owner,Pune,11 Lakh*
+1782,Toyota,Corolla Altis,G,2011,"61,300 kms",Petrol,First Owner,Pune,5.5 Lakh*
+1783,Tata,Harrier,XZ,2019,"85,650 kms",Diesel,First Owner,Pune,15 Lakh*
+1784,Tata,Nano,CX,2012,"44,784 kms",Petrol,First Owner,Pune,"85,000*"
